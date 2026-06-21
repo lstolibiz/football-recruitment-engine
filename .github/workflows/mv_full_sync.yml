@@ -1,6 +1,6 @@
 name: Monthly MV Full Sync
                                                                                                                                                                
- "on":
+on:
     schedule:
       - cron: '0 3 1 * *'
     workflow_dispatch:                                                                                                                                         
