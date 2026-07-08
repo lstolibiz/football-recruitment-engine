@@ -41,9 +41,9 @@ from tm_client import TransfermarktClient
 TABLE = "players"
 COL_PK = "id"                       # primary key used for updates
 COL_NAME = "name"                   # player full name
-COL_CLUB = "club"                   # current club (used to disambiguate)
+COL_CLUB = "team_name"              # current club (used to disambiguate)
 COL_MARKET_VALUE = "market_value"   # numeric euros — the column we update
-COL_TM_ID = "transfermarkt_id"      # added by migration; cached TM id
+COL_TM_ID = "transfermarkt_id"      # existing column; cached TM player id
 # Optional: set to None if you don't want a per-row sync timestamp written.
 COL_TM_SYNCED_AT = "tm_synced_at"
 # ============================================================================
