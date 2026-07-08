@@ -33,6 +33,16 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
+      - name: Preflight — check secrets are visible
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
+          TM_API_BASE_URL: ${{ secrets.TM_API_BASE_URL }}
+        run: |
+          echo "SUPABASE_URL set:        ${SUPABASE_URL:+yes}${SUPABASE_URL:-NO}"
+          echo "SUPABASE_SERVICE_KEY set: ${SUPABASE_SERVICE_KEY:+yes}${SUPABASE_SERVICE_KEY:-NO}"
+          echo "TM_API_BASE_URL set:     ${TM_API_BASE_URL:+yes}${TM_API_BASE_URL:-NO}"
+
       - name: Sync market values from Transfermarkt
         env:
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
