@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+mv_review.json
+.venv/

@@ -1,37 +1,51 @@
-name: Monthly MV Full Sync                                                                                                                                                                 
-   
-on:                                                                                                                                                                                        
-    schedule:                                                                                                                                                                              
-      - cron: '0 3 1 * *'
-    workflow_dispatch:                                                                                                                                                                       
-   
-  jobs:                                                                                                                                                                                      
-    sync:                                                                                                                                                                                  
-      runs-on: ubuntu-latest
-      timeout-minutes: 360
+name: Monthly Market Value Sync
 
-      steps:
-        - name: Checkout
-          uses: actions/checkout@v4                                                                                                                                                          
-   
-        - name: Set up Python                                                                                                                                                                
-          uses: actions/setup-python@v5                                                                                                                                                    
-          with:
-            python-version: '3.11'
-            cache: 'pip'                                                                                                                                                                     
-   
-        - name: Install dependencies                                                                                                                                                         
-          run: pip install -r requirements.txt                                                                                                                                             
+on:
+  schedule:
+    - cron: '0 3 1 * *'   # 03:00 UTC on the 1st of each month
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Compute + report only, write nothing to the DB'
+        type: boolean
+        default: false
+      limit:
+        description: 'Cap number of players processed (blank = all)'
+        type: string
+        default: ''
 
-        - name: Full MV sync (scrapes TM directly)                                                                                                                                           
-          env:
-            SUPABASE_URL: ${{ secrets.SUPABASE_URL }}                                                                                                                                        
-            SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}                                                                                                                        
-            TM_DELAY: '0.5'
-          run: python3 scripts/sync_all_market_values.py                                                                                                                                     
-                                                                                                                                                                                             
-        - name: Clean outlier MVs                                                                                                                                                            
-          env:                                                                                                                                                                               
-            SUPABASE_URL: ${{ secrets.SUPABASE_URL }}                                                                                                                                      
-            SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}                                                                                                                        
-          run: python3 scripts/clean_outlier_mvs.py
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Sync market values from Transfermarkt
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
+          TM_API_BASE_URL: ${{ secrets.TM_API_BASE_URL }}
+          TM_DELAY: '0.5'
+          DRY_RUN: ${{ inputs.dry_run && '1' || '0' }}
+          SYNC_LIMIT: ${{ inputs.limit }}
+        run: python3 scripts/sync_market_values.py
+
+      - name: Upload review report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: mv-review-report
+          path: mv_review.json
+          if-no-files-found: ignore
