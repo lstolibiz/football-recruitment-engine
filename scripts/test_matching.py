@@ -74,6 +74,31 @@ def test_ambiguous_when_no_db_club():
     assert res.reason == "ambiguous_no_db_club"
 
 
+def test_tm_shortens_full_legal_name():
+    # DB holds the full legal name; TM uses a shorter common name.
+    res = match_player(
+        "Esnaider Eliecer Cabezas Castillo", "Guayaquil City",
+        [_c("682082", "Esnáider Cabezas", "Guayaquil City FC", 225000)],
+    )
+    assert res.candidate is not None and res.candidate.tm_id == "682082"
+
+    res2 = match_player(
+        "Jonathan Vidal Ramos Benitez", "Sportivo Luqueño",
+        [_c("1375809", "Jonathan Ramos", "Sportivo Luqueño", 350000)],
+    )
+    assert res2.candidate is not None
+
+
+def test_lone_common_first_name_not_matched():
+    # A single shared common token must NOT match (would match everyone).
+    res = match_player(
+        "Rodrigo Hernandez", "Manchester City",
+        [_c("1", "Rodrigo", "Real Betis")],
+    )
+    # "rodrigo" alone (1 token) is not enough substance to auto-accept.
+    assert res.candidate is None
+
+
 if __name__ == "__main__":
     import sys
     fns = [v for k, v in sorted(globals().items()) if k.startswith("test_")]

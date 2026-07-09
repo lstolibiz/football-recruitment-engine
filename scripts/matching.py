@@ -113,10 +113,17 @@ def _name_matches(a: str, b: str) -> bool:
         return False
     if a == b:
         return True
-    # Accept when one is a subset of the other's tokens (e.g. "Rodri" vs
-    # "Rodrigo Hernandez") only if the overlap is high enough.
     ta, tb = set(a.split()), set(b.split())
     if not ta or not tb:
         return False
+    # Transfermarkt frequently shortens full legal names — the DB may hold
+    # "Esnaider Eliecer Cabezas Castillo" while TM lists "Esnáider Cabezas".
+    # Accept when one name's tokens are fully contained in the other's, as long
+    # as the shorter side has real substance (>= 2 tokens, to avoid a lone
+    # common first name matching everyone). Club confirmation still guards the
+    # multi-candidate case upstream.
+    shorter, longer = (ta, tb) if len(ta) <= len(tb) else (tb, ta)
+    if len(shorter) >= 2 and shorter <= longer:
+        return True
     overlap = len(ta & tb) / len(ta | tb)
     return overlap >= NAME_MATCH_MIN
