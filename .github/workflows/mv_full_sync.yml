@@ -17,7 +17,6 @@ on:
 jobs:
   sync:
     runs-on: ubuntu-latest
-    environment: production
     timeout-minutes: 360
 
     steps:
