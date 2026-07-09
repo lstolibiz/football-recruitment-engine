@@ -54,6 +54,10 @@ REVIEW_PATH = os.environ.get("REVIEW_PATH", "mv_review.json")
 
 def env(name: str, required: bool = True, default: str | None = None) -> str | None:
     val = os.environ.get(name, default)
+    if val is not None:
+        # Secrets pasted via a UI often carry trailing newlines/spaces that
+        # break strict validators (e.g. Supabase's JWT format check).
+        val = val.strip()
     if required and not val:
         sys.exit(f"Missing required env var: {name}")
     return val
