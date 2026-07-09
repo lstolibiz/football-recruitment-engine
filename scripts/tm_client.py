@@ -52,14 +52,21 @@ class TMCandidate:
 _MV_RE = re.compile(r"€?\s*([\d.,]+)\s*([mk]?)", re.IGNORECASE)
 
 
-def parse_market_value(raw: Optional[str]) -> Optional[int]:
-    """Convert a TM market-value string to an integer number of euros.
+def parse_market_value(raw) -> Optional[int]:
+    """Convert a TM market value to an integer number of euros.
 
-    "€35.00m" -> 35_000_000 ; "€900k" -> 900_000 ; "-"/""/None -> None
+    The API returns this already coerced to an int (e.g. 35000000); older/other
+    shapes return strings ("€35.00m", "€900k"). Handle both.
+
+    35000000 -> 35_000_000 ; "€35.00m" -> 35_000_000 ; "-"/""/None -> None
     """
-    if not raw:
+    if raw is None:
         return None
-    raw = raw.strip()
+    if isinstance(raw, bool):
+        return None
+    if isinstance(raw, (int, float)):
+        return int(raw)
+    raw = str(raw).strip()
     if raw in {"-", "–", ""}:
         return None
     m = _MV_RE.search(raw)
