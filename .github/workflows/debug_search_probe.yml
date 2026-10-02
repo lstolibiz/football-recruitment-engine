@@ -1,0 +1,29 @@
+name: Debug search probe (temporary)
+on:
+  push:
+    branches: [claude/eager-allen-gvz5as]
+    paths: ['.github/workflows/debug_search_probe.yml']
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - name: Check live search (waits for the new deploy)
+        run: |
+          API=https://football-recruitment-engine-production.up.railway.app
+          check() {
+            curl -sS -m 120 -X POST "$API/api/search" -H 'Content-Type: application/json' \
+              -d "{\"prompt\": \"$1\", \"min_minutes\": 450, \"exclude_injured\": false, \"offset\": 0}" -o r.json
+            python3 -c "
+          import json; r=json.load(open('r.json')); q=r.get('query_interpretation') or {}
+          print('$1 =>', 'total_found', r.get('total_found'), '| leagues', q.get('leagues'), '| top', [p['name']+' ('+p['league_name']+')' for p in r.get('players',[])[:3]])
+          import sys; sys.exit(0 if (r.get('total_found') or 0) > 20 else 1)"
+          }
+          curl -sS -m 30 "$API/api/health"; echo
+          for i in $(seq 1 30); do
+            if check "Holding midfielder with low fouls committed and strong interceptions per 90"; then
+              check "striker with 0.5 goals per game"; check "fullback in the A-League"; check "young left winger under 23"; exit 0
+            fi
+            echo "  not fixed yet (attempt $i)"; sleep 40
+          done
+          exit 1
