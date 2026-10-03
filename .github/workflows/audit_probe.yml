@@ -1,0 +1,33 @@
+name: Launch audit — production probe (temporary)
+on:
+  push:
+    branches: [claude/eager-allen-gvz5as]
+    paths: ['audit/requests/**']
+permissions:
+  contents: write
+concurrency:
+  group: audit-probe
+  cancel-in-progress: false
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - uses: actions/checkout@v4
+        with: { fetch-depth: 2 }
+      - name: Run new request batches against production
+        run: |
+          set -e
+          FILES=$(git diff --name-only HEAD~1 HEAD -- audit/requests | grep '\.jsonl$' || true)
+          echo "batches: $FILES"
+          mkdir -p /tmp/out && cd /tmp/out
+          for f in $FILES; do [ -f "$GITHUB_WORKSPACE/$f" ] && python3 -u "$GITHUB_WORKSPACE/audit/run_probe.py" "$GITHUB_WORKSPACE/$f"; done
+      - name: Save results to the audit-results branch
+        run: |
+          cd $GITHUB_WORKSPACE
+          git config user.name "audit-bot"; git config user.email "audit-bot@users.noreply.github.com"
+          git fetch origin audit-results || true
+          git worktree add /tmp/res -B audit-results origin/audit-results 2>/dev/null || (git worktree add --orphan -b audit-results /tmp/res || git worktree add /tmp/res -b audit-results)
+          mkdir -p /tmp/res/results && cp /tmp/out/results/*.jsonl /tmp/res/results/ 2>/dev/null || true
+          cd /tmp/res && git add -A results && git commit -m "audit results $(date -u +%FT%TZ)" && \
+            for i in 1 2 3; do git push origin audit-results && break; git pull --rebase origin audit-results; done

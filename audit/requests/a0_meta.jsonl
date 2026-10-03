@@ -1,0 +1,6 @@
+{"id": "leagues", "method": "GET", "path": "/api/leagues"}
+{"id": "stats", "method": "GET", "path": "/api/stats"}
+{"id": "formations", "method": "GET", "path": "/api/formations"}
+{"id": "archetypes", "method": "GET", "path": "/api/archetypes"}
+{"id": "sg_formations", "method": "GET", "path": "/api/squad-gap/formations"}
+{"id": "health", "method": "GET", "path": "/api/health"}
