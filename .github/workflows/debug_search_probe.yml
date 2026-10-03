@@ -8,20 +8,18 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - run: |
-          API=https://football-recruitment-engine-production.up.railway.app
-          for P in "Creative #10 in Italian Serie A with high chance creation and dribble success rate" \
-                   "Creative #10 in Serie A" "attacking midfielder in Italian Serie A" "attacking midfielder in Serie A (Italy)"; do
-            echo "=================== $P"
-            python3 - "$P" <<'PY'
-          import json, sys, urllib.request
-          p = sys.argv[1]
-          req = urllib.request.Request("https://football-recruitment-engine-production.up.railway.app/api/search",
-              data=json.dumps({"prompt": p, "min_minutes": 450, "position": "CAM", "exclude_injured": False, "offset": 0}).encode(),
-              headers={"Content-Type": "application/json"})
-          r = json.load(urllib.request.urlopen(req, timeout=180))
-          q = r.get("query_interpretation") or {}
-          print("total_found", r.get("total_found"), "| message", r.get("message"), "| relaxed", r.get("relaxed_filters"))
-          print(json.dumps({k: q.get(k) for k in ("position_group","detailed_position","archetypes","leagues","nationalities","stat_filters","keyword_boosts","keywords_detected","max_market_value","age_min","age_max","unsupported_metrics")}, ensure_ascii=False))
-          for x in (r.get("players") or [])[:3]: print(" -", x["name"], "|", x.get("detailed_position"), "|", x["league_name"])
+          python3 - <<'PY'
+          import json, urllib.request
+          API = "https://football-recruitment-engine-production.up.railway.app"
+          L = json.load(urllib.request.urlopen(API + "/api/leagues", timeout=180))
+          print("ITALY GROUP:", json.dumps(L.get("Italy") if isinstance(L, dict) else None, ensure_ascii=False))
+          flat = [x for v in (L.values() if isinstance(L, dict) else []) for x in (v if isinstance(v, list) else [])]
+          print("LEAGUES WITH serie/ital:", [x for x in flat if "serie" in x.lower() or "ital" in x.lower()])
+          for p in ["attacking midfielder", "striker in Serie A", "attacking midfielder in Serie B (Italy)"]:
+              req = urllib.request.Request(API + "/api/search", data=json.dumps({"prompt": p, "min_minutes": 450, "offset": 0}).encode(), headers={"Content-Type": "application/json"})
+              r = json.load(urllib.request.urlopen(req, timeout=180))
+              q = r.get("query_interpretation") or {}
+              print("==", p, "| total", r.get("total_found"), "| leagues", q.get("leagues"))
+              from collections import Counter
+              print("   leagues of results:", Counter(x["league_name"] for x in r.get("players") or []).most_common(8))
           PY
-          done
