@@ -6,25 +6,22 @@ on:
 jobs:
   probe:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 20
     steps:
       - run: |
           python3 -u - <<'PY'
-          import json, time, urllib.request
-          from collections import Counter
+          import json, urllib.request
           API = "https://football-recruitment-engine-production.up.railway.app"
-          def s(p):
-              t = time.time()
-              req = urllib.request.Request(API + "/api/search", data=json.dumps({"prompt": p, "min_minutes": 450, "offset": 0}).encode(), headers={"Content-Type": "application/json"})
-              try:
-                  r = json.load(urllib.request.urlopen(req, timeout=120))
-              except Exception as e:
-                  print("   error after", round(time.time() - t), "s:", e); return {}
-              print("   (", round(time.time() - t), "s )"); return r
-          print("health:", urllib.request.urlopen(API + "/api/health", timeout=60).read()[:200])
-          for p in ["Creative #10 in Italian Serie A with high chance creation and dribble success rate", "striker in Premier League", "striker in Serie A", "striker who scores goals"]:
-              r = s(p)
-              print("==", p, "| total", r.get("total_found"), "| msg", r.get("message"))
-              print("   top:", [(x["name"], x["league_name"]) for x in (r.get("players") or [])[:3]])
-              print("   leagues:", Counter(x["league_name"] for x in r.get("players") or []).most_common(6))
+          def s(p, mm):
+              req = urllib.request.Request(API + "/api/search", data=json.dumps({"prompt": p, "min_minutes": mm, "offset": 0}).encode(), headers={"Content-Type": "application/json"})
+              try: return json.load(urllib.request.urlopen(req, timeout=120))
+              except Exception as e: return {"err": str(e)}
+          for lg in ["Premier League", "Bundesliga", "La Liga", "Serie A", "Ligue 1", "Eredivisie", "Liga Portugal", "Championship", "Major League Soccer"]:
+              row = []
+              for pos in ["striker", "central midfielder", "centre back", "goalkeeper"]:
+                  r = s(f"{pos} in {lg}", 0)
+                  pl = r.get("players") or []
+                  mx = max([((x.get("stats") or {}).get("minutes_played") or 0) for x in pl] or [0])
+                  row.append(f"{pos}: {r.get('total_found')} (max {mx:.0f} min)")
+              print(f"{lg:22s} | " + " | ".join(row))
           PY
