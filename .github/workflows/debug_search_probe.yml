@@ -14,7 +14,11 @@ jobs:
           API = "https://football-recruitment-engine-production.up.railway.app"
           def s(p):
               req = urllib.request.Request(API + "/api/search", data=json.dumps({"prompt": p, "min_minutes": 450, "offset": 0}).encode(), headers={"Content-Type": "application/json"})
-              return json.load(urllib.request.urlopen(req, timeout=180))
+              try:
+                  return json.load(urllib.request.urlopen(req, timeout=180))
+              except Exception as e:
+                  print("   error:", e); return {}
+          time.sleep(150)
           for i in range(40):
               r = s("Creative #10 in Italian Serie A with high chance creation and dribble success rate")
               if (r.get("total_found") or 0) > 0: break
