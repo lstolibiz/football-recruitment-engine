@@ -1,0 +1,745 @@
+{"id": "s0000", "tag": "role:gk", "method": "POST", "path": "/api/search", "body": {"prompt": "Sweeper keeper in the Scottish Premiership under 23", "min_minutes": 450, "offset": 0}}
+{"id": "s0001", "tag": "role:gk", "method": "POST", "path": "/api/search", "body": {"prompt": "Sweeper keeper in the Championship aged 18-21 good in the air", "min_minutes": 450, "offset": 0}}
+{"id": "s0002", "tag": "role:gk", "method": "POST", "path": "/api/search", "body": {"prompt": "Sweeper keeper in the Brasileirão quick", "min_minutes": 450, "offset": 0}}
+{"id": "s0003", "tag": "role:gk", "method": "POST", "path": "/api/search", "body": {"prompt": "Sweeper keeper in the Ekstraklasa in his prime (25-29) bargain", "min_minutes": 450, "offset": 0}}
+{"id": "s0004", "tag": "role:gk", "method": "POST", "path": "/api/search", "body": {"prompt": "Sweeper keeper from Super Lig younger than 25", "min_minutes": 450, "offset": 0}}
+{"id": "s0005", "tag": "role:gk", "method": "POST", "path": "/api/search", "body": {"prompt": "Sweeper keeper from League One", "min_minutes": 450, "offset": 0}}
+{"id": "s0006", "tag": "role:gk", "method": "POST", "path": "/api/search", "body": {"prompt": "Sweeper keeper experienced, over 30", "min_minutes": 450, "offset": 0}}
+{"id": "s0007", "tag": "role:gk", "method": "POST", "path": "/api/search", "body": {"prompt": "Sweeper keeper in the the Balkans with leadership Bosman target", "min_minutes": 450, "offset": 0}}
+{"id": "s0008", "tag": "role:gk", "method": "POST", "path": "/api/search", "body": {"prompt": "Sweeper keeper from Africa", "min_minutes": 450, "offset": 0}}
+{"id": "s0009", "tag": "role:gk", "method": "POST", "path": "/api/search", "body": {"prompt": "Shot-stopping goalkeeper in the Danish Superliga U23 loan option", "min_minutes": 450, "offset": 0}}
+{"id": "s0010", "tag": "role:gk", "method": "POST", "path": "/api/search", "body": {"prompt": "Shot-stopping goalkeeper in the South America younger than 25 on a free transfer", "min_minutes": 450, "offset": 0}}
+{"id": "s0011", "tag": "role:gk", "method": "POST", "path": "/api/search", "body": {"prompt": "Shot-stopping goalkeeper from Swiss Super League under 23 right-footed", "min_minutes": 450, "offset": 0}}
+{"id": "s0012", "tag": "role:gk", "method": "POST", "path": "/api/search", "body": {"prompt": "Shot-stopping goalkeeper in the the Balkans U23 loan option", "min_minutes": 450, "offset": 0}}
+{"id": "s0013", "tag": "role:gk", "method": "POST", "path": "/api/search", "body": {"prompt": "Shot-stopping goalkeeper budget £2m", "min_minutes": 450, "offset": 0}}
+{"id": "s0014", "tag": "role:gk", "method": "POST", "path": "/api/search", "body": {"prompt": "Shot-stopping goalkeeper from Segunda under 23", "min_minutes": 450, "offset": 0}}
+{"id": "s0015", "tag": "role:gk", "method": "POST", "path": "/api/search", "body": {"prompt": "Shot-stopping goalkeeper from Ligue 2 value for money good in the air out of contract next summer", "min_minutes": 450, "offset": 0}}
+{"id": "s0016", "tag": "role:gk", "method": "POST", "path": "/api/search", "body": {"prompt": "Shot-stopping goalkeeper from Saudi Pro League entering the last year of his deal", "min_minutes": 450, "offset": 0}}
+{"id": "s0017", "tag": "role:gk", "method": "POST", "path": "/api/search", "body": {"prompt": "Shot-stopping goalkeeper under €1m two-footed Bosman target", "min_minutes": 450, "offset": 0}}
+{"id": "s0018", "tag": "role:gk", "method": "POST", "path": "/api/search", "body": {"prompt": "Commanding keeper good in the air disciplined, few cards", "min_minutes": 450, "offset": 0}}
+{"id": "s0019", "tag": "role:gk", "method": "POST", "path": "/api/search", "body": {"prompt": "Commanding keeper good in the air from USL Championship aged 18-21", "min_minutes": 450, "offset": 0}}
+{"id": "s0020", "tag": "role:gk", "method": "POST", "path": "/api/search", "body": {"prompt": "Commanding keeper good in the air in the Eastern Europe out of contract next summer", "min_minutes": 450, "offset": 0}}
+{"id": "s0021", "tag": "role:gk", "method": "POST", "path": "/api/search", "body": {"prompt": "Commanding keeper good in the air in the Croatian league aged 18-21 value for money two-footed", "min_minutes": 450, "offset": 0}}
+{"id": "s0022", "tag": "role:gk", "method": "POST", "path": "/api/search", "body": {"prompt": "Commanding keeper good in the air aged 18-21 free agent over 185cm", "min_minutes": 450, "offset": 0}}
+{"id": "s0023", "tag": "role:gk", "method": "POST", "path": "/api/search", "body": {"prompt": "Commanding keeper good in the air free agent contract expiring 2027", "min_minutes": 450, "offset": 0}}
+{"id": "s0024", "tag": "role:gk", "method": "POST", "path": "/api/search", "body": {"prompt": "Commanding keeper good in the air in the MLS under 21 Bosman target", "min_minutes": 450, "offset": 0}}
+{"id": "s0025", "tag": "role:gk", "method": "POST", "path": "/api/search", "body": {"prompt": "Commanding keeper good in the air from La Liga aged 18-21 quick", "min_minutes": 450, "offset": 0}}
+{"id": "s0026", "tag": "role:gk", "method": "POST", "path": "/api/search", "body": {"prompt": "Commanding keeper good in the air from Brasileirão left-footed", "min_minutes": 450, "offset": 0}}
+{"id": "s0027", "tag": "role:gk", "method": "POST", "path": "/api/search", "body": {"prompt": "Goalkeeper comfortable with the ball at his feet free agent", "min_minutes": 450, "offset": 0}}
+{"id": "s0028", "tag": "role:gk", "method": "POST", "path": "/api/search", "body": {"prompt": "Goalkeeper comfortable with the ball at his feet under 21 presses aggressively", "min_minutes": 450, "offset": 0}}
+{"id": "s0029", "tag": "role:gk", "method": "POST", "path": "/api/search", "body": {"prompt": "Goalkeeper comfortable with the ball at his feet from Croatian league good in the air", "min_minutes": 450, "offset": 0}}
+{"id": "s0030", "tag": "role:gk", "method": "POST", "path": "/api/search", "body": {"prompt": "Goalkeeper comfortable with the ball at his feet from Danish Superliga teenager", "min_minutes": 450, "offset": 0}}
+{"id": "s0031", "tag": "role:gk", "method": "POST", "path": "/api/search", "body": {"prompt": "Goalkeeper comfortable with the ball at his feet from Ligue 2 U23 tall", "min_minutes": 450, "offset": 0}}
+{"id": "s0032", "tag": "role:gk", "method": "POST", "path": "/api/search", "body": {"prompt": "Goalkeeper comfortable with the ball at his feet from League One", "min_minutes": 450, "offset": 0}}
+{"id": "s0033", "tag": "role:gk", "method": "POST", "path": "/api/search", "body": {"prompt": "Goalkeeper comfortable with the ball at his feet 24 or under under £10m injury-free", "min_minutes": 450, "offset": 0}}
+{"id": "s0034", "tag": "role:gk", "method": "POST", "path": "/api/search", "body": {"prompt": "Goalkeeper comfortable with the ball at his feet loan option", "min_minutes": 450, "offset": 0}}
+{"id": "s0035", "tag": "role:gk", "method": "POST", "path": "/api/search", "body": {"prompt": "Goalkeeper comfortable with the ball at his feet in the Jupiler Pro League 24 or under", "min_minutes": 450, "offset": 0}}
+{"id": "s0036", "tag": "role:gk", "method": "POST", "path": "/api/search", "body": {"prompt": "Number 1 goalkeeper with high save percentage from Asia with a high ceiling, 19 years old on a free transfer tall", "min_minutes": 450, "offset": 0}}
+{"id": "s0037", "tag": "role:gk", "method": "POST", "path": "/api/search", "body": {"prompt": "Number 1 goalkeeper with high save percentage in the La Liga cheap", "min_minutes": 450, "offset": 0}}
+{"id": "s0038", "tag": "role:gk", "method": "POST", "path": "/api/search", "body": {"prompt": "Number 1 goalkeeper with high save percentage from Jupiler Pro League under €1m strong in duels", "min_minutes": 450, "offset": 0}}
+{"id": "s0039", "tag": "role:gk", "method": "POST", "path": "/api/search", "body": {"prompt": "Number 1 goalkeeper with high save percentage in the Serie A free agent", "min_minutes": 450, "offset": 0}}
+{"id": "s0040", "tag": "role:gk", "method": "POST", "path": "/api/search", "body": {"prompt": "Number 1 goalkeeper with high save percentage in the Africa", "min_minutes": 450, "offset": 0}}
+{"id": "s0041", "tag": "role:gk", "method": "POST", "path": "/api/search", "body": {"prompt": "Number 1 goalkeeper with high save percentage in the Eliteserien under 21 with leadership", "min_minutes": 450, "offset": 0}}
+{"id": "s0042", "tag": "role:gk", "method": "POST", "path": "/api/search", "body": {"prompt": "Number 1 goalkeeper with high save percentage from MLS", "min_minutes": 450, "offset": 0}}
+{"id": "s0043", "tag": "role:gk", "method": "POST", "path": "/api/search", "body": {"prompt": "Number 1 goalkeeper with high save percentage from Ligue 2 bargain", "min_minutes": 450, "offset": 0}}
+{"id": "s0044", "tag": "role:gk", "method": "POST", "path": "/api/search", "body": {"prompt": "Number 1 goalkeeper with high save percentage from Belgian Pro League U23 under €1m", "min_minutes": 450, "offset": 0}}
+{"id": "s0045", "tag": "role:gk", "method": "POST", "path": "/api/search", "body": {"prompt": "Young keeper with distribution younger than 25", "min_minutes": 450, "offset": 0}}
+{"id": "s0046", "tag": "role:gk", "method": "POST", "path": "/api/search", "body": {"prompt": "Young keeper with distribution in the Scottish Premiership good on the ball", "min_minutes": 450, "offset": 0}}
+{"id": "s0047", "tag": "role:gk", "method": "POST", "path": "/api/search", "body": {"prompt": "Young keeper with distribution under 21 cheap consistent free agent this window", "min_minutes": 450, "offset": 0}}
+{"id": "s0048", "tag": "role:gk", "method": "POST", "path": "/api/search", "body": {"prompt": "Young keeper with distribution from Danish Superliga with a high ceiling, 19 years old loan option right-footed", "min_minutes": 450, "offset": 0}}
+{"id": "s0049", "tag": "role:gk", "method": "POST", "path": "/api/search", "body": {"prompt": "Young keeper with distribution from Czech First League Bosman target", "min_minutes": 450, "offset": 0}}
+{"id": "s0050", "tag": "role:gk", "method": "POST", "path": "/api/search", "body": {"prompt": "Young keeper with distribution from Ekstraklasa injury-free", "min_minutes": 450, "offset": 0}}
+{"id": "s0051", "tag": "role:gk", "method": "POST", "path": "/api/search", "body": {"prompt": "Young keeper with distribution in the Africa under 23 value for money", "min_minutes": 450, "offset": 0}}
+{"id": "s0052", "tag": "role:gk", "method": "POST", "path": "/api/search", "body": {"prompt": "Young keeper with distribution on a free transfer", "min_minutes": 450, "offset": 0}}
+{"id": "s0053", "tag": "role:gk", "method": "POST", "path": "/api/search", "body": {"prompt": "Young keeper with distribution from USL Championship", "min_minutes": 450, "offset": 0}}
+{"id": "s0054", "tag": "role:cb", "method": "POST", "path": "/api/search", "body": {"prompt": "Ball-playing centre-half from Ligue 1 value for money", "min_minutes": 450, "offset": 0}}
+{"id": "s0055", "tag": "role:cb", "method": "POST", "path": "/api/search", "body": {"prompt": "Ball-playing centre-half good in the air contract expiring 2027", "min_minutes": 450, "offset": 0}}
+{"id": "s0056", "tag": "role:cb", "method": "POST", "path": "/api/search", "body": {"prompt": "Ball-playing centre-half in the Bundesliga teenager under £10m", "min_minutes": 450, "offset": 0}}
+{"id": "s0057", "tag": "role:cb", "method": "POST", "path": "/api/search", "body": {"prompt": "Ball-playing centre-half in the La Liga on a free transfer", "min_minutes": 450, "offset": 0}}
+{"id": "s0058", "tag": "role:cb", "method": "POST", "path": "/api/search", "body": {"prompt": "Ball-playing centre-half under 23", "min_minutes": 450, "offset": 0}}
+{"id": "s0059", "tag": "role:cb", "method": "POST", "path": "/api/search", "body": {"prompt": "Ball-playing centre-half from Brasileirão", "min_minutes": 450, "offset": 0}}
+{"id": "s0060", "tag": "role:cb", "method": "POST", "path": "/api/search", "body": {"prompt": "Ball-playing centre-half from A-League aged 18-21 disciplined, few cards", "min_minutes": 450, "offset": 0}}
+{"id": "s0061", "tag": "role:cb", "method": "POST", "path": "/api/search", "body": {"prompt": "Ball-playing centre-half in the Allsvenskan 24 or under on a free transfer over 185cm", "min_minutes": 450, "offset": 0}}
+{"id": "s0062", "tag": "role:cb", "method": "POST", "path": "/api/search", "body": {"prompt": "Ball-playing centre-half from Bundesliga 24 or under", "min_minutes": 450, "offset": 0}}
+{"id": "s0063", "tag": "role:cb", "method": "POST", "path": "/api/search", "body": {"prompt": "Dominant aerial centre back from NPL Victoria loan option entering the last year of his deal", "min_minutes": 450, "offset": 0}}
+{"id": "s0064", "tag": "role:cb", "method": "POST", "path": "/api/search", "body": {"prompt": "Dominant aerial centre back in the MLS", "min_minutes": 450, "offset": 0}}
+{"id": "s0065", "tag": "role:cb", "method": "POST", "path": "/api/search", "body": {"prompt": "Dominant aerial centre back in the J1 League 24 or under", "min_minutes": 450, "offset": 0}}
+{"id": "s0066", "tag": "role:cb", "method": "POST", "path": "/api/search", "body": {"prompt": "Dominant aerial centre back", "min_minutes": 450, "offset": 0}}
+{"id": "s0067", "tag": "role:cb", "method": "POST", "path": "/api/search", "body": {"prompt": "Dominant aerial centre back from 2. Bundesliga free agent consistent", "min_minutes": 450, "offset": 0}}
+{"id": "s0068", "tag": "role:cb", "method": "POST", "path": "/api/search", "body": {"prompt": "Dominant aerial centre back in the Super Lig in his prime (25-29) budget £2m", "min_minutes": 450, "offset": 0}}
+{"id": "s0069", "tag": "role:cb", "method": "POST", "path": "/api/search", "body": {"prompt": "Dominant aerial centre back from Liga Portugal", "min_minutes": 450, "offset": 0}}
+{"id": "s0070", "tag": "role:cb", "method": "POST", "path": "/api/search", "body": {"prompt": "Dominant aerial centre back under 21 disciplined, few cards", "min_minutes": 450, "offset": 0}}
+{"id": "s0071", "tag": "role:cb", "method": "POST", "path": "/api/search", "body": {"prompt": "Dominant aerial centre back in the Africa 24 or under loan option", "min_minutes": 450, "offset": 0}}
+{"id": "s0072", "tag": "role:cb", "method": "POST", "path": "/api/search", "body": {"prompt": "Left-footed centre back in the Eliteserien under 21", "min_minutes": 450, "offset": 0}}
+{"id": "s0073", "tag": "role:cb", "method": "POST", "path": "/api/search", "body": {"prompt": "Left-footed centre back from Eredivisie aged 18-21 cheap", "min_minutes": 450, "offset": 0}}
+{"id": "s0074", "tag": "role:cb", "method": "POST", "path": "/api/search", "body": {"prompt": "Left-footed centre back from League One in his prime (25-29) with sell-on value Bosman target", "min_minutes": 450, "offset": 0}}
+{"id": "s0075", "tag": "role:cb", "method": "POST", "path": "/api/search", "body": {"prompt": "Left-footed centre back 24 or under", "min_minutes": 450, "offset": 0}}
+{"id": "s0076", "tag": "role:cb", "method": "POST", "path": "/api/search", "body": {"prompt": "Left-footed centre back from South America with a high ceiling, 19 years old", "min_minutes": 450, "offset": 0}}
+{"id": "s0077", "tag": "role:cb", "method": "POST", "path": "/api/search", "body": {"prompt": "Left-footed centre back in the Belgian Pro League free agent presses aggressively", "min_minutes": 450, "offset": 0}}
+{"id": "s0078", "tag": "role:cb", "method": "POST", "path": "/api/search", "body": {"prompt": "Left-footed centre back in the J1 League under €5m", "min_minutes": 450, "offset": 0}}
+{"id": "s0079", "tag": "role:cb", "method": "POST", "path": "/api/search", "body": {"prompt": "Left-footed centre back from Scottish Premiership with leadership", "min_minutes": 450, "offset": 0}}
+{"id": "s0080", "tag": "role:cb", "method": "POST", "path": "/api/search", "body": {"prompt": "Left-footed centre back from Africa experienced, over 30 injury-free", "min_minutes": 450, "offset": 0}}
+{"id": "s0081", "tag": "role:cb", "method": "POST", "path": "/api/search", "body": {"prompt": "Aggressive stopper centre back in the NPL Victoria with a high ceiling, 19 years old", "min_minutes": 450, "offset": 0}}
+{"id": "s0082", "tag": "role:cb", "method": "POST", "path": "/api/search", "body": {"prompt": "Aggressive stopper centre back from Scottish Premiership aged 18-21 under €5m", "min_minutes": 450, "offset": 0}}
+{"id": "s0083", "tag": "role:cb", "method": "POST", "path": "/api/search", "body": {"prompt": "Aggressive stopper centre back free agent injury-free", "min_minutes": 450, "offset": 0}}
+{"id": "s0084", "tag": "role:cb", "method": "POST", "path": "/api/search", "body": {"prompt": "Aggressive stopper centre back 24 or under under €1m contract expiring 2027", "min_minutes": 450, "offset": 0}}
+{"id": "s0085", "tag": "role:cb", "method": "POST", "path": "/api/search", "body": {"prompt": "Aggressive stopper centre back disciplined, few cards contract expiring 2027", "min_minutes": 450, "offset": 0}}
+{"id": "s0086", "tag": "role:cb", "method": "POST", "path": "/api/search", "body": {"prompt": "Aggressive stopper centre back in the Brasileirão under 21 free agent two-footed", "min_minutes": 450, "offset": 0}}
+{"id": "s0087", "tag": "role:cb", "method": "POST", "path": "/api/search", "body": {"prompt": "Aggressive stopper centre back from League Two teenager with leadership Bosman target", "min_minutes": 450, "offset": 0}}
+{"id": "s0088", "tag": "role:cb", "method": "POST", "path": "/api/search", "body": {"prompt": "Aggressive stopper centre back from Liga Portugal free agent strong in duels", "min_minutes": 450, "offset": 0}}
+{"id": "s0089", "tag": "role:cb", "method": "POST", "path": "/api/search", "body": {"prompt": "Aggressive stopper centre back from La Liga under €5m two-footed out of contract next summer", "min_minutes": 450, "offset": 0}}
+{"id": "s0090", "tag": "role:cb", "method": "POST", "path": "/api/search", "body": {"prompt": "Ball-carrying CB who steps into midfield in the MLS teenager injury-free", "min_minutes": 450, "offset": 0}}
+{"id": "s0091", "tag": "role:cb", "method": "POST", "path": "/api/search", "body": {"prompt": "Ball-carrying CB who steps into midfield in the the Balkans younger than 25", "min_minutes": 450, "offset": 0}}
+{"id": "s0092", "tag": "role:cb", "method": "POST", "path": "/api/search", "body": {"prompt": "Ball-carrying CB who steps into midfield with a high ceiling, 19 years old max 500k", "min_minutes": 450, "offset": 0}}
+{"id": "s0093", "tag": "role:cb", "method": "POST", "path": "/api/search", "body": {"prompt": "Ball-carrying CB who steps into midfield in the Eliteserien", "min_minutes": 450, "offset": 0}}
+{"id": "s0094", "tag": "role:cb", "method": "POST", "path": "/api/search", "body": {"prompt": "Ball-carrying CB who steps into midfield in the Greek Super League contract expiring 2027", "min_minutes": 450, "offset": 0}}
+{"id": "s0095", "tag": "role:cb", "method": "POST", "path": "/api/search", "body": {"prompt": "Ball-carrying CB who steps into midfield with leadership", "min_minutes": 450, "offset": 0}}
+{"id": "s0096", "tag": "role:cb", "method": "POST", "path": "/api/search", "body": {"prompt": "Ball-carrying CB who steps into midfield", "min_minutes": 450, "offset": 0}}
+{"id": "s0097", "tag": "role:cb", "method": "POST", "path": "/api/search", "body": {"prompt": "Ball-carrying CB who steps into midfield in the Ligue 2 experienced, over 30 strong in duels", "min_minutes": 450, "offset": 0}}
+{"id": "s0098", "tag": "role:cb", "method": "POST", "path": "/api/search", "body": {"prompt": "Ball-carrying CB who steps into midfield in the Austrian Bundesliga 24 or under", "min_minutes": 450, "offset": 0}}
+{"id": "s0099", "tag": "role:cb", "method": "POST", "path": "/api/search", "body": {"prompt": "Covering centre back with recovery pace in the Greek Super League", "min_minutes": 450, "offset": 0}}
+{"id": "s0100", "tag": "role:cb", "method": "POST", "path": "/api/search", "body": {"prompt": "Covering centre back with recovery pace from Greek Super League presses aggressively", "min_minutes": 450, "offset": 0}}
+{"id": "s0101", "tag": "role:cb", "method": "POST", "path": "/api/search", "body": {"prompt": "Covering centre back with recovery pace in the J1 League over 185cm", "min_minutes": 450, "offset": 0}}
+{"id": "s0102", "tag": "role:cb", "method": "POST", "path": "/api/search", "body": {"prompt": "Covering centre back with recovery pace from Segunda teenager", "min_minutes": 450, "offset": 0}}
+{"id": "s0103", "tag": "role:cb", "method": "POST", "path": "/api/search", "body": {"prompt": "Covering centre back with recovery pace in the Liga Portugal out of contract next summer", "min_minutes": 450, "offset": 0}}
+{"id": "s0104", "tag": "role:cb", "method": "POST", "path": "/api/search", "body": {"prompt": "Covering centre back with recovery pace from K League", "min_minutes": 450, "offset": 0}}
+{"id": "s0105", "tag": "role:cb", "method": "POST", "path": "/api/search", "body": {"prompt": "Covering centre back with recovery pace in the Eredivisie", "min_minutes": 450, "offset": 0}}
+{"id": "s0106", "tag": "role:cb", "method": "POST", "path": "/api/search", "body": {"prompt": "Covering centre back with recovery pace from MLS with a high ceiling, 19 years old under €1m injury-free", "min_minutes": 450, "offset": 0}}
+{"id": "s0107", "tag": "role:cb", "method": "POST", "path": "/api/search", "body": {"prompt": "Covering centre back with recovery pace from Serie B experienced, over 30 on a free transfer", "min_minutes": 450, "offset": 0}}
+{"id": "s0108", "tag": "role:cb", "method": "POST", "path": "/api/search", "body": {"prompt": "Centre-half who wins headers good on the ball", "min_minutes": 450, "offset": 0}}
+{"id": "s0109", "tag": "role:cb", "method": "POST", "path": "/api/search", "body": {"prompt": "Centre-half who wins headers in the A-League", "min_minutes": 450, "offset": 0}}
+{"id": "s0110", "tag": "role:cb", "method": "POST", "path": "/api/search", "body": {"prompt": "Centre-half who wins headers with sell-on value", "min_minutes": 450, "offset": 0}}
+{"id": "s0111", "tag": "role:cb", "method": "POST", "path": "/api/search", "body": {"prompt": "Centre-half who wins headers with a high ceiling, 19 years old over 185cm", "min_minutes": 450, "offset": 0}}
+{"id": "s0112", "tag": "role:cb", "method": "POST", "path": "/api/search", "body": {"prompt": "Centre-half who wins headers in the A-League loan option", "min_minutes": 450, "offset": 0}}
+{"id": "s0113", "tag": "role:cb", "method": "POST", "path": "/api/search", "body": {"prompt": "Centre-half who wins headers", "min_minutes": 450, "offset": 0}}
+{"id": "s0114", "tag": "role:cb", "method": "POST", "path": "/api/search", "body": {"prompt": "Centre-half who wins headers from Czech First League U23 value for money", "min_minutes": 450, "offset": 0}}
+{"id": "s0115", "tag": "role:cb", "method": "POST", "path": "/api/search", "body": {"prompt": "Centre-half who wins headers in the La Liga quick", "min_minutes": 450, "offset": 0}}
+{"id": "s0116", "tag": "role:cb", "method": "POST", "path": "/api/search", "body": {"prompt": "Centre-half who wins headers under 21 bargain", "min_minutes": 450, "offset": 0}}
+{"id": "s0117", "tag": "role:cb", "method": "POST", "path": "/api/search", "body": {"prompt": "Right-sided centre back in a back three from Ligue 2 U23", "min_minutes": 450, "offset": 0}}
+{"id": "s0118", "tag": "role:cb", "method": "POST", "path": "/api/search", "body": {"prompt": "Right-sided centre back in a back three from Liga Portugal younger than 25", "min_minutes": 450, "offset": 0}}
+{"id": "s0119", "tag": "role:cb", "method": "POST", "path": "/api/search", "body": {"prompt": "Right-sided centre back in a back three in the Czech First League experienced, over 30", "min_minutes": 450, "offset": 0}}
+{"id": "s0120", "tag": "role:cb", "method": "POST", "path": "/api/search", "body": {"prompt": "Right-sided centre back in a back three", "min_minutes": 450, "offset": 0}}
+{"id": "s0121", "tag": "role:cb", "method": "POST", "path": "/api/search", "body": {"prompt": "Right-sided centre back in a back three in his prime (25-29)", "min_minutes": 450, "offset": 0}}
+{"id": "s0122", "tag": "role:cb", "method": "POST", "path": "/api/search", "body": {"prompt": "Right-sided centre back in a back three from Eastern Europe under 21", "min_minutes": 450, "offset": 0}}
+{"id": "s0123", "tag": "role:cb", "method": "POST", "path": "/api/search", "body": {"prompt": "Right-sided centre back in a back three from J1 League", "min_minutes": 450, "offset": 0}}
+{"id": "s0124", "tag": "role:cb", "method": "POST", "path": "/api/search", "body": {"prompt": "Right-sided centre back in a back three aged 18-21", "min_minutes": 450, "offset": 0}}
+{"id": "s0125", "tag": "role:cb", "method": "POST", "path": "/api/search", "body": {"prompt": "Right-sided centre back in a back three from the Nordics under 21 free agent high work rate", "min_minutes": 450, "offset": 0}}
+{"id": "s0126", "tag": "role:cb", "method": "POST", "path": "/api/search", "body": {"prompt": "Ball-playing CB comfortable under pressure in the MLS under 23", "min_minutes": 450, "offset": 0}}
+{"id": "s0127", "tag": "role:cb", "method": "POST", "path": "/api/search", "body": {"prompt": "Ball-playing CB comfortable under pressure in the Ligue 1 experienced, over 30 with sell-on value", "min_minutes": 450, "offset": 0}}
+{"id": "s0128", "tag": "role:cb", "method": "POST", "path": "/api/search", "body": {"prompt": "Ball-playing CB comfortable under pressure in the Liga Portugal", "min_minutes": 450, "offset": 0}}
+{"id": "s0129", "tag": "role:cb", "method": "POST", "path": "/api/search", "body": {"prompt": "Ball-playing CB comfortable under pressure in his prime (25-29) on a free transfer high work rate", "min_minutes": 450, "offset": 0}}
+{"id": "s0130", "tag": "role:cb", "method": "POST", "path": "/api/search", "body": {"prompt": "Ball-playing CB comfortable under pressure from the Nordics under €5m", "min_minutes": 450, "offset": 0}}
+{"id": "s0131", "tag": "role:cb", "method": "POST", "path": "/api/search", "body": {"prompt": "Ball-playing CB comfortable under pressure teenager budget £2m", "min_minutes": 450, "offset": 0}}
+{"id": "s0132", "tag": "role:cb", "method": "POST", "path": "/api/search", "body": {"prompt": "Ball-playing CB comfortable under pressure from Segunda under 21 free agent with leadership", "min_minutes": 450, "offset": 0}}
+{"id": "s0133", "tag": "role:cb", "method": "POST", "path": "/api/search", "body": {"prompt": "Ball-playing CB comfortable under pressure in the Eastern Europe", "min_minutes": 450, "offset": 0}}
+{"id": "s0134", "tag": "role:cb", "method": "POST", "path": "/api/search", "body": {"prompt": "Ball-playing CB comfortable under pressure from South America experienced, over 30", "min_minutes": 450, "offset": 0}}
+{"id": "s0135", "tag": "role:fb", "method": "POST", "path": "/api/search", "body": {"prompt": "Attacking right back in the Brasileirão high work rate", "min_minutes": 450, "offset": 0}}
+{"id": "s0136", "tag": "role:fb", "method": "POST", "path": "/api/search", "body": {"prompt": "Attacking right back in his prime (25-29) budget £2m", "min_minutes": 450, "offset": 0}}
+{"id": "s0137", "tag": "role:fb", "method": "POST", "path": "/api/search", "body": {"prompt": "Attacking right back in the the Nordics bargain over 185cm", "min_minutes": 450, "offset": 0}}
+{"id": "s0138", "tag": "role:fb", "method": "POST", "path": "/api/search", "body": {"prompt": "Attacking right back from Croatian league aged 18-21 over 185cm", "min_minutes": 450, "offset": 0}}
+{"id": "s0139", "tag": "role:fb", "method": "POST", "path": "/api/search", "body": {"prompt": "Attacking right back in the Serie B contract expiring 2027", "min_minutes": 450, "offset": 0}}
+{"id": "s0140", "tag": "role:fb", "method": "POST", "path": "/api/search", "body": {"prompt": "Attacking right back in the Belgian Pro League cheap strong in duels", "min_minutes": 450, "offset": 0}}
+{"id": "s0141", "tag": "role:fb", "method": "POST", "path": "/api/search", "body": {"prompt": "Attacking right back in the Swiss Super League on a free transfer right-footed", "min_minutes": 450, "offset": 0}}
+{"id": "s0142", "tag": "role:fb", "method": "POST", "path": "/api/search", "body": {"prompt": "Attacking right back value for money Bosman target", "min_minutes": 450, "offset": 0}}
+{"id": "s0143", "tag": "role:fb", "method": "POST", "path": "/api/search", "body": {"prompt": "Attacking right back U23 contract expiring 2027", "min_minutes": 450, "offset": 0}}
+{"id": "s0144", "tag": "role:fb", "method": "POST", "path": "/api/search", "body": {"prompt": "Inverted full-back in the Serie A teenager", "min_minutes": 450, "offset": 0}}
+{"id": "s0145", "tag": "role:fb", "method": "POST", "path": "/api/search", "body": {"prompt": "Inverted full-back in the USL Championship U23", "min_minutes": 450, "offset": 0}}
+{"id": "s0146", "tag": "role:fb", "method": "POST", "path": "/api/search", "body": {"prompt": "Inverted full-back in the Brasileirão", "min_minutes": 450, "offset": 0}}
+{"id": "s0147", "tag": "role:fb", "method": "POST", "path": "/api/search", "body": {"prompt": "Inverted full-back in the Danish Superliga max 500k", "min_minutes": 450, "offset": 0}}
+{"id": "s0148", "tag": "role:fb", "method": "POST", "path": "/api/search", "body": {"prompt": "Inverted full-back in the Liga MX 24 or under", "min_minutes": 450, "offset": 0}}
+{"id": "s0149", "tag": "role:fb", "method": "POST", "path": "/api/search", "body": {"prompt": "Inverted full-back in the Segunda in his prime (25-29)", "min_minutes": 450, "offset": 0}}
+{"id": "s0150", "tag": "role:fb", "method": "POST", "path": "/api/search", "body": {"prompt": "Inverted full-back in the Serbian SuperLiga free agent tall", "min_minutes": 450, "offset": 0}}
+{"id": "s0151", "tag": "role:fb", "method": "POST", "path": "/api/search", "body": {"prompt": "Inverted full-back in the Scottish Premiership", "min_minutes": 450, "offset": 0}}
+{"id": "s0152", "tag": "role:fb", "method": "POST", "path": "/api/search", "body": {"prompt": "Inverted full-back consistent entering the last year of his deal", "min_minutes": 450, "offset": 0}}
+{"id": "s0153", "tag": "role:fb", "method": "POST", "path": "/api/search", "body": {"prompt": "Overlapping left back who delivers crosses in the Ekstraklasa under 23", "min_minutes": 450, "offset": 0}}
+{"id": "s0154", "tag": "role:fb", "method": "POST", "path": "/api/search", "body": {"prompt": "Overlapping left back who delivers crosses from Championship with a high ceiling, 19 years old under £10m entering the last year of his deal", "min_minutes": 450, "offset": 0}}
+{"id": "s0155", "tag": "role:fb", "method": "POST", "path": "/api/search", "body": {"prompt": "Overlapping left back who delivers crosses from Serbian SuperLiga right-footed", "min_minutes": 450, "offset": 0}}
+{"id": "s0156", "tag": "role:fb", "method": "POST", "path": "/api/search", "body": {"prompt": "Overlapping left back who delivers crosses from J1 League tall", "min_minutes": 450, "offset": 0}}
+{"id": "s0157", "tag": "role:fb", "method": "POST", "path": "/api/search", "body": {"prompt": "Overlapping left back who delivers crosses from NPL Victoria younger than 25 under £10m out of contract next summer", "min_minutes": 450, "offset": 0}}
+{"id": "s0158", "tag": "role:fb", "method": "POST", "path": "/api/search", "body": {"prompt": "Overlapping left back who delivers crosses in the Serie A budget £2m strong in duels Bosman target", "min_minutes": 450, "offset": 0}}
+{"id": "s0159", "tag": "role:fb", "method": "POST", "path": "/api/search", "body": {"prompt": "Overlapping left back who delivers crosses in the Croatian league right-footed", "min_minutes": 450, "offset": 0}}
+{"id": "s0160", "tag": "role:fb", "method": "POST", "path": "/api/search", "body": {"prompt": "Overlapping left back who delivers crosses in the Danish Superliga", "min_minutes": 450, "offset": 0}}
+{"id": "s0161", "tag": "role:fb", "method": "POST", "path": "/api/search", "body": {"prompt": "Overlapping left back who delivers crosses in the Danish Superliga teenager", "min_minutes": 450, "offset": 0}}
+{"id": "s0162", "tag": "role:fb", "method": "POST", "path": "/api/search", "body": {"prompt": "Wing-back for a 3-5-2 in the Liga MX", "min_minutes": 450, "offset": 0}}
+{"id": "s0163", "tag": "role:fb", "method": "POST", "path": "/api/search", "body": {"prompt": "Wing-back for a 3-5-2 in the Ligue 1 U23 high work rate", "min_minutes": 450, "offset": 0}}
+{"id": "s0164", "tag": "role:fb", "method": "POST", "path": "/api/search", "body": {"prompt": "Wing-back for a 3-5-2 budget £2m good in the air out of contract next summer", "min_minutes": 450, "offset": 0}}
+{"id": "s0165", "tag": "role:fb", "method": "POST", "path": "/api/search", "body": {"prompt": "Wing-back for a 3-5-2 from Ligue 2", "min_minutes": 450, "offset": 0}}
+{"id": "s0166", "tag": "role:fb", "method": "POST", "path": "/api/search", "body": {"prompt": "Wing-back for a 3-5-2 from Serbian SuperLiga", "min_minutes": 450, "offset": 0}}
+{"id": "s0167", "tag": "role:fb", "method": "POST", "path": "/api/search", "body": {"prompt": "Wing-back for a 3-5-2 in the A-League younger than 25", "min_minutes": 450, "offset": 0}}
+{"id": "s0168", "tag": "role:fb", "method": "POST", "path": "/api/search", "body": {"prompt": "Wing-back for a 3-5-2 in the League One younger than 25 budget £2m", "min_minutes": 450, "offset": 0}}
+{"id": "s0169", "tag": "role:fb", "method": "POST", "path": "/api/search", "body": {"prompt": "Wing-back for a 3-5-2 from League One teenager", "min_minutes": 450, "offset": 0}}
+{"id": "s0170", "tag": "role:fb", "method": "POST", "path": "/api/search", "body": {"prompt": "Wing-back for a 3-5-2 in the La Liga out of contract next summer", "min_minutes": 450, "offset": 0}}
+{"id": "s0171", "tag": "role:fb", "method": "POST", "path": "/api/search", "body": {"prompt": "Defensively solid right back from Brasileirão", "min_minutes": 450, "offset": 0}}
+{"id": "s0172", "tag": "role:fb", "method": "POST", "path": "/api/search", "body": {"prompt": "Defensively solid right back from the Balkans contract expiring 2027", "min_minutes": 450, "offset": 0}}
+{"id": "s0173", "tag": "role:fb", "method": "POST", "path": "/api/search", "body": {"prompt": "Defensively solid right back in the Jupiler Pro League", "min_minutes": 450, "offset": 0}}
+{"id": "s0174", "tag": "role:fb", "method": "POST", "path": "/api/search", "body": {"prompt": "Defensively solid right back from Serie B value for money", "min_minutes": 450, "offset": 0}}
+{"id": "s0175", "tag": "role:fb", "method": "POST", "path": "/api/search", "body": {"prompt": "Defensively solid right back from Eliteserien free agent this window", "min_minutes": 450, "offset": 0}}
+{"id": "s0176", "tag": "role:fb", "method": "POST", "path": "/api/search", "body": {"prompt": "Defensively solid right back from K League 24 or under under €5m", "min_minutes": 450, "offset": 0}}
+{"id": "s0177", "tag": "role:fb", "method": "POST", "path": "/api/search", "body": {"prompt": "Defensively solid right back from Serie B U23", "min_minutes": 450, "offset": 0}}
+{"id": "s0178", "tag": "role:fb", "method": "POST", "path": "/api/search", "body": {"prompt": "Defensively solid right back from Scandinavia in his prime (25-29) max 500k", "min_minutes": 450, "offset": 0}}
+{"id": "s0179", "tag": "role:fb", "method": "POST", "path": "/api/search", "body": {"prompt": "Defensively solid right back experienced, over 30 bargain", "min_minutes": 450, "offset": 0}}
+{"id": "s0180", "tag": "role:fb", "method": "POST", "path": "/api/search", "body": {"prompt": "Left wing-back with high crossing output in the Brasileirão aged 18-21 free agent free agent this window", "min_minutes": 450, "offset": 0}}
+{"id": "s0181", "tag": "role:fb", "method": "POST", "path": "/api/search", "body": {"prompt": "Left wing-back with high crossing output younger than 25", "min_minutes": 450, "offset": 0}}
+{"id": "s0182", "tag": "role:fb", "method": "POST", "path": "/api/search", "body": {"prompt": "Left wing-back with high crossing output in the USL Championship younger than 25 free agent", "min_minutes": 450, "offset": 0}}
+{"id": "s0183", "tag": "role:fb", "method": "POST", "path": "/api/search", "body": {"prompt": "Left wing-back with high crossing output from Segunda under 23 on a free transfer strong in duels out of contract next summer", "min_minutes": 450, "offset": 0}}
+{"id": "s0184", "tag": "role:fb", "method": "POST", "path": "/api/search", "body": {"prompt": "Left wing-back with high crossing output", "min_minutes": 450, "offset": 0}}
+{"id": "s0185", "tag": "role:fb", "method": "POST", "path": "/api/search", "body": {"prompt": "Left wing-back with high crossing output in the 2. Bundesliga under 21 budget £2m", "min_minutes": 450, "offset": 0}}
+{"id": "s0186", "tag": "role:fb", "method": "POST", "path": "/api/search", "body": {"prompt": "Left wing-back with high crossing output in the Allsvenskan", "min_minutes": 450, "offset": 0}}
+{"id": "s0187", "tag": "role:fb", "method": "POST", "path": "/api/search", "body": {"prompt": "Left wing-back with high crossing output from 2. Bundesliga aged 18-21", "min_minutes": 450, "offset": 0}}
+{"id": "s0188", "tag": "role:fb", "method": "POST", "path": "/api/search", "body": {"prompt": "Left wing-back with high crossing output in the Allsvenskan U23 under £10m", "min_minutes": 450, "offset": 0}}
+{"id": "s0189", "tag": "role:fb", "method": "POST", "path": "/api/search", "body": {"prompt": "Full-back who can tuck inside from J1 League on a free transfer", "min_minutes": 450, "offset": 0}}
+{"id": "s0190", "tag": "role:fb", "method": "POST", "path": "/api/search", "body": {"prompt": "Full-back who can tuck inside in the Austrian Bundesliga in his prime (25-29) value for money high work rate free agent this window", "min_minutes": 450, "offset": 0}}
+{"id": "s0191", "tag": "role:fb", "method": "POST", "path": "/api/search", "body": {"prompt": "Full-back who can tuck inside from K League free agent good on the ball", "min_minutes": 450, "offset": 0}}
+{"id": "s0192", "tag": "role:fb", "method": "POST", "path": "/api/search", "body": {"prompt": "Full-back who can tuck inside in the Bundesliga U23", "min_minutes": 450, "offset": 0}}
+{"id": "s0193", "tag": "role:fb", "method": "POST", "path": "/api/search", "body": {"prompt": "Full-back who can tuck inside from South America experienced, over 30 out of contract next summer", "min_minutes": 450, "offset": 0}}
+{"id": "s0194", "tag": "role:fb", "method": "POST", "path": "/api/search", "body": {"prompt": "Full-back who can tuck inside from Argentine Primera aged 18-21 under €5m", "min_minutes": 450, "offset": 0}}
+{"id": "s0195", "tag": "role:fb", "method": "POST", "path": "/api/search", "body": {"prompt": "Full-back who can tuck inside in the Czech First League under 21 high work rate", "min_minutes": 450, "offset": 0}}
+{"id": "s0196", "tag": "role:fb", "method": "POST", "path": "/api/search", "body": {"prompt": "Full-back who can tuck inside from Scottish Premiership 24 or under", "min_minutes": 450, "offset": 0}}
+{"id": "s0197", "tag": "role:fb", "method": "POST", "path": "/api/search", "body": {"prompt": "Full-back who can tuck inside under 23", "min_minutes": 450, "offset": 0}}
+{"id": "s0198", "tag": "role:fb", "method": "POST", "path": "/api/search", "body": {"prompt": "Progressive right back from Liga MX teenager injury-free", "min_minutes": 450, "offset": 0}}
+{"id": "s0199", "tag": "role:fb", "method": "POST", "path": "/api/search", "body": {"prompt": "Progressive right back from Eliteserien in his prime (25-29) free agent entering the last year of his deal", "min_minutes": 450, "offset": 0}}
+{"id": "s0200", "tag": "role:fb", "method": "POST", "path": "/api/search", "body": {"prompt": "Progressive right back in the the Nordics good on the ball", "min_minutes": 450, "offset": 0}}
+{"id": "s0201", "tag": "role:fb", "method": "POST", "path": "/api/search", "body": {"prompt": "Progressive right back presses aggressively contract expiring 2027", "min_minutes": 450, "offset": 0}}
+{"id": "s0202", "tag": "role:fb", "method": "POST", "path": "/api/search", "body": {"prompt": "Progressive right back from Swiss Super League teenager max 500k", "min_minutes": 450, "offset": 0}}
+{"id": "s0203", "tag": "role:fb", "method": "POST", "path": "/api/search", "body": {"prompt": "Progressive right back from Serbian SuperLiga 24 or under value for money tall out of contract next summer", "min_minutes": 450, "offset": 0}}
+{"id": "s0204", "tag": "role:fb", "method": "POST", "path": "/api/search", "body": {"prompt": "Progressive right back in the Croatian league younger than 25 injury-free", "min_minutes": 450, "offset": 0}}
+{"id": "s0205", "tag": "role:fb", "method": "POST", "path": "/api/search", "body": {"prompt": "Progressive right back under 23", "min_minutes": 450, "offset": 0}}
+{"id": "s0206", "tag": "role:fb", "method": "POST", "path": "/api/search", "body": {"prompt": "Progressive right back in the the Balkans", "min_minutes": 450, "offset": 0}}
+{"id": "s0207", "tag": "role:dm", "method": "POST", "path": "/api/search", "body": {"prompt": "Number 6 in the Eliteserien", "min_minutes": 450, "offset": 0}}
+{"id": "s0208", "tag": "role:dm", "method": "POST", "path": "/api/search", "body": {"prompt": "Number 6 from Segunda disciplined, few cards free agent this window", "min_minutes": 450, "offset": 0}}
+{"id": "s0209", "tag": "role:dm", "method": "POST", "path": "/api/search", "body": {"prompt": "Number 6 in the Croatian league U23 under £10m", "min_minutes": 450, "offset": 0}}
+{"id": "s0210", "tag": "role:dm", "method": "POST", "path": "/api/search", "body": {"prompt": "Number 6 from Serbian SuperLiga 24 or under", "min_minutes": 450, "offset": 0}}
+{"id": "s0211", "tag": "role:dm", "method": "POST", "path": "/api/search", "body": {"prompt": "Number 6 from Croatian league max 500k", "min_minutes": 450, "offset": 0}}
+{"id": "s0212", "tag": "role:dm", "method": "POST", "path": "/api/search", "body": {"prompt": "Number 6 in the Serie B under 23 under €5m", "min_minutes": 450, "offset": 0}}
+{"id": "s0213", "tag": "role:dm", "method": "POST", "path": "/api/search", "body": {"prompt": "Number 6 value for money", "min_minutes": 450, "offset": 0}}
+{"id": "s0214", "tag": "role:dm", "method": "POST", "path": "/api/search", "body": {"prompt": "Number 6 from 2. Bundesliga loan option with sell-on value", "min_minutes": 450, "offset": 0}}
+{"id": "s0215", "tag": "role:dm", "method": "POST", "path": "/api/search", "body": {"prompt": "Number 6 from Championship teenager under €5m", "min_minutes": 450, "offset": 0}}
+{"id": "s0216", "tag": "role:dm", "method": "POST", "path": "/api/search", "body": {"prompt": "Holding midfielder in the the Nordics", "min_minutes": 450, "offset": 0}}
+{"id": "s0217", "tag": "role:dm", "method": "POST", "path": "/api/search", "body": {"prompt": "Holding midfielder experienced, over 30 under €1m strong in duels", "min_minutes": 450, "offset": 0}}
+{"id": "s0218", "tag": "role:dm", "method": "POST", "path": "/api/search", "body": {"prompt": "Holding midfielder from Danish Superliga bargain entering the last year of his deal", "min_minutes": 450, "offset": 0}}
+{"id": "s0219", "tag": "role:dm", "method": "POST", "path": "/api/search", "body": {"prompt": "Holding midfielder in the Belgian Pro League younger than 25 right-footed", "min_minutes": 450, "offset": 0}}
+{"id": "s0220", "tag": "role:dm", "method": "POST", "path": "/api/search", "body": {"prompt": "Holding midfielder from Belgian Pro League", "min_minutes": 450, "offset": 0}}
+{"id": "s0221", "tag": "role:dm", "method": "POST", "path": "/api/search", "body": {"prompt": "Holding midfielder in the Ligue 1 with a high ceiling, 19 years old", "min_minutes": 450, "offset": 0}}
+{"id": "s0222", "tag": "role:dm", "method": "POST", "path": "/api/search", "body": {"prompt": "Holding midfielder in the Argentine Primera bargain injury-free", "min_minutes": 450, "offset": 0}}
+{"id": "s0223", "tag": "role:dm", "method": "POST", "path": "/api/search", "body": {"prompt": "Holding midfielder", "min_minutes": 450, "offset": 0}}
+{"id": "s0224", "tag": "role:dm", "method": "POST", "path": "/api/search", "body": {"prompt": "Holding midfielder from Swiss Super League under £10m good in the air", "min_minutes": 450, "offset": 0}}
+{"id": "s0225", "tag": "role:dm", "method": "POST", "path": "/api/search", "body": {"prompt": "Defensive midfielder who screens the back four in the Brasileirão loan option contract expiring 2027", "min_minutes": 450, "offset": 0}}
+{"id": "s0226", "tag": "role:dm", "method": "POST", "path": "/api/search", "body": {"prompt": "Defensive midfielder who screens the back four from Ekstraklasa max 500k good on the ball", "min_minutes": 450, "offset": 0}}
+{"id": "s0227", "tag": "role:dm", "method": "POST", "path": "/api/search", "body": {"prompt": "Defensive midfielder who screens the back four in the Ekstraklasa over 185cm", "min_minutes": 450, "offset": 0}}
+{"id": "s0228", "tag": "role:dm", "method": "POST", "path": "/api/search", "body": {"prompt": "Defensive midfielder who screens the back four in the Scandinavia bargain", "min_minutes": 450, "offset": 0}}
+{"id": "s0229", "tag": "role:dm", "method": "POST", "path": "/api/search", "body": {"prompt": "Defensive midfielder who screens the back four from A-League value for money strong in duels", "min_minutes": 450, "offset": 0}}
+{"id": "s0230", "tag": "role:dm", "method": "POST", "path": "/api/search", "body": {"prompt": "Defensive midfielder who screens the back four from Africa with leadership", "min_minutes": 450, "offset": 0}}
+{"id": "s0231", "tag": "role:dm", "method": "POST", "path": "/api/search", "body": {"prompt": "Defensive midfielder who screens the back four in the the Nordics", "min_minutes": 450, "offset": 0}}
+{"id": "s0232", "tag": "role:dm", "method": "POST", "path": "/api/search", "body": {"prompt": "Defensive midfielder who screens the back four from Africa under 21", "min_minutes": 450, "offset": 0}}
+{"id": "s0233", "tag": "role:dm", "method": "POST", "path": "/api/search", "body": {"prompt": "Defensive midfielder who screens the back four from Scandinavia out of contract next summer", "min_minutes": 450, "offset": 0}}
+{"id": "s0234", "tag": "role:dm", "method": "POST", "path": "/api/search", "body": {"prompt": "Regista from Eastern Europe in his prime (25-29) max 500k", "min_minutes": 450, "offset": 0}}
+{"id": "s0235", "tag": "role:dm", "method": "POST", "path": "/api/search", "body": {"prompt": "Regista from the Balkans out of contract next summer", "min_minutes": 450, "offset": 0}}
+{"id": "s0236", "tag": "role:dm", "method": "POST", "path": "/api/search", "body": {"prompt": "Regista in the Eliteserien", "min_minutes": 450, "offset": 0}}
+{"id": "s0237", "tag": "role:dm", "method": "POST", "path": "/api/search", "body": {"prompt": "Regista from Scottish Premiership teenager", "min_minutes": 450, "offset": 0}}
+{"id": "s0238", "tag": "role:dm", "method": "POST", "path": "/api/search", "body": {"prompt": "Regista injury-free", "min_minutes": 450, "offset": 0}}
+{"id": "s0239", "tag": "role:dm", "method": "POST", "path": "/api/search", "body": {"prompt": "Regista from South America experienced, over 30 on a free transfer consistent free agent this window", "min_minutes": 450, "offset": 0}}
+{"id": "s0240", "tag": "role:dm", "method": "POST", "path": "/api/search", "body": {"prompt": "Regista in the League Two Bosman target", "min_minutes": 450, "offset": 0}}
+{"id": "s0241", "tag": "role:dm", "method": "POST", "path": "/api/search", "body": {"prompt": "Regista in the the Balkans on a free transfer Bosman target", "min_minutes": 450, "offset": 0}}
+{"id": "s0242", "tag": "role:dm", "method": "POST", "path": "/api/search", "body": {"prompt": "Regista in the Allsvenskan under 21 with leadership", "min_minutes": 450, "offset": 0}}
+{"id": "s0243", "tag": "role:dm", "method": "POST", "path": "/api/search", "body": {"prompt": "Deep-lying playmaker from Ligue 2 under 23 good on the ball", "min_minutes": 450, "offset": 0}}
+{"id": "s0244", "tag": "role:dm", "method": "POST", "path": "/api/search", "body": {"prompt": "Deep-lying playmaker from Allsvenskan loan option", "min_minutes": 450, "offset": 0}}
+{"id": "s0245", "tag": "role:dm", "method": "POST", "path": "/api/search", "body": {"prompt": "Deep-lying playmaker in the South America", "min_minutes": 450, "offset": 0}}
+{"id": "s0246", "tag": "role:dm", "method": "POST", "path": "/api/search", "body": {"prompt": "Deep-lying playmaker in the Segunda experienced, over 30 entering the last year of his deal", "min_minutes": 450, "offset": 0}}
+{"id": "s0247", "tag": "role:dm", "method": "POST", "path": "/api/search", "body": {"prompt": "Deep-lying playmaker from Eredivisie in his prime (25-29) contract expiring 2027", "min_minutes": 450, "offset": 0}}
+{"id": "s0248", "tag": "role:dm", "method": "POST", "path": "/api/search", "body": {"prompt": "Deep-lying playmaker in the Danish Superliga under £10m consistent", "min_minutes": 450, "offset": 0}}
+{"id": "s0249", "tag": "role:dm", "method": "POST", "path": "/api/search", "body": {"prompt": "Deep-lying playmaker from Premier League 24 or under tall", "min_minutes": 450, "offset": 0}}
+{"id": "s0250", "tag": "role:dm", "method": "POST", "path": "/api/search", "body": {"prompt": "Deep-lying playmaker from Asia", "min_minutes": 450, "offset": 0}}
+{"id": "s0251", "tag": "role:dm", "method": "POST", "path": "/api/search", "body": {"prompt": "Deep-lying playmaker in the Serie A experienced, over 30", "min_minutes": 450, "offset": 0}}
+{"id": "s0252", "tag": "role:dm", "method": "POST", "path": "/api/search", "body": {"prompt": "Ball-winning midfielder in the Czech First League", "min_minutes": 450, "offset": 0}}
+{"id": "s0253", "tag": "role:dm", "method": "POST", "path": "/api/search", "body": {"prompt": "Ball-winning midfielder from Saudi Pro League 24 or under loan option good in the air", "min_minutes": 450, "offset": 0}}
+{"id": "s0254", "tag": "role:dm", "method": "POST", "path": "/api/search", "body": {"prompt": "Ball-winning midfielder in the Saudi Pro League aged 18-21", "min_minutes": 450, "offset": 0}}
+{"id": "s0255", "tag": "role:dm", "method": "POST", "path": "/api/search", "body": {"prompt": "Ball-winning midfielder in the Serie A presses aggressively", "min_minutes": 450, "offset": 0}}
+{"id": "s0256", "tag": "role:dm", "method": "POST", "path": "/api/search", "body": {"prompt": "Ball-winning midfielder in the Jupiler Pro League entering the last year of his deal", "min_minutes": 450, "offset": 0}}
+{"id": "s0257", "tag": "role:dm", "method": "POST", "path": "/api/search", "body": {"prompt": "Ball-winning midfielder from League Two free agent strong in duels out of contract next summer", "min_minutes": 450, "offset": 0}}
+{"id": "s0258", "tag": "role:dm", "method": "POST", "path": "/api/search", "body": {"prompt": "Ball-winning midfielder from South America under £10m", "min_minutes": 450, "offset": 0}}
+{"id": "s0259", "tag": "role:dm", "method": "POST", "path": "/api/search", "body": {"prompt": "Ball-winning midfielder in the Eastern Europe bargain good on the ball", "min_minutes": 450, "offset": 0}}
+{"id": "s0260", "tag": "role:dm", "method": "POST", "path": "/api/search", "body": {"prompt": "Ball-winning midfielder in the Premier League", "min_minutes": 450, "offset": 0}}
+{"id": "s0261", "tag": "role:dm", "method": "POST", "path": "/api/search", "body": {"prompt": "Anchor man in the Liga Portugal 24 or under under €5m", "min_minutes": 450, "offset": 0}}
+{"id": "s0262", "tag": "role:dm", "method": "POST", "path": "/api/search", "body": {"prompt": "Anchor man from MLS", "min_minutes": 450, "offset": 0}}
+{"id": "s0263", "tag": "role:dm", "method": "POST", "path": "/api/search", "body": {"prompt": "Anchor man from Brasileirão right-footed", "min_minutes": 450, "offset": 0}}
+{"id": "s0264", "tag": "role:dm", "method": "POST", "path": "/api/search", "body": {"prompt": "Anchor man in the League Two younger than 25 loan option", "min_minutes": 450, "offset": 0}}
+{"id": "s0265", "tag": "role:dm", "method": "POST", "path": "/api/search", "body": {"prompt": "Anchor man in the Eliteserien", "min_minutes": 450, "offset": 0}}
+{"id": "s0266", "tag": "role:dm", "method": "POST", "path": "/api/search", "body": {"prompt": "Anchor man from NPL Victoria", "min_minutes": 450, "offset": 0}}
+{"id": "s0267", "tag": "role:dm", "method": "POST", "path": "/api/search", "body": {"prompt": "Anchor man from South America", "min_minutes": 450, "offset": 0}}
+{"id": "s0268", "tag": "role:dm", "method": "POST", "path": "/api/search", "body": {"prompt": "Anchor man in the Czech First League aged 18-21 max 500k", "min_minutes": 450, "offset": 0}}
+{"id": "s0269", "tag": "role:dm", "method": "POST", "path": "/api/search", "body": {"prompt": "Anchor man from Croatian league cheap two-footed", "min_minutes": 450, "offset": 0}}
+{"id": "s0270", "tag": "role:dm", "method": "POST", "path": "/api/search", "body": {"prompt": "Destroyer in midfield aged 18-21 under £10m", "min_minutes": 450, "offset": 0}}
+{"id": "s0271", "tag": "role:dm", "method": "POST", "path": "/api/search", "body": {"prompt": "Destroyer in midfield teenager", "min_minutes": 450, "offset": 0}}
+{"id": "s0272", "tag": "role:dm", "method": "POST", "path": "/api/search", "body": {"prompt": "Destroyer in midfield under 21 under €5m Bosman target", "min_minutes": 450, "offset": 0}}
+{"id": "s0273", "tag": "role:dm", "method": "POST", "path": "/api/search", "body": {"prompt": "Destroyer in midfield", "min_minutes": 450, "offset": 0}}
+{"id": "s0274", "tag": "role:dm", "method": "POST", "path": "/api/search", "body": {"prompt": "Destroyer in midfield in the Argentine Primera cheap", "min_minutes": 450, "offset": 0}}
+{"id": "s0275", "tag": "role:dm", "method": "POST", "path": "/api/search", "body": {"prompt": "Destroyer in midfield from A-League under €5m", "min_minutes": 450, "offset": 0}}
+{"id": "s0276", "tag": "role:dm", "method": "POST", "path": "/api/search", "body": {"prompt": "Destroyer in midfield in the Serie B with a high ceiling, 19 years old", "min_minutes": 450, "offset": 0}}
+{"id": "s0277", "tag": "role:dm", "method": "POST", "path": "/api/search", "body": {"prompt": "Destroyer in midfield in the Super Lig on a free transfer", "min_minutes": 450, "offset": 0}}
+{"id": "s0278", "tag": "role:dm", "method": "POST", "path": "/api/search", "body": {"prompt": "Destroyer in midfield from South America", "min_minutes": 450, "offset": 0}}
+{"id": "s0279", "tag": "role:cm", "method": "POST", "path": "/api/search", "body": {"prompt": "Box-to-box midfielder from Ligue 2 contract expiring 2027", "min_minutes": 450, "offset": 0}}
+{"id": "s0280", "tag": "role:cm", "method": "POST", "path": "/api/search", "body": {"prompt": "Box-to-box midfielder under 21", "min_minutes": 450, "offset": 0}}
+{"id": "s0281", "tag": "role:cm", "method": "POST", "path": "/api/search", "body": {"prompt": "Box-to-box midfielder from Premier League experienced, over 30 loan option", "min_minutes": 450, "offset": 0}}
+{"id": "s0282", "tag": "role:cm", "method": "POST", "path": "/api/search", "body": {"prompt": "Box-to-box midfielder on a free transfer free agent this window", "min_minutes": 450, "offset": 0}}
+{"id": "s0283", "tag": "role:cm", "method": "POST", "path": "/api/search", "body": {"prompt": "Box-to-box midfielder from Allsvenskan in his prime (25-29) contract expiring 2027", "min_minutes": 450, "offset": 0}}
+{"id": "s0284", "tag": "role:cm", "method": "POST", "path": "/api/search", "body": {"prompt": "Box-to-box midfielder in the Scandinavia good on the ball Bosman target", "min_minutes": 450, "offset": 0}}
+{"id": "s0285", "tag": "role:cm", "method": "POST", "path": "/api/search", "body": {"prompt": "Box-to-box midfielder in the Africa U23", "min_minutes": 450, "offset": 0}}
+{"id": "s0286", "tag": "role:cm", "method": "POST", "path": "/api/search", "body": {"prompt": "Box-to-box midfielder in the Croatian league under 21 strong in duels", "min_minutes": 450, "offset": 0}}
+{"id": "s0287", "tag": "role:cm", "method": "POST", "path": "/api/search", "body": {"prompt": "Box-to-box midfielder from La Liga disciplined, few cards", "min_minutes": 450, "offset": 0}}
+{"id": "s0288", "tag": "role:cm", "method": "POST", "path": "/api/search", "body": {"prompt": "Number 8 on a free transfer entering the last year of his deal", "min_minutes": 450, "offset": 0}}
+{"id": "s0289", "tag": "role:cm", "method": "POST", "path": "/api/search", "body": {"prompt": "Number 8 in the Serie B out of contract next summer", "min_minutes": 450, "offset": 0}}
+{"id": "s0290", "tag": "role:cm", "method": "POST", "path": "/api/search", "body": {"prompt": "Number 8 from Super Lig", "min_minutes": 450, "offset": 0}}
+{"id": "s0291", "tag": "role:cm", "method": "POST", "path": "/api/search", "body": {"prompt": "Number 8 from 2. Bundesliga strong in duels", "min_minutes": 450, "offset": 0}}
+{"id": "s0292", "tag": "role:cm", "method": "POST", "path": "/api/search", "body": {"prompt": "Number 8 from Scandinavia bargain consistent", "min_minutes": 450, "offset": 0}}
+{"id": "s0293", "tag": "role:cm", "method": "POST", "path": "/api/search", "body": {"prompt": "Number 8 in the Croatian league", "min_minutes": 450, "offset": 0}}
+{"id": "s0294", "tag": "role:cm", "method": "POST", "path": "/api/search", "body": {"prompt": "Number 8 from Belgian Pro League max 500k", "min_minutes": 450, "offset": 0}}
+{"id": "s0295", "tag": "role:cm", "method": "POST", "path": "/api/search", "body": {"prompt": "Number 8 in the Swiss Super League under 21", "min_minutes": 450, "offset": 0}}
+{"id": "s0296", "tag": "role:cm", "method": "POST", "path": "/api/search", "body": {"prompt": "Number 8 in the Liga MX with a high ceiling, 19 years old two-footed", "min_minutes": 450, "offset": 0}}
+{"id": "s0297", "tag": "role:cm", "method": "POST", "path": "/api/search", "body": {"prompt": "Mezzala from Danish Superliga under £10m free agent this window", "min_minutes": 450, "offset": 0}}
+{"id": "s0298", "tag": "role:cm", "method": "POST", "path": "/api/search", "body": {"prompt": "Mezzala good on the ball entering the last year of his deal", "min_minutes": 450, "offset": 0}}
+{"id": "s0299", "tag": "role:cm", "method": "POST", "path": "/api/search", "body": {"prompt": "Mezzala in the Bundesliga younger than 25 entering the last year of his deal", "min_minutes": 450, "offset": 0}}
+{"id": "s0300", "tag": "role:cm", "method": "POST", "path": "/api/search", "body": {"prompt": "Mezzala", "min_minutes": 450, "offset": 0}}
+{"id": "s0301", "tag": "role:cm", "method": "POST", "path": "/api/search", "body": {"prompt": "Mezzala in the Greek Super League teenager bargain", "min_minutes": 450, "offset": 0}}
+{"id": "s0302", "tag": "role:cm", "method": "POST", "path": "/api/search", "body": {"prompt": "Mezzala in the Ligue 2 disciplined, few cards", "min_minutes": 450, "offset": 0}}
+{"id": "s0303", "tag": "role:cm", "method": "POST", "path": "/api/search", "body": {"prompt": "Mezzala in the Scottish Premiership budget £2m free agent this window", "min_minutes": 450, "offset": 0}}
+{"id": "s0304", "tag": "role:cm", "method": "POST", "path": "/api/search", "body": {"prompt": "Mezzala from Championship", "min_minutes": 450, "offset": 0}}
+{"id": "s0305", "tag": "role:cm", "method": "POST", "path": "/api/search", "body": {"prompt": "Progressive central midfielder from MLS cheap over 185cm", "min_minutes": 450, "offset": 0}}
+{"id": "s0306", "tag": "role:cm", "method": "POST", "path": "/api/search", "body": {"prompt": "Progressive central midfielder in the USL Championship in his prime (25-29)", "min_minutes": 450, "offset": 0}}
+{"id": "s0307", "tag": "role:cm", "method": "POST", "path": "/api/search", "body": {"prompt": "Progressive central midfielder in the Swiss Super League", "min_minutes": 450, "offset": 0}}
+{"id": "s0308", "tag": "role:cm", "method": "POST", "path": "/api/search", "body": {"prompt": "Progressive central midfielder in the Eastern Europe teenager value for money", "min_minutes": 450, "offset": 0}}
+{"id": "s0309", "tag": "role:cm", "method": "POST", "path": "/api/search", "body": {"prompt": "Progressive central midfielder from Liga MX U23 on a free transfer", "min_minutes": 450, "offset": 0}}
+{"id": "s0310", "tag": "role:cm", "method": "POST", "path": "/api/search", "body": {"prompt": "Progressive central midfielder in the Swiss Super League teenager left-footed", "min_minutes": 450, "offset": 0}}
+{"id": "s0311", "tag": "role:cm", "method": "POST", "path": "/api/search", "body": {"prompt": "Progressive central midfielder from 2. Bundesliga under 23 bargain", "min_minutes": 450, "offset": 0}}
+{"id": "s0312", "tag": "role:cm", "method": "POST", "path": "/api/search", "body": {"prompt": "Progressive central midfielder in the Brasileirão right-footed", "min_minutes": 450, "offset": 0}}
+{"id": "s0313", "tag": "role:cm", "method": "POST", "path": "/api/search", "body": {"prompt": "Progressive central midfielder from South America under 23", "min_minutes": 450, "offset": 0}}
+{"id": "s0314", "tag": "role:cm", "method": "POST", "path": "/api/search", "body": {"prompt": "Press-resistant central midfielder in the Liga MX under £10m Bosman target", "min_minutes": 450, "offset": 0}}
+{"id": "s0315", "tag": "role:cm", "method": "POST", "path": "/api/search", "body": {"prompt": "Press-resistant central midfielder from Eredivisie in his prime (25-29) under €5m two-footed", "min_minutes": 450, "offset": 0}}
+{"id": "s0316", "tag": "role:cm", "method": "POST", "path": "/api/search", "body": {"prompt": "Press-resistant central midfielder from Swiss Super League experienced, over 30 value for money", "min_minutes": 450, "offset": 0}}
+{"id": "s0317", "tag": "role:cm", "method": "POST", "path": "/api/search", "body": {"prompt": "Press-resistant central midfielder from Scandinavia U23 free agent", "min_minutes": 450, "offset": 0}}
+{"id": "s0318", "tag": "role:cm", "method": "POST", "path": "/api/search", "body": {"prompt": "Press-resistant central midfielder in the Scandinavia", "min_minutes": 450, "offset": 0}}
+{"id": "s0319", "tag": "role:cm", "method": "POST", "path": "/api/search", "body": {"prompt": "Press-resistant central midfielder in the Serie B good on the ball", "min_minutes": 450, "offset": 0}}
+{"id": "s0320", "tag": "role:cm", "method": "POST", "path": "/api/search", "body": {"prompt": "Press-resistant central midfielder from South America max 500k entering the last year of his deal", "min_minutes": 450, "offset": 0}}
+{"id": "s0321", "tag": "role:cm", "method": "POST", "path": "/api/search", "body": {"prompt": "Press-resistant central midfielder", "min_minutes": 450, "offset": 0}}
+{"id": "s0322", "tag": "role:cm", "method": "POST", "path": "/api/search", "body": {"prompt": "Press-resistant central midfielder in the Croatian league", "min_minutes": 450, "offset": 0}}
+{"id": "s0323", "tag": "role:cm", "method": "POST", "path": "/api/search", "body": {"prompt": "Ball-carrying midfielder U23", "min_minutes": 450, "offset": 0}}
+{"id": "s0324", "tag": "role:cm", "method": "POST", "path": "/api/search", "body": {"prompt": "Ball-carrying midfielder in the Allsvenskan experienced, over 30", "min_minutes": 450, "offset": 0}}
+{"id": "s0325", "tag": "role:cm", "method": "POST", "path": "/api/search", "body": {"prompt": "Ball-carrying midfielder from Scottish Premiership", "min_minutes": 450, "offset": 0}}
+{"id": "s0326", "tag": "role:cm", "method": "POST", "path": "/api/search", "body": {"prompt": "Ball-carrying midfielder from Czech First League in his prime (25-29) value for money", "min_minutes": 450, "offset": 0}}
+{"id": "s0327", "tag": "role:cm", "method": "POST", "path": "/api/search", "body": {"prompt": "Ball-carrying midfielder 24 or under tall", "min_minutes": 450, "offset": 0}}
+{"id": "s0328", "tag": "role:cm", "method": "POST", "path": "/api/search", "body": {"prompt": "Ball-carrying midfielder from NPL Victoria", "min_minutes": 450, "offset": 0}}
+{"id": "s0329", "tag": "role:cm", "method": "POST", "path": "/api/search", "body": {"prompt": "Ball-carrying midfielder from Eerste Divisie", "min_minutes": 450, "offset": 0}}
+{"id": "s0330", "tag": "role:cm", "method": "POST", "path": "/api/search", "body": {"prompt": "Ball-carrying midfielder from Allsvenskan younger than 25", "min_minutes": 450, "offset": 0}}
+{"id": "s0331", "tag": "role:cm", "method": "POST", "path": "/api/search", "body": {"prompt": "Ball-carrying midfielder in his prime (25-29)", "min_minutes": 450, "offset": 0}}
+{"id": "s0332", "tag": "role:cm", "method": "POST", "path": "/api/search", "body": {"prompt": "Midfielder who breaks lines with passing from Belgian Pro League 24 or under", "min_minutes": 450, "offset": 0}}
+{"id": "s0333", "tag": "role:cm", "method": "POST", "path": "/api/search", "body": {"prompt": "Midfielder who breaks lines with passing from Scottish Premiership budget £2m", "min_minutes": 450, "offset": 0}}
+{"id": "s0334", "tag": "role:cm", "method": "POST", "path": "/api/search", "body": {"prompt": "Midfielder who breaks lines with passing from Scottish Premiership", "min_minutes": 450, "offset": 0}}
+{"id": "s0335", "tag": "role:cm", "method": "POST", "path": "/api/search", "body": {"prompt": "Midfielder who breaks lines with passing from 2. Bundesliga", "min_minutes": 450, "offset": 0}}
+{"id": "s0336", "tag": "role:cm", "method": "POST", "path": "/api/search", "body": {"prompt": "Midfielder who breaks lines with passing from Eerste Divisie", "min_minutes": 450, "offset": 0}}
+{"id": "s0337", "tag": "role:cm", "method": "POST", "path": "/api/search", "body": {"prompt": "Midfielder who breaks lines with passing from Serie A", "min_minutes": 450, "offset": 0}}
+{"id": "s0338", "tag": "role:cm", "method": "POST", "path": "/api/search", "body": {"prompt": "Midfielder who breaks lines with passing in the Argentine Primera under 23 strong in duels", "min_minutes": 450, "offset": 0}}
+{"id": "s0339", "tag": "role:cm", "method": "POST", "path": "/api/search", "body": {"prompt": "Midfielder who breaks lines with passing in the South America younger than 25 bargain high work rate", "min_minutes": 450, "offset": 0}}
+{"id": "s0340", "tag": "role:cm", "method": "POST", "path": "/api/search", "body": {"prompt": "Midfielder who breaks lines with passing in the the Nordics aged 18-21 tall Bosman target", "min_minutes": 450, "offset": 0}}
+{"id": "s0341", "tag": "role:am", "method": "POST", "path": "/api/search", "body": {"prompt": "Number 10 from Saudi Pro League bargain", "min_minutes": 450, "offset": 0}}
+{"id": "s0342", "tag": "role:am", "method": "POST", "path": "/api/search", "body": {"prompt": "Number 10 in the Bundesliga U23 with sell-on value", "min_minutes": 450, "offset": 0}}
+{"id": "s0343", "tag": "role:am", "method": "POST", "path": "/api/search", "body": {"prompt": "Number 10 in the Serie A left-footed", "min_minutes": 450, "offset": 0}}
+{"id": "s0344", "tag": "role:am", "method": "POST", "path": "/api/search", "body": {"prompt": "Number 10 in the Eerste Divisie under £10m", "min_minutes": 450, "offset": 0}}
+{"id": "s0345", "tag": "role:am", "method": "POST", "path": "/api/search", "body": {"prompt": "Number 10 from Serie A", "min_minutes": 450, "offset": 0}}
+{"id": "s0346", "tag": "role:am", "method": "POST", "path": "/api/search", "body": {"prompt": "Number 10 in the Scottish Premiership loan option", "min_minutes": 450, "offset": 0}}
+{"id": "s0347", "tag": "role:am", "method": "POST", "path": "/api/search", "body": {"prompt": "Number 10 from Eastern Europe loan option", "min_minutes": 450, "offset": 0}}
+{"id": "s0348", "tag": "role:am", "method": "POST", "path": "/api/search", "body": {"prompt": "Number 10 in the Belgian Pro League U23 value for money", "min_minutes": 450, "offset": 0}}
+{"id": "s0349", "tag": "role:am", "method": "POST", "path": "/api/search", "body": {"prompt": "Number 10 strong in duels", "min_minutes": 450, "offset": 0}}
+{"id": "s0350", "tag": "role:am", "method": "POST", "path": "/api/search", "body": {"prompt": "Creative attacking midfielder from Bundesliga U23 under €5m right-footed", "min_minutes": 450, "offset": 0}}
+{"id": "s0351", "tag": "role:am", "method": "POST", "path": "/api/search", "body": {"prompt": "Creative attacking midfielder in the Asia free agent this window", "min_minutes": 450, "offset": 0}}
+{"id": "s0352", "tag": "role:am", "method": "POST", "path": "/api/search", "body": {"prompt": "Creative attacking midfielder in the 2. Bundesliga with a high ceiling, 19 years old entering the last year of his deal", "min_minutes": 450, "offset": 0}}
+{"id": "s0353", "tag": "role:am", "method": "POST", "path": "/api/search", "body": {"prompt": "Creative attacking midfielder from South America under £10m", "min_minutes": 450, "offset": 0}}
+{"id": "s0354", "tag": "role:am", "method": "POST", "path": "/api/search", "body": {"prompt": "Creative attacking midfielder in the Liga MX teenager", "min_minutes": 450, "offset": 0}}
+{"id": "s0355", "tag": "role:am", "method": "POST", "path": "/api/search", "body": {"prompt": "Creative attacking midfielder in the Asia under 21 bargain", "min_minutes": 450, "offset": 0}}
+{"id": "s0356", "tag": "role:am", "method": "POST", "path": "/api/search", "body": {"prompt": "Creative attacking midfielder in the Serie A contract expiring 2027", "min_minutes": 450, "offset": 0}}
+{"id": "s0357", "tag": "role:am", "method": "POST", "path": "/api/search", "body": {"prompt": "Creative attacking midfielder in the Saudi Pro League teenager", "min_minutes": 450, "offset": 0}}
+{"id": "s0358", "tag": "role:am", "method": "POST", "path": "/api/search", "body": {"prompt": "Creative attacking midfielder from Ligue 1 younger than 25", "min_minutes": 450, "offset": 0}}
+{"id": "s0359", "tag": "role:am", "method": "POST", "path": "/api/search", "body": {"prompt": "Shadow striker from Premier League under 21 free agent", "min_minutes": 450, "offset": 0}}
+{"id": "s0360", "tag": "role:am", "method": "POST", "path": "/api/search", "body": {"prompt": "Shadow striker from League One", "min_minutes": 450, "offset": 0}}
+{"id": "s0361", "tag": "role:am", "method": "POST", "path": "/api/search", "body": {"prompt": "Shadow striker in the Danish Superliga U23 right-footed free agent this window", "min_minutes": 450, "offset": 0}}
+{"id": "s0362", "tag": "role:am", "method": "POST", "path": "/api/search", "body": {"prompt": "Shadow striker free agent", "min_minutes": 450, "offset": 0}}
+{"id": "s0363", "tag": "role:am", "method": "POST", "path": "/api/search", "body": {"prompt": "Shadow striker in the Argentine Primera aged 18-21 cheap", "min_minutes": 450, "offset": 0}}
+{"id": "s0364", "tag": "role:am", "method": "POST", "path": "/api/search", "body": {"prompt": "Shadow striker from Eredivisie Bosman target", "min_minutes": 450, "offset": 0}}
+{"id": "s0365", "tag": "role:am", "method": "POST", "path": "/api/search", "body": {"prompt": "Shadow striker from the Nordics Bosman target", "min_minutes": 450, "offset": 0}}
+{"id": "s0366", "tag": "role:am", "method": "POST", "path": "/api/search", "body": {"prompt": "Shadow striker on a free transfer", "min_minutes": 450, "offset": 0}}
+{"id": "s0367", "tag": "role:am", "method": "POST", "path": "/api/search", "body": {"prompt": "Shadow striker cheap with leadership", "min_minutes": 450, "offset": 0}}
+{"id": "s0368", "tag": "role:am", "method": "POST", "path": "/api/search", "body": {"prompt": "Trequartista from Swiss Super League U23", "min_minutes": 450, "offset": 0}}
+{"id": "s0369", "tag": "role:am", "method": "POST", "path": "/api/search", "body": {"prompt": "Trequartista from League Two under 23 cheap", "min_minutes": 450, "offset": 0}}
+{"id": "s0370", "tag": "role:am", "method": "POST", "path": "/api/search", "body": {"prompt": "Trequartista from Danish Superliga younger than 25 under €5m tall out of contract next summer", "min_minutes": 450, "offset": 0}}
+{"id": "s0371", "tag": "role:am", "method": "POST", "path": "/api/search", "body": {"prompt": "Trequartista in the Segunda injury-free", "min_minutes": 450, "offset": 0}}
+{"id": "s0372", "tag": "role:am", "method": "POST", "path": "/api/search", "body": {"prompt": "Trequartista younger than 25 entering the last year of his deal", "min_minutes": 450, "offset": 0}}
+{"id": "s0373", "tag": "role:am", "method": "POST", "path": "/api/search", "body": {"prompt": "Trequartista from Austrian Bundesliga under 21 quick Bosman target", "min_minutes": 450, "offset": 0}}
+{"id": "s0374", "tag": "role:am", "method": "POST", "path": "/api/search", "body": {"prompt": "Trequartista tall", "min_minutes": 450, "offset": 0}}
+{"id": "s0375", "tag": "role:am", "method": "POST", "path": "/api/search", "body": {"prompt": "Trequartista in the Liga Portugal in his prime (25-29) value for money free agent this window", "min_minutes": 450, "offset": 0}}
+{"id": "s0376", "tag": "role:am", "method": "POST", "path": "/api/search", "body": {"prompt": "Trequartista from Championship value for money entering the last year of his deal", "min_minutes": 450, "offset": 0}}
+{"id": "s0377", "tag": "role:am", "method": "POST", "path": "/api/search", "body": {"prompt": "Advanced playmaker from League Two teenager", "min_minutes": 450, "offset": 0}}
+{"id": "s0378", "tag": "role:am", "method": "POST", "path": "/api/search", "body": {"prompt": "Advanced playmaker in the Austrian Bundesliga under 23 free agent free agent this window", "min_minutes": 450, "offset": 0}}
+{"id": "s0379", "tag": "role:am", "method": "POST", "path": "/api/search", "body": {"prompt": "Advanced playmaker from J1 League with a high ceiling, 19 years old good on the ball out of contract next summer", "min_minutes": 450, "offset": 0}}
+{"id": "s0380", "tag": "role:am", "method": "POST", "path": "/api/search", "body": {"prompt": "Advanced playmaker from Belgian Pro League", "min_minutes": 450, "offset": 0}}
+{"id": "s0381", "tag": "role:am", "method": "POST", "path": "/api/search", "body": {"prompt": "Advanced playmaker in the Czech First League loan option", "min_minutes": 450, "offset": 0}}
+{"id": "s0382", "tag": "role:am", "method": "POST", "path": "/api/search", "body": {"prompt": "Advanced playmaker in the Liga Portugal younger than 25 free agent", "min_minutes": 450, "offset": 0}}
+{"id": "s0383", "tag": "role:am", "method": "POST", "path": "/api/search", "body": {"prompt": "Advanced playmaker value for money right-footed", "min_minutes": 450, "offset": 0}}
+{"id": "s0384", "tag": "role:am", "method": "POST", "path": "/api/search", "body": {"prompt": "Advanced playmaker", "min_minutes": 450, "offset": 0}}
+{"id": "s0385", "tag": "role:am", "method": "POST", "path": "/api/search", "body": {"prompt": "Advanced playmaker aged 18-21", "min_minutes": 450, "offset": 0}}
+{"id": "s0386", "tag": "role:am", "method": "POST", "path": "/api/search", "body": {"prompt": "Attacking midfielder who arrives in the box 24 or under", "min_minutes": 450, "offset": 0}}
+{"id": "s0387", "tag": "role:am", "method": "POST", "path": "/api/search", "body": {"prompt": "Attacking midfielder who arrives in the box from J1 League under €1m with leadership", "min_minutes": 450, "offset": 0}}
+{"id": "s0388", "tag": "role:am", "method": "POST", "path": "/api/search", "body": {"prompt": "Attacking midfielder who arrives in the box in the Ekstraklasa max 500k entering the last year of his deal", "min_minutes": 450, "offset": 0}}
+{"id": "s0389", "tag": "role:am", "method": "POST", "path": "/api/search", "body": {"prompt": "Attacking midfielder who arrives in the box in the Asia", "min_minutes": 450, "offset": 0}}
+{"id": "s0390", "tag": "role:am", "method": "POST", "path": "/api/search", "body": {"prompt": "Attacking midfielder who arrives in the box in his prime (25-29)", "min_minutes": 450, "offset": 0}}
+{"id": "s0391", "tag": "role:am", "method": "POST", "path": "/api/search", "body": {"prompt": "Attacking midfielder who arrives in the box", "min_minutes": 450, "offset": 0}}
+{"id": "s0392", "tag": "role:am", "method": "POST", "path": "/api/search", "body": {"prompt": "Attacking midfielder who arrives in the box from Croatian league", "min_minutes": 450, "offset": 0}}
+{"id": "s0393", "tag": "role:am", "method": "POST", "path": "/api/search", "body": {"prompt": "Attacking midfielder who arrives in the box in the Eliteserien max 500k", "min_minutes": 450, "offset": 0}}
+{"id": "s0394", "tag": "role:am", "method": "POST", "path": "/api/search", "body": {"prompt": "Attacking midfielder who arrives in the box teenager loan option", "min_minutes": 450, "offset": 0}}
+{"id": "s0395", "tag": "role:w", "method": "POST", "path": "/api/search", "body": {"prompt": "Inverted winger from La Liga budget £2m with sell-on value contract expiring 2027", "min_minutes": 450, "offset": 0}}
+{"id": "s0396", "tag": "role:w", "method": "POST", "path": "/api/search", "body": {"prompt": "Inverted winger out of contract next summer", "min_minutes": 450, "offset": 0}}
+{"id": "s0397", "tag": "role:w", "method": "POST", "path": "/api/search", "body": {"prompt": "Inverted winger in the Jupiler Pro League presses aggressively", "min_minutes": 450, "offset": 0}}
+{"id": "s0398", "tag": "role:w", "method": "POST", "path": "/api/search", "body": {"prompt": "Inverted winger", "min_minutes": 450, "offset": 0}}
+{"id": "s0399", "tag": "role:w", "method": "POST", "path": "/api/search", "body": {"prompt": "Inverted winger in the Serbian SuperLiga two-footed", "min_minutes": 450, "offset": 0}}
+{"id": "s0400", "tag": "role:w", "method": "POST", "path": "/api/search", "body": {"prompt": "Inverted winger in the Jupiler Pro League max 500k contract expiring 2027", "min_minutes": 450, "offset": 0}}
+{"id": "s0401", "tag": "role:w", "method": "POST", "path": "/api/search", "body": {"prompt": "Inverted winger from 2. Bundesliga teenager", "min_minutes": 450, "offset": 0}}
+{"id": "s0402", "tag": "role:w", "method": "POST", "path": "/api/search", "body": {"prompt": "Inverted winger from Liga MX U23 under €5m", "min_minutes": 450, "offset": 0}}
+{"id": "s0403", "tag": "role:w", "method": "POST", "path": "/api/search", "body": {"prompt": "Inverted winger tall free agent this window", "min_minutes": 450, "offset": 0}}
+{"id": "s0404", "tag": "role:w", "method": "POST", "path": "/api/search", "body": {"prompt": "Inside forward in the League Two in his prime (25-29) value for money", "min_minutes": 450, "offset": 0}}
+{"id": "s0405", "tag": "role:w", "method": "POST", "path": "/api/search", "body": {"prompt": "Inside forward in the the Nordics U23 good on the ball", "min_minutes": 450, "offset": 0}}
+{"id": "s0406", "tag": "role:w", "method": "POST", "path": "/api/search", "body": {"prompt": "Inside forward with a high ceiling, 19 years old bargain", "min_minutes": 450, "offset": 0}}
+{"id": "s0407", "tag": "role:w", "method": "POST", "path": "/api/search", "body": {"prompt": "Inside forward in the Argentine Primera younger than 25 tall entering the last year of his deal", "min_minutes": 450, "offset": 0}}
+{"id": "s0408", "tag": "role:w", "method": "POST", "path": "/api/search", "body": {"prompt": "Inside forward teenager under €1m", "min_minutes": 450, "offset": 0}}
+{"id": "s0409", "tag": "role:w", "method": "POST", "path": "/api/search", "body": {"prompt": "Inside forward from A-League cheap right-footed", "min_minutes": 450, "offset": 0}}
+{"id": "s0410", "tag": "role:w", "method": "POST", "path": "/api/search", "body": {"prompt": "Inside forward Bosman target", "min_minutes": 450, "offset": 0}}
+{"id": "s0411", "tag": "role:w", "method": "POST", "path": "/api/search", "body": {"prompt": "Inside forward from Eerste Divisie under £10m strong in duels", "min_minutes": 450, "offset": 0}}
+{"id": "s0412", "tag": "role:w", "method": "POST", "path": "/api/search", "body": {"prompt": "Inside forward teenager budget £2m good on the ball", "min_minutes": 450, "offset": 0}}
+{"id": "s0413", "tag": "role:w", "method": "POST", "path": "/api/search", "body": {"prompt": "Touchline winger who beats his man strong in duels out of contract next summer", "min_minutes": 450, "offset": 0}}
+{"id": "s0414", "tag": "role:w", "method": "POST", "path": "/api/search", "body": {"prompt": "Touchline winger who beats his man from La Liga injury-free", "min_minutes": 450, "offset": 0}}
+{"id": "s0415", "tag": "role:w", "method": "POST", "path": "/api/search", "body": {"prompt": "Touchline winger who beats his man value for money", "min_minutes": 450, "offset": 0}}
+{"id": "s0416", "tag": "role:w", "method": "POST", "path": "/api/search", "body": {"prompt": "Touchline winger who beats his man in the Serie B", "min_minutes": 450, "offset": 0}}
+{"id": "s0417", "tag": "role:w", "method": "POST", "path": "/api/search", "body": {"prompt": "Touchline winger who beats his man free agent", "min_minutes": 450, "offset": 0}}
+{"id": "s0418", "tag": "role:w", "method": "POST", "path": "/api/search", "body": {"prompt": "Touchline winger who beats his man from Eliteserien experienced, over 30", "min_minutes": 450, "offset": 0}}
+{"id": "s0419", "tag": "role:w", "method": "POST", "path": "/api/search", "body": {"prompt": "Touchline winger who beats his man in the Brasileirão under £10m Bosman target", "min_minutes": 450, "offset": 0}}
+{"id": "s0420", "tag": "role:w", "method": "POST", "path": "/api/search", "body": {"prompt": "Touchline winger who beats his man from J1 League", "min_minutes": 450, "offset": 0}}
+{"id": "s0421", "tag": "role:w", "method": "POST", "path": "/api/search", "body": {"prompt": "Touchline winger who beats his man in the K League with a high ceiling, 19 years old good in the air", "min_minutes": 450, "offset": 0}}
+{"id": "s0422", "tag": "role:w", "method": "POST", "path": "/api/search", "body": {"prompt": "Wide playmaker in the League One 24 or under presses aggressively", "min_minutes": 450, "offset": 0}}
+{"id": "s0423", "tag": "role:w", "method": "POST", "path": "/api/search", "body": {"prompt": "Wide playmaker in the Championship experienced, over 30 disciplined, few cards", "min_minutes": 450, "offset": 0}}
+{"id": "s0424", "tag": "role:w", "method": "POST", "path": "/api/search", "body": {"prompt": "Wide playmaker in the Jupiler Pro League good on the ball free agent this window", "min_minutes": 450, "offset": 0}}
+{"id": "s0425", "tag": "role:w", "method": "POST", "path": "/api/search", "body": {"prompt": "Wide playmaker in the Liga Portugal strong in duels", "min_minutes": 450, "offset": 0}}
+{"id": "s0426", "tag": "role:w", "method": "POST", "path": "/api/search", "body": {"prompt": "Wide playmaker out of contract next summer", "min_minutes": 450, "offset": 0}}
+{"id": "s0427", "tag": "role:w", "method": "POST", "path": "/api/search", "body": {"prompt": "Wide playmaker in the Jupiler Pro League", "min_minutes": 450, "offset": 0}}
+{"id": "s0428", "tag": "role:w", "method": "POST", "path": "/api/search", "body": {"prompt": "Wide playmaker from Austrian Bundesliga aged 18-21", "min_minutes": 450, "offset": 0}}
+{"id": "s0429", "tag": "role:w", "method": "POST", "path": "/api/search", "body": {"prompt": "Wide playmaker in the K League", "min_minutes": 450, "offset": 0}}
+{"id": "s0430", "tag": "role:w", "method": "POST", "path": "/api/search", "body": {"prompt": "Wide playmaker in the the Balkans U23 cheap", "min_minutes": 450, "offset": 0}}
+{"id": "s0431", "tag": "role:w", "method": "POST", "path": "/api/search", "body": {"prompt": "Right winger cutting inside on his left foot from South America under 23 right-footed", "min_minutes": 450, "offset": 0}}
+{"id": "s0432", "tag": "role:w", "method": "POST", "path": "/api/search", "body": {"prompt": "Right winger cutting inside on his left foot", "min_minutes": 450, "offset": 0}}
+{"id": "s0433", "tag": "role:w", "method": "POST", "path": "/api/search", "body": {"prompt": "Right winger cutting inside on his left foot from Jupiler Pro League", "min_minutes": 450, "offset": 0}}
+{"id": "s0434", "tag": "role:w", "method": "POST", "path": "/api/search", "body": {"prompt": "Right winger cutting inside on his left foot under €5m", "min_minutes": 450, "offset": 0}}
+{"id": "s0435", "tag": "role:w", "method": "POST", "path": "/api/search", "body": {"prompt": "Right winger cutting inside on his left foot from Austrian Bundesliga", "min_minutes": 450, "offset": 0}}
+{"id": "s0436", "tag": "role:w", "method": "POST", "path": "/api/search", "body": {"prompt": "Right winger cutting inside on his left foot in the Serie A", "min_minutes": 450, "offset": 0}}
+{"id": "s0437", "tag": "role:w", "method": "POST", "path": "/api/search", "body": {"prompt": "Right winger cutting inside on his left foot with leadership", "min_minutes": 450, "offset": 0}}
+{"id": "s0438", "tag": "role:w", "method": "POST", "path": "/api/search", "body": {"prompt": "Right winger cutting inside on his left foot from Ekstraklasa teenager budget £2m", "min_minutes": 450, "offset": 0}}
+{"id": "s0439", "tag": "role:w", "method": "POST", "path": "/api/search", "body": {"prompt": "Right winger cutting inside on his left foot from Bundesliga aged 18-21", "min_minutes": 450, "offset": 0}}
+{"id": "s0440", "tag": "role:w", "method": "POST", "path": "/api/search", "body": {"prompt": "Direct winger with pace in the Serie B aged 18-21 loan option", "min_minutes": 450, "offset": 0}}
+{"id": "s0441", "tag": "role:w", "method": "POST", "path": "/api/search", "body": {"prompt": "Direct winger with pace from Ligue 2 contract expiring 2027", "min_minutes": 450, "offset": 0}}
+{"id": "s0442", "tag": "role:w", "method": "POST", "path": "/api/search", "body": {"prompt": "Direct winger with pace in the Ligue 1 budget £2m strong in duels", "min_minutes": 450, "offset": 0}}
+{"id": "s0443", "tag": "role:w", "method": "POST", "path": "/api/search", "body": {"prompt": "Direct winger with pace from Super Lig with a high ceiling, 19 years old bargain", "min_minutes": 450, "offset": 0}}
+{"id": "s0444", "tag": "role:w", "method": "POST", "path": "/api/search", "body": {"prompt": "Direct winger with pace from Championship high work rate", "min_minutes": 450, "offset": 0}}
+{"id": "s0445", "tag": "role:w", "method": "POST", "path": "/api/search", "body": {"prompt": "Direct winger with pace from Eliteserien under 21 cheap", "min_minutes": 450, "offset": 0}}
+{"id": "s0446", "tag": "role:w", "method": "POST", "path": "/api/search", "body": {"prompt": "Direct winger with pace in the the Balkans free agent Bosman target", "min_minutes": 450, "offset": 0}}
+{"id": "s0447", "tag": "role:w", "method": "POST", "path": "/api/search", "body": {"prompt": "Direct winger with pace in the Serie A under 21 high work rate", "min_minutes": 450, "offset": 0}}
+{"id": "s0448", "tag": "role:w", "method": "POST", "path": "/api/search", "body": {"prompt": "Direct winger with pace in the the Nordics with a high ceiling, 19 years old contract expiring 2027", "min_minutes": 450, "offset": 0}}
+{"id": "s0449", "tag": "role:w", "method": "POST", "path": "/api/search", "body": {"prompt": "Left winger with end product in the Africa experienced, over 30 on a free transfer over 185cm", "min_minutes": 450, "offset": 0}}
+{"id": "s0450", "tag": "role:w", "method": "POST", "path": "/api/search", "body": {"prompt": "Left winger with end product in the MLS over 185cm", "min_minutes": 450, "offset": 0}}
+{"id": "s0451", "tag": "role:w", "method": "POST", "path": "/api/search", "body": {"prompt": "Left winger with end product tall", "min_minutes": 450, "offset": 0}}
+{"id": "s0452", "tag": "role:w", "method": "POST", "path": "/api/search", "body": {"prompt": "Left winger with end product from Saudi Pro League under £10m right-footed", "min_minutes": 450, "offset": 0}}
+{"id": "s0453", "tag": "role:w", "method": "POST", "path": "/api/search", "body": {"prompt": "Left winger with end product left-footed", "min_minutes": 450, "offset": 0}}
+{"id": "s0454", "tag": "role:w", "method": "POST", "path": "/api/search", "body": {"prompt": "Left winger with end product two-footed", "min_minutes": 450, "offset": 0}}
+{"id": "s0455", "tag": "role:w", "method": "POST", "path": "/api/search", "body": {"prompt": "Left winger with end product from Jupiler Pro League", "min_minutes": 450, "offset": 0}}
+{"id": "s0456", "tag": "role:w", "method": "POST", "path": "/api/search", "body": {"prompt": "Left winger with end product from League One value for money", "min_minutes": 450, "offset": 0}}
+{"id": "s0457", "tag": "role:w", "method": "POST", "path": "/api/search", "body": {"prompt": "Left winger with end product from League One under 23 high work rate", "min_minutes": 450, "offset": 0}}
+{"id": "s0458", "tag": "role:st", "method": "POST", "path": "/api/search", "body": {"prompt": "Target man U23 bargain good on the ball", "min_minutes": 450, "offset": 0}}
+{"id": "s0459", "tag": "role:st", "method": "POST", "path": "/api/search", "body": {"prompt": "Target man from Africa", "min_minutes": 450, "offset": 0}}
+{"id": "s0460", "tag": "role:st", "method": "POST", "path": "/api/search", "body": {"prompt": "Target man from League Two disciplined, few cards", "min_minutes": 450, "offset": 0}}
+{"id": "s0461", "tag": "role:st", "method": "POST", "path": "/api/search", "body": {"prompt": "Target man in the Super Lig", "min_minutes": 450, "offset": 0}}
+{"id": "s0462", "tag": "role:st", "method": "POST", "path": "/api/search", "body": {"prompt": "Target man from A-League under £10m entering the last year of his deal", "min_minutes": 450, "offset": 0}}
+{"id": "s0463", "tag": "role:st", "method": "POST", "path": "/api/search", "body": {"prompt": "Target man from Saudi Pro League", "min_minutes": 450, "offset": 0}}
+{"id": "s0464", "tag": "role:st", "method": "POST", "path": "/api/search", "body": {"prompt": "Target man in the Saudi Pro League", "min_minutes": 450, "offset": 0}}
+{"id": "s0465", "tag": "role:st", "method": "POST", "path": "/api/search", "body": {"prompt": "Target man from South America with a high ceiling, 19 years old out of contract next summer", "min_minutes": 450, "offset": 0}}
+{"id": "s0466", "tag": "role:st", "method": "POST", "path": "/api/search", "body": {"prompt": "Target man in the J1 League free agent", "min_minutes": 450, "offset": 0}}
+{"id": "s0467", "tag": "role:st", "method": "POST", "path": "/api/search", "body": {"prompt": "Poacher from Croatian league presses aggressively", "min_minutes": 450, "offset": 0}}
+{"id": "s0468", "tag": "role:st", "method": "POST", "path": "/api/search", "body": {"prompt": "Poacher in the J1 League U23 Bosman target", "min_minutes": 450, "offset": 0}}
+{"id": "s0469", "tag": "role:st", "method": "POST", "path": "/api/search", "body": {"prompt": "Poacher from Premier League", "min_minutes": 450, "offset": 0}}
+{"id": "s0470", "tag": "role:st", "method": "POST", "path": "/api/search", "body": {"prompt": "Poacher", "min_minutes": 450, "offset": 0}}
+{"id": "s0471", "tag": "role:st", "method": "POST", "path": "/api/search", "body": {"prompt": "Poacher from Swiss Super League value for money with sell-on value", "min_minutes": 450, "offset": 0}}
+{"id": "s0472", "tag": "role:st", "method": "POST", "path": "/api/search", "body": {"prompt": "Poacher from Croatian league quick", "min_minutes": 450, "offset": 0}}
+{"id": "s0473", "tag": "role:st", "method": "POST", "path": "/api/search", "body": {"prompt": "Poacher good in the air Bosman target", "min_minutes": 450, "offset": 0}}
+{"id": "s0474", "tag": "role:st", "method": "POST", "path": "/api/search", "body": {"prompt": "Poacher from Eredivisie under £10m tall", "min_minutes": 450, "offset": 0}}
+{"id": "s0475", "tag": "role:st", "method": "POST", "path": "/api/search", "body": {"prompt": "False 9 from K League experienced, over 30 under €1m", "min_minutes": 450, "offset": 0}}
+{"id": "s0476", "tag": "role:st", "method": "POST", "path": "/api/search", "body": {"prompt": "False 9 from Ligue 2 max 500k with sell-on value", "min_minutes": 450, "offset": 0}}
+{"id": "s0477", "tag": "role:st", "method": "POST", "path": "/api/search", "body": {"prompt": "False 9 from Africa bargain", "min_minutes": 450, "offset": 0}}
+{"id": "s0478", "tag": "role:st", "method": "POST", "path": "/api/search", "body": {"prompt": "False 9 in the Africa", "min_minutes": 450, "offset": 0}}
+{"id": "s0479", "tag": "role:st", "method": "POST", "path": "/api/search", "body": {"prompt": "False 9 from Croatian league loan option", "min_minutes": 450, "offset": 0}}
+{"id": "s0480", "tag": "role:st", "method": "POST", "path": "/api/search", "body": {"prompt": "False 9 under 23", "min_minutes": 450, "offset": 0}}
+{"id": "s0481", "tag": "role:st", "method": "POST", "path": "/api/search", "body": {"prompt": "False 9 in the A-League", "min_minutes": 450, "offset": 0}}
+{"id": "s0482", "tag": "role:st", "method": "POST", "path": "/api/search", "body": {"prompt": "False 9 contract expiring 2027", "min_minutes": 450, "offset": 0}}
+{"id": "s0483", "tag": "role:st", "method": "POST", "path": "/api/search", "body": {"prompt": "False 9 in the Eastern Europe younger than 25 injury-free", "min_minutes": 450, "offset": 0}}
+{"id": "s0484", "tag": "role:st", "method": "POST", "path": "/api/search", "body": {"prompt": "Complete forward in the Allsvenskan with a high ceiling, 19 years old free agent with leadership", "min_minutes": 450, "offset": 0}}
+{"id": "s0485", "tag": "role:st", "method": "POST", "path": "/api/search", "body": {"prompt": "Complete forward in the Africa under 21", "min_minutes": 450, "offset": 0}}
+{"id": "s0486", "tag": "role:st", "method": "POST", "path": "/api/search", "body": {"prompt": "Complete forward with a high ceiling, 19 years old cheap presses aggressively", "min_minutes": 450, "offset": 0}}
+{"id": "s0487", "tag": "role:st", "method": "POST", "path": "/api/search", "body": {"prompt": "Complete forward", "min_minutes": 450, "offset": 0}}
+{"id": "s0488", "tag": "role:st", "method": "POST", "path": "/api/search", "body": {"prompt": "Complete forward from Eredivisie under 23 quick", "min_minutes": 450, "offset": 0}}
+{"id": "s0489", "tag": "role:st", "method": "POST", "path": "/api/search", "body": {"prompt": "Complete forward in the Scottish Premiership loan option Bosman target", "min_minutes": 450, "offset": 0}}
+{"id": "s0490", "tag": "role:st", "method": "POST", "path": "/api/search", "body": {"prompt": "Complete forward in the Serie B", "min_minutes": 450, "offset": 0}}
+{"id": "s0491", "tag": "role:st", "method": "POST", "path": "/api/search", "body": {"prompt": "Complete forward teenager with sell-on value", "min_minutes": 450, "offset": 0}}
+{"id": "s0492", "tag": "role:st", "method": "POST", "path": "/api/search", "body": {"prompt": "Complete forward good on the ball out of contract next summer", "min_minutes": 450, "offset": 0}}
+{"id": "s0493", "tag": "role:st", "method": "POST", "path": "/api/search", "body": {"prompt": "Pressing forward cheap disciplined, few cards", "min_minutes": 450, "offset": 0}}
+{"id": "s0494", "tag": "role:st", "method": "POST", "path": "/api/search", "body": {"prompt": "Pressing forward value for money", "min_minutes": 450, "offset": 0}}
+{"id": "s0495", "tag": "role:st", "method": "POST", "path": "/api/search", "body": {"prompt": "Pressing forward from Belgian Pro League", "min_minutes": 450, "offset": 0}}
+{"id": "s0496", "tag": "role:st", "method": "POST", "path": "/api/search", "body": {"prompt": "Pressing forward with a high ceiling, 19 years old high work rate", "min_minutes": 450, "offset": 0}}
+{"id": "s0497", "tag": "role:st", "method": "POST", "path": "/api/search", "body": {"prompt": "Pressing forward in the Allsvenskan on a free transfer tall free agent this window", "min_minutes": 450, "offset": 0}}
+{"id": "s0498", "tag": "role:st", "method": "POST", "path": "/api/search", "body": {"prompt": "Pressing forward from Eerste Divisie", "min_minutes": 450, "offset": 0}}
+{"id": "s0499", "tag": "role:st", "method": "POST", "path": "/api/search", "body": {"prompt": "Pressing forward from Africa", "min_minutes": 450, "offset": 0}}
+{"id": "s0500", "tag": "role:st", "method": "POST", "path": "/api/search", "body": {"prompt": "Pressing forward from Championship 24 or under budget £2m consistent", "min_minutes": 450, "offset": 0}}
+{"id": "s0501", "tag": "role:st", "method": "POST", "path": "/api/search", "body": {"prompt": "Pressing forward in the Jupiler Pro League experienced, over 30 contract expiring 2027", "min_minutes": 450, "offset": 0}}
+{"id": "s0502", "tag": "role:st", "method": "POST", "path": "/api/search", "body": {"prompt": "Striker who runs in behind from Scandinavia teenager budget £2m", "min_minutes": 450, "offset": 0}}
+{"id": "s0503", "tag": "role:st", "method": "POST", "path": "/api/search", "body": {"prompt": "Striker who runs in behind from USL Championship experienced, over 30 value for money quick", "min_minutes": 450, "offset": 0}}
+{"id": "s0504", "tag": "role:st", "method": "POST", "path": "/api/search", "body": {"prompt": "Striker who runs in behind in the Czech First League under 23 value for money", "min_minutes": 450, "offset": 0}}
+{"id": "s0505", "tag": "role:st", "method": "POST", "path": "/api/search", "body": {"prompt": "Striker who runs in behind from Segunda teenager", "min_minutes": 450, "offset": 0}}
+{"id": "s0506", "tag": "role:st", "method": "POST", "path": "/api/search", "body": {"prompt": "Striker who runs in behind from Austrian Bundesliga with a high ceiling, 19 years old max 500k consistent out of contract next summer", "min_minutes": 450, "offset": 0}}
+{"id": "s0507", "tag": "role:st", "method": "POST", "path": "/api/search", "body": {"prompt": "Striker who runs in behind from League Two", "min_minutes": 450, "offset": 0}}
+{"id": "s0508", "tag": "role:st", "method": "POST", "path": "/api/search", "body": {"prompt": "Striker who runs in behind in the Bundesliga aged 18-21", "min_minutes": 450, "offset": 0}}
+{"id": "s0509", "tag": "role:st", "method": "POST", "path": "/api/search", "body": {"prompt": "Striker who runs in behind from La Liga U23", "min_minutes": 450, "offset": 0}}
+{"id": "s0510", "tag": "role:st", "method": "POST", "path": "/api/search", "body": {"prompt": "Striker who runs in behind in the NPL Victoria teenager bargain entering the last year of his deal", "min_minutes": 450, "offset": 0}}
+{"id": "s0511", "tag": "role:st", "method": "POST", "path": "/api/search", "body": {"prompt": "Goalscorer with high xG in the South America 24 or under bargain", "min_minutes": 450, "offset": 0}}
+{"id": "s0512", "tag": "role:st", "method": "POST", "path": "/api/search", "body": {"prompt": "Goalscorer with high xG in the Croatian league teenager cheap free agent this window", "min_minutes": 450, "offset": 0}}
+{"id": "s0513", "tag": "role:st", "method": "POST", "path": "/api/search", "body": {"prompt": "Goalscorer with high xG from the Nordics U23", "min_minutes": 450, "offset": 0}}
+{"id": "s0514", "tag": "role:st", "method": "POST", "path": "/api/search", "body": {"prompt": "Goalscorer with high xG right-footed", "min_minutes": 450, "offset": 0}}
+{"id": "s0515", "tag": "role:st", "method": "POST", "path": "/api/search", "body": {"prompt": "Goalscorer with high xG from A-League under £10m injury-free free agent this window", "min_minutes": 450, "offset": 0}}
+{"id": "s0516", "tag": "role:st", "method": "POST", "path": "/api/search", "body": {"prompt": "Goalscorer with high xG in the K League aged 18-21", "min_minutes": 450, "offset": 0}}
+{"id": "s0517", "tag": "role:st", "method": "POST", "path": "/api/search", "body": {"prompt": "Goalscorer with high xG from Brasileirão teenager", "min_minutes": 450, "offset": 0}}
+{"id": "s0518", "tag": "role:st", "method": "POST", "path": "/api/search", "body": {"prompt": "Goalscorer with high xG in the Austrian Bundesliga experienced, over 30 cheap out of contract next summer", "min_minutes": 450, "offset": 0}}
+{"id": "s0519", "tag": "role:st", "method": "POST", "path": "/api/search", "body": {"prompt": "Goalscorer with high xG from Super Lig experienced, over 30 with sell-on value free agent this window", "min_minutes": 450, "offset": 0}}
+{"id": "s0520", "tag": "role:st", "method": "POST", "path": "/api/search", "body": {"prompt": "Penalty box striker in the Jupiler Pro League", "min_minutes": 450, "offset": 0}}
+{"id": "s0521", "tag": "role:st", "method": "POST", "path": "/api/search", "body": {"prompt": "Penalty box striker from Bundesliga under €5m", "min_minutes": 450, "offset": 0}}
+{"id": "s0522", "tag": "role:st", "method": "POST", "path": "/api/search", "body": {"prompt": "Penalty box striker experienced, over 30 over 185cm", "min_minutes": 450, "offset": 0}}
+{"id": "s0523", "tag": "role:st", "method": "POST", "path": "/api/search", "body": {"prompt": "Penalty box striker from Scottish Premiership under 23 loan option out of contract next summer", "min_minutes": 450, "offset": 0}}
+{"id": "s0524", "tag": "role:st", "method": "POST", "path": "/api/search", "body": {"prompt": "Penalty box striker in the Segunda experienced, over 30", "min_minutes": 450, "offset": 0}}
+{"id": "s0525", "tag": "role:st", "method": "POST", "path": "/api/search", "body": {"prompt": "Penalty box striker in the Serie A value for money", "min_minutes": 450, "offset": 0}}
+{"id": "s0526", "tag": "role:st", "method": "POST", "path": "/api/search", "body": {"prompt": "Penalty box striker in the Ligue 2", "min_minutes": 450, "offset": 0}}
+{"id": "s0527", "tag": "role:st", "method": "POST", "path": "/api/search", "body": {"prompt": "Penalty box striker", "min_minutes": 450, "offset": 0}}
+{"id": "s0528", "tag": "role:st", "method": "POST", "path": "/api/search", "body": {"prompt": "Penalty box striker in the A-League in his prime (25-29)", "min_minutes": 450, "offset": 0}}
+{"id": "s0529", "tag": "role:st", "method": "POST", "path": "/api/search", "body": {"prompt": "Mobile number 9 from Jupiler Pro League 24 or under Bosman target", "min_minutes": 450, "offset": 0}}
+{"id": "s0530", "tag": "role:st", "method": "POST", "path": "/api/search", "body": {"prompt": "Mobile number 9 in the Eredivisie", "min_minutes": 450, "offset": 0}}
+{"id": "s0531", "tag": "role:st", "method": "POST", "path": "/api/search", "body": {"prompt": "Mobile number 9 in the Scandinavia", "min_minutes": 450, "offset": 0}}
+{"id": "s0532", "tag": "role:st", "method": "POST", "path": "/api/search", "body": {"prompt": "Mobile number 9 from USL Championship value for money", "min_minutes": 450, "offset": 0}}
+{"id": "s0533", "tag": "role:st", "method": "POST", "path": "/api/search", "body": {"prompt": "Mobile number 9 in the Saudi Pro League experienced, over 30", "min_minutes": 450, "offset": 0}}
+{"id": "s0534", "tag": "role:st", "method": "POST", "path": "/api/search", "body": {"prompt": "Mobile number 9 from Africa with leadership", "min_minutes": 450, "offset": 0}}
+{"id": "s0535", "tag": "role:st", "method": "POST", "path": "/api/search", "body": {"prompt": "Mobile number 9 from Czech First League aged 18-21 under €1m contract expiring 2027", "min_minutes": 450, "offset": 0}}
+{"id": "s0536", "tag": "role:st", "method": "POST", "path": "/api/search", "body": {"prompt": "Mobile number 9 in the Danish Superliga U23 value for money", "min_minutes": 450, "offset": 0}}
+{"id": "s0537", "tag": "role:st", "method": "POST", "path": "/api/search", "body": {"prompt": "Mobile number 9 from Scandinavia in his prime (25-29)", "min_minutes": 450, "offset": 0}}
+{"id": "s0538", "tag": "role:st", "method": "POST", "path": "/api/search", "body": {"prompt": "Second striker in the Croatian league younger than 25", "min_minutes": 450, "offset": 0}}
+{"id": "s0539", "tag": "role:st", "method": "POST", "path": "/api/search", "body": {"prompt": "Second striker from Segunda out of contract next summer", "min_minutes": 450, "offset": 0}}
+{"id": "s0540", "tag": "role:st", "method": "POST", "path": "/api/search", "body": {"prompt": "Second striker from Croatian league good on the ball", "min_minutes": 450, "offset": 0}}
+{"id": "s0541", "tag": "role:st", "method": "POST", "path": "/api/search", "body": {"prompt": "Second striker in the Serie B teenager with leadership", "min_minutes": 450, "offset": 0}}
+{"id": "s0542", "tag": "role:st", "method": "POST", "path": "/api/search", "body": {"prompt": "Second striker from Greek Super League", "min_minutes": 450, "offset": 0}}
+{"id": "s0543", "tag": "role:st", "method": "POST", "path": "/api/search", "body": {"prompt": "Second striker", "min_minutes": 450, "offset": 0}}
+{"id": "s0544", "tag": "role:st", "method": "POST", "path": "/api/search", "body": {"prompt": "Second striker from Allsvenskan teenager", "min_minutes": 450, "offset": 0}}
+{"id": "s0545", "tag": "role:st", "method": "POST", "path": "/api/search", "body": {"prompt": "Second striker in the South America under 23 cheap", "min_minutes": 450, "offset": 0}}
+{"id": "s0546", "tag": "role:st", "method": "POST", "path": "/api/search", "body": {"prompt": "Second striker from Saudi Pro League U23", "min_minutes": 450, "offset": 0}}
+{"id": "s0547", "tag": "thresholds", "method": "POST", "path": "/api/search", "body": {"prompt": "striker at least 0.4 goals per 90", "min_minutes": 450, "offset": 0}}
+{"id": "s0548", "tag": "thresholds", "method": "POST", "path": "/api/search", "body": {"prompt": "winger at least 0.4 goals per 90", "min_minutes": 450, "offset": 0}}
+{"id": "s0549", "tag": "thresholds", "method": "POST", "path": "/api/search", "body": {"prompt": "centre back at least 0.4 goals per 90 in Scottish Premiership", "min_minutes": 450, "offset": 0}}
+{"id": "s0550", "tag": "thresholds", "method": "POST", "path": "/api/search", "body": {"prompt": "defensive midfielder at least 0.4 goals per 90 in Eredivisie", "min_minutes": 450, "offset": 0}}
+{"id": "s0551", "tag": "thresholds", "method": "POST", "path": "/api/search", "body": {"prompt": "full back at least 0.4 goals per 90 in Greek Super League", "min_minutes": 450, "offset": 0}}
+{"id": "s0552", "tag": "thresholds", "method": "POST", "path": "/api/search", "body": {"prompt": "goalkeeper at least 0.4 goals per 90", "min_minutes": 450, "offset": 0}}
+{"id": "s0553", "tag": "thresholds", "method": "POST", "path": "/api/search", "body": {"prompt": "attacking midfielder at least 0.4 goals per 90 in MLS", "min_minutes": 450, "offset": 0}}
+{"id": "s0554", "tag": "thresholds", "method": "POST", "path": "/api/search", "body": {"prompt": "central midfielder at least 0.4 goals per 90", "min_minutes": 450, "offset": 0}}
+{"id": "s0555", "tag": "thresholds", "method": "POST", "path": "/api/search", "body": {"prompt": "striker with 2+ key passes per 90", "min_minutes": 450, "offset": 0}}
+{"id": "s0556", "tag": "thresholds", "method": "POST", "path": "/api/search", "body": {"prompt": "winger with 2+ key passes per 90", "min_minutes": 450, "offset": 0}}
+{"id": "s0557", "tag": "thresholds", "method": "POST", "path": "/api/search", "body": {"prompt": "centre back with 2+ key passes per 90 in Segunda", "min_minutes": 450, "offset": 0}}
+{"id": "s0558", "tag": "thresholds", "method": "POST", "path": "/api/search", "body": {"prompt": "defensive midfielder with 2+ key passes per 90", "min_minutes": 450, "offset": 0}}
+{"id": "s0559", "tag": "thresholds", "method": "POST", "path": "/api/search", "body": {"prompt": "full back with 2+ key passes per 90", "min_minutes": 450, "offset": 0}}
+{"id": "s0560", "tag": "thresholds", "method": "POST", "path": "/api/search", "body": {"prompt": "goalkeeper with 2+ key passes per 90", "min_minutes": 450, "offset": 0}}
+{"id": "s0561", "tag": "thresholds", "method": "POST", "path": "/api/search", "body": {"prompt": "attacking midfielder with 2+ key passes per 90", "min_minutes": 450, "offset": 0}}
+{"id": "s0562", "tag": "thresholds", "method": "POST", "path": "/api/search", "body": {"prompt": "central midfielder with 2+ key passes per 90", "min_minutes": 450, "offset": 0}}
+{"id": "s0563", "tag": "thresholds", "method": "POST", "path": "/api/search", "body": {"prompt": "striker with 3 tackles per 90", "min_minutes": 450, "offset": 0}}
+{"id": "s0564", "tag": "thresholds", "method": "POST", "path": "/api/search", "body": {"prompt": "winger with 3 tackles per 90", "min_minutes": 450, "offset": 0}}
+{"id": "s0565", "tag": "thresholds", "method": "POST", "path": "/api/search", "body": {"prompt": "centre back with 3 tackles per 90", "min_minutes": 450, "offset": 0}}
+{"id": "s0566", "tag": "thresholds", "method": "POST", "path": "/api/search", "body": {"prompt": "defensive midfielder with 3 tackles per 90", "min_minutes": 450, "offset": 0}}
+{"id": "s0567", "tag": "thresholds", "method": "POST", "path": "/api/search", "body": {"prompt": "full back with 3 tackles per 90", "min_minutes": 450, "offset": 0}}
+{"id": "s0568", "tag": "thresholds", "method": "POST", "path": "/api/search", "body": {"prompt": "goalkeeper with 3 tackles per 90", "min_minutes": 450, "offset": 0}}
+{"id": "s0569", "tag": "thresholds", "method": "POST", "path": "/api/search", "body": {"prompt": "attacking midfielder with 3 tackles per 90 in Argentine Primera", "min_minutes": 450, "offset": 0}}
+{"id": "s0570", "tag": "thresholds", "method": "POST", "path": "/api/search", "body": {"prompt": "central midfielder with 3 tackles per 90", "min_minutes": 450, "offset": 0}}
+{"id": "s0571", "tag": "thresholds", "method": "POST", "path": "/api/search", "body": {"prompt": "striker pass accuracy above 85%", "min_minutes": 450, "offset": 0}}
+{"id": "s0572", "tag": "thresholds", "method": "POST", "path": "/api/search", "body": {"prompt": "winger pass accuracy above 85% in Jupiler Pro League", "min_minutes": 450, "offset": 0}}
+{"id": "s0573", "tag": "thresholds", "method": "POST", "path": "/api/search", "body": {"prompt": "centre back pass accuracy above 85% in the Nordics", "min_minutes": 450, "offset": 0}}
+{"id": "s0574", "tag": "thresholds", "method": "POST", "path": "/api/search", "body": {"prompt": "defensive midfielder pass accuracy above 85%", "min_minutes": 450, "offset": 0}}
+{"id": "s0575", "tag": "thresholds", "method": "POST", "path": "/api/search", "body": {"prompt": "full back pass accuracy above 85% in Africa", "min_minutes": 450, "offset": 0}}
+{"id": "s0576", "tag": "thresholds", "method": "POST", "path": "/api/search", "body": {"prompt": "goalkeeper pass accuracy above 85% in Danish Superliga", "min_minutes": 450, "offset": 0}}
+{"id": "s0577", "tag": "thresholds", "method": "POST", "path": "/api/search", "body": {"prompt": "attacking midfielder pass accuracy above 85% in Austrian Bundesliga", "min_minutes": 450, "offset": 0}}
+{"id": "s0578", "tag": "thresholds", "method": "POST", "path": "/api/search", "body": {"prompt": "central midfielder pass accuracy above 85%", "min_minutes": 450, "offset": 0}}
+{"id": "s0579", "tag": "thresholds", "method": "POST", "path": "/api/search", "body": {"prompt": "striker more than 1.5 dribbles per 90 in Jupiler Pro League", "min_minutes": 450, "offset": 0}}
+{"id": "s0580", "tag": "thresholds", "method": "POST", "path": "/api/search", "body": {"prompt": "winger more than 1.5 dribbles per 90 in 2. Bundesliga", "min_minutes": 450, "offset": 0}}
+{"id": "s0581", "tag": "thresholds", "method": "POST", "path": "/api/search", "body": {"prompt": "centre back more than 1.5 dribbles per 90 in Ekstraklasa", "min_minutes": 450, "offset": 0}}
+{"id": "s0582", "tag": "thresholds", "method": "POST", "path": "/api/search", "body": {"prompt": "defensive midfielder more than 1.5 dribbles per 90 in Ligue 2", "min_minutes": 450, "offset": 0}}
+{"id": "s0583", "tag": "thresholds", "method": "POST", "path": "/api/search", "body": {"prompt": "full back more than 1.5 dribbles per 90 in Austrian Bundesliga", "min_minutes": 450, "offset": 0}}
+{"id": "s0584", "tag": "thresholds", "method": "POST", "path": "/api/search", "body": {"prompt": "goalkeeper more than 1.5 dribbles per 90 in Serbian SuperLiga", "min_minutes": 450, "offset": 0}}
+{"id": "s0585", "tag": "thresholds", "method": "POST", "path": "/api/search", "body": {"prompt": "attacking midfielder more than 1.5 dribbles per 90 in the Balkans", "min_minutes": 450, "offset": 0}}
+{"id": "s0586", "tag": "thresholds", "method": "POST", "path": "/api/search", "body": {"prompt": "central midfielder more than 1.5 dribbles per 90", "min_minutes": 450, "offset": 0}}
+{"id": "s0587", "tag": "thresholds", "method": "POST", "path": "/api/search", "body": {"prompt": "striker duel win rate over 55% in Eredivisie", "min_minutes": 450, "offset": 0}}
+{"id": "s0588", "tag": "thresholds", "method": "POST", "path": "/api/search", "body": {"prompt": "winger duel win rate over 55% in Belgian Pro League", "min_minutes": 450, "offset": 0}}
+{"id": "s0589", "tag": "thresholds", "method": "POST", "path": "/api/search", "body": {"prompt": "centre back duel win rate over 55%", "min_minutes": 450, "offset": 0}}
+{"id": "s0590", "tag": "thresholds", "method": "POST", "path": "/api/search", "body": {"prompt": "defensive midfielder duel win rate over 55% in Eredivisie", "min_minutes": 450, "offset": 0}}
+{"id": "s0591", "tag": "thresholds", "method": "POST", "path": "/api/search", "body": {"prompt": "full back duel win rate over 55%", "min_minutes": 450, "offset": 0}}
+{"id": "s0592", "tag": "thresholds", "method": "POST", "path": "/api/search", "body": {"prompt": "goalkeeper duel win rate over 55%", "min_minutes": 450, "offset": 0}}
+{"id": "s0593", "tag": "thresholds", "method": "POST", "path": "/api/search", "body": {"prompt": "attacking midfielder duel win rate over 55% in La Liga", "min_minutes": 450, "offset": 0}}
+{"id": "s0594", "tag": "thresholds", "method": "POST", "path": "/api/search", "body": {"prompt": "central midfielder duel win rate over 55% in 2. Bundesliga", "min_minutes": 450, "offset": 0}}
+{"id": "s0595", "tag": "thresholds", "method": "POST", "path": "/api/search", "body": {"prompt": "striker with 5 aerials won per 90", "min_minutes": 450, "offset": 0}}
+{"id": "s0596", "tag": "thresholds", "method": "POST", "path": "/api/search", "body": {"prompt": "winger with 5 aerials won per 90", "min_minutes": 450, "offset": 0}}
+{"id": "s0597", "tag": "thresholds", "method": "POST", "path": "/api/search", "body": {"prompt": "centre back with 5 aerials won per 90", "min_minutes": 450, "offset": 0}}
+{"id": "s0598", "tag": "thresholds", "method": "POST", "path": "/api/search", "body": {"prompt": "defensive midfielder with 5 aerials won per 90", "min_minutes": 450, "offset": 0}}
+{"id": "s0599", "tag": "thresholds", "method": "POST", "path": "/api/search", "body": {"prompt": "full back with 5 aerials won per 90", "min_minutes": 450, "offset": 0}}
+{"id": "s0600", "tag": "thresholds", "method": "POST", "path": "/api/search", "body": {"prompt": "goalkeeper with 5 aerials won per 90 in A-League", "min_minutes": 450, "offset": 0}}
+{"id": "s0601", "tag": "thresholds", "method": "POST", "path": "/api/search", "body": {"prompt": "attacking midfielder with 5 aerials won per 90 in Danish Superliga", "min_minutes": 450, "offset": 0}}
+{"id": "s0602", "tag": "thresholds", "method": "POST", "path": "/api/search", "body": {"prompt": "central midfielder with 5 aerials won per 90 in Serbian SuperLiga", "min_minutes": 450, "offset": 0}}
+{"id": "s0603", "tag": "thresholds", "method": "POST", "path": "/api/search", "body": {"prompt": "striker with over 1500 minutes", "min_minutes": 450, "offset": 0}}
+{"id": "s0604", "tag": "thresholds", "method": "POST", "path": "/api/search", "body": {"prompt": "winger with over 1500 minutes in K League", "min_minutes": 450, "offset": 0}}
+{"id": "s0605", "tag": "thresholds", "method": "POST", "path": "/api/search", "body": {"prompt": "centre back with over 1500 minutes in Liga Portugal", "min_minutes": 450, "offset": 0}}
+{"id": "s0606", "tag": "thresholds", "method": "POST", "path": "/api/search", "body": {"prompt": "defensive midfielder with over 1500 minutes", "min_minutes": 450, "offset": 0}}
+{"id": "s0607", "tag": "thresholds", "method": "POST", "path": "/api/search", "body": {"prompt": "full back with over 1500 minutes in Saudi Pro League", "min_minutes": 450, "offset": 0}}
+{"id": "s0608", "tag": "thresholds", "method": "POST", "path": "/api/search", "body": {"prompt": "goalkeeper with over 1500 minutes", "min_minutes": 450, "offset": 0}}
+{"id": "s0609", "tag": "thresholds", "method": "POST", "path": "/api/search", "body": {"prompt": "attacking midfielder with over 1500 minutes in Czech First League", "min_minutes": 450, "offset": 0}}
+{"id": "s0610", "tag": "thresholds", "method": "POST", "path": "/api/search", "body": {"prompt": "central midfielder with over 1500 minutes in Austrian Bundesliga", "min_minutes": 450, "offset": 0}}
+{"id": "s0611", "tag": "thresholds", "method": "POST", "path": "/api/search", "body": {"prompt": "striker xG over 0.3 per 90 in the Balkans", "min_minutes": 450, "offset": 0}}
+{"id": "s0612", "tag": "thresholds", "method": "POST", "path": "/api/search", "body": {"prompt": "winger xG over 0.3 per 90", "min_minutes": 450, "offset": 0}}
+{"id": "s0613", "tag": "thresholds", "method": "POST", "path": "/api/search", "body": {"prompt": "centre back xG over 0.3 per 90 in Segunda", "min_minutes": 450, "offset": 0}}
+{"id": "s0614", "tag": "thresholds", "method": "POST", "path": "/api/search", "body": {"prompt": "defensive midfielder xG over 0.3 per 90", "min_minutes": 450, "offset": 0}}
+{"id": "s0615", "tag": "thresholds", "method": "POST", "path": "/api/search", "body": {"prompt": "full back xG over 0.3 per 90 in Africa", "min_minutes": 450, "offset": 0}}
+{"id": "s0616", "tag": "thresholds", "method": "POST", "path": "/api/search", "body": {"prompt": "goalkeeper xG over 0.3 per 90 in the Balkans", "min_minutes": 450, "offset": 0}}
+{"id": "s0617", "tag": "thresholds", "method": "POST", "path": "/api/search", "body": {"prompt": "attacking midfielder xG over 0.3 per 90 in NPL Victoria", "min_minutes": 450, "offset": 0}}
+{"id": "s0618", "tag": "thresholds", "method": "POST", "path": "/api/search", "body": {"prompt": "central midfielder xG over 0.3 per 90 in Swiss Super League", "min_minutes": 450, "offset": 0}}
+{"id": "s0619", "tag": "thresholds", "method": "POST", "path": "/api/search", "body": {"prompt": "striker with 0.3 assists per 90", "min_minutes": 450, "offset": 0}}
+{"id": "s0620", "tag": "thresholds", "method": "POST", "path": "/api/search", "body": {"prompt": "winger with 0.3 assists per 90 in Croatian league", "min_minutes": 450, "offset": 0}}
+{"id": "s0621", "tag": "thresholds", "method": "POST", "path": "/api/search", "body": {"prompt": "centre back with 0.3 assists per 90 in Scottish Premiership", "min_minutes": 450, "offset": 0}}
+{"id": "s0622", "tag": "thresholds", "method": "POST", "path": "/api/search", "body": {"prompt": "defensive midfielder with 0.3 assists per 90 in Scandinavia", "min_minutes": 450, "offset": 0}}
+{"id": "s0623", "tag": "thresholds", "method": "POST", "path": "/api/search", "body": {"prompt": "full back with 0.3 assists per 90 in Ligue 2", "min_minutes": 450, "offset": 0}}
+{"id": "s0624", "tag": "thresholds", "method": "POST", "path": "/api/search", "body": {"prompt": "goalkeeper with 0.3 assists per 90 in Eerste Divisie", "min_minutes": 450, "offset": 0}}
+{"id": "s0625", "tag": "thresholds", "method": "POST", "path": "/api/search", "body": {"prompt": "attacking midfielder with 0.3 assists per 90 in Swiss Super League", "min_minutes": 450, "offset": 0}}
+{"id": "s0626", "tag": "thresholds", "method": "POST", "path": "/api/search", "body": {"prompt": "central midfielder with 0.3 assists per 90 in Greek Super League", "min_minutes": 450, "offset": 0}}
+{"id": "s0627", "tag": "thresholds", "method": "POST", "path": "/api/search", "body": {"prompt": "striker fewer than 1 foul per 90 in Ligue 2", "min_minutes": 450, "offset": 0}}
+{"id": "s0628", "tag": "thresholds", "method": "POST", "path": "/api/search", "body": {"prompt": "winger fewer than 1 foul per 90", "min_minutes": 450, "offset": 0}}
+{"id": "s0629", "tag": "thresholds", "method": "POST", "path": "/api/search", "body": {"prompt": "centre back fewer than 1 foul per 90", "min_minutes": 450, "offset": 0}}
+{"id": "s0630", "tag": "thresholds", "method": "POST", "path": "/api/search", "body": {"prompt": "defensive midfielder fewer than 1 foul per 90", "min_minutes": 450, "offset": 0}}
+{"id": "s0631", "tag": "thresholds", "method": "POST", "path": "/api/search", "body": {"prompt": "full back fewer than 1 foul per 90", "min_minutes": 450, "offset": 0}}
+{"id": "s0632", "tag": "thresholds", "method": "POST", "path": "/api/search", "body": {"prompt": "goalkeeper fewer than 1 foul per 90", "min_minutes": 450, "offset": 0}}
+{"id": "s0633", "tag": "thresholds", "method": "POST", "path": "/api/search", "body": {"prompt": "attacking midfielder fewer than 1 foul per 90", "min_minutes": 450, "offset": 0}}
+{"id": "s0634", "tag": "thresholds", "method": "POST", "path": "/api/search", "body": {"prompt": "central midfielder fewer than 1 foul per 90", "min_minutes": 450, "offset": 0}}
+{"id": "s0635", "tag": "thresholds", "method": "POST", "path": "/api/search", "body": {"prompt": "striker saves 3+ per 90", "min_minutes": 450, "offset": 0}}
+{"id": "s0636", "tag": "thresholds", "method": "POST", "path": "/api/search", "body": {"prompt": "winger saves 3+ per 90 in Serie B", "min_minutes": 450, "offset": 0}}
+{"id": "s0637", "tag": "thresholds", "method": "POST", "path": "/api/search", "body": {"prompt": "centre back saves 3+ per 90 in Premier League", "min_minutes": 450, "offset": 0}}
+{"id": "s0638", "tag": "thresholds", "method": "POST", "path": "/api/search", "body": {"prompt": "defensive midfielder saves 3+ per 90 in J1 League", "min_minutes": 450, "offset": 0}}
+{"id": "s0639", "tag": "thresholds", "method": "POST", "path": "/api/search", "body": {"prompt": "full back saves 3+ per 90 in the Nordics", "min_minutes": 450, "offset": 0}}
+{"id": "s0640", "tag": "thresholds", "method": "POST", "path": "/api/search", "body": {"prompt": "goalkeeper saves 3+ per 90", "min_minutes": 450, "offset": 0}}
+{"id": "s0641", "tag": "thresholds", "method": "POST", "path": "/api/search", "body": {"prompt": "attacking midfielder saves 3+ per 90", "min_minutes": 450, "offset": 0}}
+{"id": "s0642", "tag": "thresholds", "method": "POST", "path": "/api/search", "body": {"prompt": "central midfielder saves 3+ per 90", "min_minutes": 450, "offset": 0}}
+{"id": "s0643", "tag": "shorthand", "method": "POST", "path": "/api/search", "body": {"prompt": "RB u23 Championship, pace + crossing, <£2m", "min_minutes": 450, "offset": 0}}
+{"id": "s0644", "tag": "shorthand", "method": "POST", "path": "/api/search", "body": {"prompt": "rb u23 championship pace + crossing <£2m", "min_minutes": 450, "offset": 0}}
+{"id": "s0645", "tag": "shorthand", "method": "POST", "path": "/api/search", "body": {"prompt": "CB lft ftd 6ft2+ Eredivisie", "min_minutes": 450, "offset": 0}}
+{"id": "s0646", "tag": "shorthand", "method": "POST", "path": "/api/search", "body": {"prompt": "cb lft ftd 6ft2+ eredivisie", "min_minutes": 450, "offset": 0}}
+{"id": "s0647", "tag": "shorthand", "method": "POST", "path": "/api/search", "body": {"prompt": "ST 20 goals+ last season lower leagues", "min_minutes": 450, "offset": 0}}
+{"id": "s0648", "tag": "shorthand", "method": "POST", "path": "/api/search", "body": {"prompt": "st 20 goals+ last season lower leagues", "min_minutes": 450, "offset": 0}}
+{"id": "s0649", "tag": "shorthand", "method": "POST", "path": "/api/search", "body": {"prompt": "LW u21 high dribble volume, cheap", "min_minutes": 450, "offset": 0}}
+{"id": "s0650", "tag": "shorthand", "method": "POST", "path": "/api/search", "body": {"prompt": "lw u21 high dribble volume cheap", "min_minutes": 450, "offset": 0}}
+{"id": "s0651", "tag": "shorthand", "method": "POST", "path": "/api/search", "body": {"prompt": "DM ball winner Bundesliga 2 under 2m", "min_minutes": 450, "offset": 0}}
+{"id": "s0652", "tag": "shorthand", "method": "POST", "path": "/api/search", "body": {"prompt": "dm ball winner bundesliga 2 under 2m", "min_minutes": 450, "offset": 0}}
+{"id": "s0653", "tag": "shorthand", "method": "POST", "path": "/api/search", "body": {"prompt": "GK u24 distributor Scandinavia", "min_minutes": 450, "offset": 0}}
+{"id": "s0654", "tag": "shorthand", "method": "POST", "path": "/api/search", "body": {"prompt": "gk u24 distributor scandinavia", "min_minutes": 450, "offset": 0}}
+{"id": "s0655", "tag": "shorthand", "method": "POST", "path": "/api/search", "body": {"prompt": "8 who can press and carry, Ligue 1, 22-26", "min_minutes": 450, "offset": 0}}
+{"id": "s0656", "tag": "shorthand", "method": "POST", "path": "/api/search", "body": {"prompt": "8 who can press and carry ligue 1 22-26", "min_minutes": 450, "offset": 0}}
+{"id": "s0657", "tag": "shorthand", "method": "POST", "path": "/api/search", "body": {"prompt": "CF aerially dominant, League One, free", "min_minutes": 450, "offset": 0}}
+{"id": "s0658", "tag": "shorthand", "method": "POST", "path": "/api/search", "body": {"prompt": "cf aerially dominant league one free", "min_minutes": 450, "offset": 0}}
+{"id": "s0659", "tag": "shorthand", "method": "POST", "path": "/api/search", "body": {"prompt": "AM/10 creative, Portugal, sell-on", "min_minutes": 450, "offset": 0}}
+{"id": "s0660", "tag": "shorthand", "method": "POST", "path": "/api/search", "body": {"prompt": "am/10 creative portugal sell-on", "min_minutes": 450, "offset": 0}}
+{"id": "s0661", "tag": "shorthand", "method": "POST", "path": "/api/search", "body": {"prompt": "LB inverted, comfortable in midfield, u25", "min_minutes": 450, "offset": 0}}
+{"id": "s0662", "tag": "shorthand", "method": "POST", "path": "/api/search", "body": {"prompt": "lb inverted comfortable in midfield u25", "min_minutes": 450, "offset": 0}}
+{"id": "s0663", "tag": "shorthand", "method": "POST", "path": "/api/search", "body": {"prompt": "need a replacement for our 6 who left, similar profile, MLS", "min_minutes": 450, "offset": 0}}
+{"id": "s0664", "tag": "shorthand", "method": "POST", "path": "/api/search", "body": {"prompt": "need a replacement for our 6 who left similar profile mls", "min_minutes": 450, "offset": 0}}
+{"id": "s0665", "tag": "shorthand", "method": "POST", "path": "/api/search", "body": {"prompt": "young CB to develop, bench option, low wages", "min_minutes": 450, "offset": 0}}
+{"id": "s0666", "tag": "shorthand", "method": "POST", "path": "/api/search", "body": {"prompt": "young cb to develop bench option low wages", "min_minutes": 450, "offset": 0}}
+{"id": "s0667", "tag": "shorthand", "method": "POST", "path": "/api/search", "body": {"prompt": "proven goalscorer for promotion push in the Championship", "min_minutes": 450, "offset": 0}}
+{"id": "s0668", "tag": "shorthand", "method": "POST", "path": "/api/search", "body": {"prompt": "proven goalscorer for promotion push in the championship", "min_minutes": 450, "offset": 0}}
+{"id": "s0669", "tag": "shorthand", "method": "POST", "path": "/api/search", "body": {"prompt": "experienced head for the dressing room, centre half, 30+", "min_minutes": 450, "offset": 0}}
+{"id": "s0670", "tag": "shorthand", "method": "POST", "path": "/api/search", "body": {"prompt": "experienced head for the dressing room centre half 30+", "min_minutes": 450, "offset": 0}}
+{"id": "s0671", "tag": "shorthand", "method": "POST", "path": "/api/search", "body": {"prompt": "wide man who can play both flanks", "min_minutes": 450, "offset": 0}}
+{"id": "s0672", "tag": "shorthand", "method": "POST", "path": "/api/search", "body": {"prompt": "utility player midfield/fullback", "min_minutes": 450, "offset": 0}}
+{"id": "s0673", "tag": "shorthand", "method": "POST", "path": "/api/search", "body": {"prompt": "pacey winger to run in behind, counter-attacking side", "min_minutes": 450, "offset": 0}}
+{"id": "s0674", "tag": "shorthand", "method": "POST", "path": "/api/search", "body": {"prompt": "pacey winger to run in behind counter-attacking side", "min_minutes": 450, "offset": 0}}
+{"id": "s0675", "tag": "shorthand", "method": "POST", "path": "/api/search", "body": {"prompt": "target man for a direct, long-ball side", "min_minutes": 450, "offset": 0}}
+{"id": "s0676", "tag": "shorthand", "method": "POST", "path": "/api/search", "body": {"prompt": "target man for a direct long-ball side", "min_minutes": 450, "offset": 0}}
+{"id": "s0677", "tag": "shorthand", "method": "POST", "path": "/api/search", "body": {"prompt": "high pressing 9 for a gegenpress system", "min_minutes": 450, "offset": 0}}
+{"id": "s0678", "tag": "shorthand", "method": "POST", "path": "/api/search", "body": {"prompt": "possession-based 6 who rarely loses the ball", "min_minutes": 450, "offset": 0}}
+{"id": "s0679", "tag": "negation", "method": "POST", "path": "/api/search", "body": {"prompt": "striker not in the Premier League", "min_minutes": 450, "offset": 0}}
+{"id": "s0680", "tag": "negation", "method": "POST", "path": "/api/search", "body": {"prompt": "winger under 24 excluding Spanish leagues", "min_minutes": 450, "offset": 0}}
+{"id": "s0681", "tag": "negation", "method": "POST", "path": "/api/search", "body": {"prompt": "centre back, no one over 28", "min_minutes": 450, "offset": 0}}
+{"id": "s0682", "tag": "negation", "method": "POST", "path": "/api/search", "body": {"prompt": "midfielder who isn't injured", "min_minutes": 450, "offset": 0}}
+{"id": "s0683", "tag": "negation", "method": "POST", "path": "/api/search", "body": {"prompt": "left back not on loan", "min_minutes": 450, "offset": 0}}
+{"id": "s0684", "tag": "negation", "method": "POST", "path": "/api/search", "body": {"prompt": "forward, not a target man", "min_minutes": 450, "offset": 0}}
+{"id": "s0685", "tag": "negation", "method": "POST", "path": "/api/search", "body": {"prompt": "goalkeeper not older than 30", "min_minutes": 450, "offset": 0}}
+{"id": "s0686", "tag": "negation", "method": "POST", "path": "/api/search", "body": {"prompt": "CB except Bundesliga players", "min_minutes": 450, "offset": 0}}
+{"id": "s0687", "tag": "negation", "method": "POST", "path": "/api/search", "body": {"prompt": "winger who is not left-footed", "min_minutes": 450, "offset": 0}}
+{"id": "s0688", "tag": "negation", "method": "POST", "path": "/api/search", "body": {"prompt": "striker no older than 25 not in MLS", "min_minutes": 450, "offset": 0}}
+{"id": "s0689", "tag": "multilingual", "method": "POST", "path": "/api/search", "body": {"prompt": "delantero centro joven con gol en Segunda División", "min_minutes": 450, "offset": 0}}
+{"id": "s0690", "tag": "multilingual", "method": "POST", "path": "/api/search", "body": {"prompt": "lateral derecho ofensivo menor de 23", "min_minutes": 450, "offset": 0}}
+{"id": "s0691", "tag": "multilingual", "method": "POST", "path": "/api/search", "body": {"prompt": "milieu défensif récupérateur en Ligue 2", "min_minutes": 450, "offset": 0}}
+{"id": "s0692", "tag": "multilingual", "method": "POST", "path": "/api/search", "body": {"prompt": "ailier gaucher rapide moins de 21 ans", "min_minutes": 450, "offset": 0}}
+{"id": "s0693", "tag": "multilingual", "method": "POST", "path": "/api/search", "body": {"prompt": "Innenverteidiger kopfballstark unter 25 aus der 2. Bundesliga", "min_minutes": 450, "offset": 0}}
+{"id": "s0694", "tag": "multilingual", "method": "POST", "path": "/api/search", "body": {"prompt": "schneller Flügelspieler mit Dribbling", "min_minutes": 450, "offset": 0}}
+{"id": "s0695", "tag": "multilingual", "method": "POST", "path": "/api/search", "body": {"prompt": "centrocampista box-to-box under 23 Serie B", "min_minutes": 450, "offset": 0}}
+{"id": "s0696", "tag": "multilingual", "method": "POST", "path": "/api/search", "body": {"prompt": "attaccante di area di rigore economico", "min_minutes": 450, "offset": 0}}
+{"id": "s0697", "tag": "multilingual", "method": "POST", "path": "/api/search", "body": {"prompt": "lateral esquerdo ofensivo no Brasileirão", "min_minutes": 450, "offset": 0}}
+{"id": "s0698", "tag": "multilingual", "method": "POST", "path": "/api/search", "body": {"prompt": "volante marcador sub-23", "min_minutes": 450, "offset": 0}}
+{"id": "s0699", "tag": "multilingual", "method": "POST", "path": "/api/search", "body": {"prompt": "atacante rápido para contra-ataque", "min_minutes": 450, "offset": 0}}
+{"id": "s0700", "tag": "multilingual", "method": "POST", "path": "/api/search", "body": {"prompt": "defensa central zurdo con salida de balón", "min_minutes": 450, "offset": 0}}
+{"id": "s0701", "tag": "typos", "method": "POST", "path": "/api/search", "body": {"prompt": "strikr with goals", "min_minutes": 450, "offset": 0}}
+{"id": "s0702", "tag": "typos", "method": "POST", "path": "/api/search", "body": {"prompt": "centr back tall", "min_minutes": 450, "offset": 0}}
+{"id": "s0703", "tag": "typos", "method": "POST", "path": "/api/search", "body": {"prompt": "wingr fast left footed", "min_minutes": 450, "offset": 0}}
+{"id": "s0704", "tag": "typos", "method": "POST", "path": "/api/search", "body": {"prompt": "defensiv midfeilder", "min_minutes": 450, "offset": 0}}
+{"id": "s0705", "tag": "typos", "method": "POST", "path": "/api/search", "body": {"prompt": "goalkeper shot stoper", "min_minutes": 450, "offset": 0}}
+{"id": "s0706", "tag": "typos", "method": "POST", "path": "/api/search", "body": {"prompt": "attaking midfielder creativ", "min_minutes": 450, "offset": 0}}
+{"id": "s0707", "tag": "typos", "method": "POST", "path": "/api/search", "body": {"prompt": "fullback crosing", "min_minutes": 450, "offset": 0}}
+{"id": "s0708", "tag": "typos", "method": "POST", "path": "/api/search", "body": {"prompt": "box too box midfielder", "min_minutes": 450, "offset": 0}}
+{"id": "s0709", "tag": "typos", "method": "POST", "path": "/api/search", "body": {"prompt": "inverted fullbak", "min_minutes": 450, "offset": 0}}
+{"id": "s0710", "tag": "typos", "method": "POST", "path": "/api/search", "body": {"prompt": "targt man", "min_minutes": 450, "offset": 0}}
+{"id": "s0711", "tag": "typos", "method": "POST", "path": "/api/search", "body": {"prompt": "poacher pl", "min_minutes": 450, "offset": 0}}
+{"id": "s0712", "tag": "typos", "method": "POST", "path": "/api/search", "body": {"prompt": "cb premeir league", "min_minutes": 450, "offset": 0}}
+{"id": "s0713", "tag": "typos", "method": "POST", "path": "/api/search", "body": {"prompt": "young keeper serie b", "min_minutes": 450, "offset": 0}}
+{"id": "s0714", "tag": "typos", "method": "POST", "path": "/api/search", "body": {"prompt": "winger bundesliga u21 cheap", "min_minutes": 450, "offset": 0}}
+{"id": "s0715", "tag": "named_player", "method": "POST", "path": "/api/search", "body": {"prompt": "a player like Rodri but cheaper", "min_minutes": 450, "offset": 0}}
+{"id": "s0716", "tag": "named_player", "method": "POST", "path": "/api/search", "body": {"prompt": "the next Bukayo Saka", "min_minutes": 450, "offset": 0}}
+{"id": "s0717", "tag": "named_player", "method": "POST", "path": "/api/search", "body": {"prompt": "replacement for Virgil van Dijk", "min_minutes": 450, "offset": 0}}
+{"id": "s0718", "tag": "named_player", "method": "POST", "path": "/api/search", "body": {"prompt": "striker similar to Erling Haaland in lower leagues", "min_minutes": 450, "offset": 0}}
+{"id": "s0719", "tag": "named_player", "method": "POST", "path": "/api/search", "body": {"prompt": "a younger version of Kevin De Bruyne", "min_minutes": 450, "offset": 0}}
+{"id": "s0720", "tag": "named_player", "method": "POST", "path": "/api/search", "body": {"prompt": "full back like Trent Alexander-Arnold", "min_minutes": 450, "offset": 0}}
+{"id": "s0721", "tag": "named_player", "method": "POST", "path": "/api/search", "body": {"prompt": "Kanté-type ball winner", "min_minutes": 450, "offset": 0}}
+{"id": "s0722", "tag": "named_player", "method": "POST", "path": "/api/search", "body": {"prompt": "keeper like Ederson with feet", "min_minutes": 450, "offset": 0}}
+{"id": "s0723", "tag": "named_player", "method": "POST", "path": "/api/search", "body": {"prompt": "a Thomas Müller type raumdeuter", "min_minutes": 450, "offset": 0}}
+{"id": "s0724", "tag": "named_player", "method": "POST", "path": "/api/search", "body": {"prompt": "winger like Kvaratskhelia under 5m", "min_minutes": 450, "offset": 0}}
+{"id": "s0725", "tag": "edge", "method": "POST", "path": "/api/search", "body": {"prompt": "best players", "min_minutes": 450, "offset": 0}}
+{"id": "s0726", "tag": "edge", "method": "POST", "path": "/api/search", "body": {"prompt": "good player", "min_minutes": 450, "offset": 0}}
+{"id": "s0727", "tag": "edge", "method": "POST", "path": "/api/search", "body": {"prompt": "cheap", "min_minutes": 450, "offset": 0}}
+{"id": "s0728", "tag": "edge", "method": "POST", "path": "/api/search", "body": {"prompt": "young talent", "min_minutes": 450, "offset": 0}}
+{"id": "s0729", "tag": "edge", "method": "POST", "path": "/api/search", "body": {"prompt": "who should I sign", "min_minutes": 450, "offset": 0}}
+{"id": "s0730", "tag": "edge", "method": "POST", "path": "/api/search", "body": {"prompt": "players available on a free", "min_minutes": 450, "offset": 0}}
+{"id": "s0731", "tag": "edge", "method": "POST", "path": "/api/search", "body": {"prompt": "top scorers", "min_minutes": 450, "offset": 0}}
+{"id": "s0732", "tag": "edge", "method": "POST", "path": "/api/search", "body": {"prompt": "hidden gems", "min_minutes": 450, "offset": 0}}
+{"id": "s0733", "tag": "edge", "method": "POST", "path": "/api/search", "body": {"prompt": "underrated defenders", "min_minutes": 450, "offset": 0}}
+{"id": "s0734", "tag": "edge", "method": "POST", "path": "/api/search", "body": {"prompt": "most improved", "min_minutes": 450, "offset": 0}}
+{"id": "s0735", "tag": "edge", "method": "POST", "path": "/api/search", "body": {"prompt": "", "min_minutes": 450, "offset": 0}}
+{"id": "s0736", "tag": "edge", "method": "POST", "path": "/api/search", "body": {"prompt": "a", "min_minutes": 450, "offset": 0}}
+{"id": "s0737", "tag": "edge", "method": "POST", "path": "/api/search", "body": {"prompt": "123", "min_minutes": 450, "offset": 0}}
+{"id": "s0738", "tag": "edge", "method": "POST", "path": "/api/search", "body": {"prompt": "midfielder midfielder midfielder", "min_minutes": 450, "offset": 0}}
+{"id": "s0739", "tag": "edge", "method": "POST", "path": "/api/search", "body": {"prompt": "striker in Narnia League", "min_minutes": 450, "offset": 0}}
+{"id": "s0740", "tag": "edge", "method": "POST", "path": "/api/search", "body": {"prompt": "player under 5 years old", "min_minutes": 450, "offset": 0}}
+{"id": "s0741", "tag": "edge", "method": "POST", "path": "/api/search", "body": {"prompt": "striker over 50", "min_minutes": 450, "offset": 0}}
+{"id": "s0742", "tag": "edge", "method": "POST", "path": "/api/search", "body": {"prompt": "goalkeeper who scores goals", "min_minutes": 450, "offset": 0}}
+{"id": "s0743", "tag": "edge", "method": "POST", "path": "/api/search", "body": {"prompt": "centre back with 10 goals per 90", "min_minutes": 450, "offset": 0}}
+{"id": "s0744", "tag": "edge", "method": "POST", "path": "/api/search", "body": {"prompt": "winger under €0", "min_minutes": 450, "offset": 0}}
