@@ -7,4 +7,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - run: |
-          curl -s https://qimgcswndezrhoiokphu.supabase.co/auth/v1/.well-known/jwks.json | python3 -c "import sys,json;d=json.load(sys.stdin);print('KEYS',[(k.get('kty'),k.get('alg'),k.get('kid','')[:8]) for k in d.get('keys',[])])"
+          curl -s https://qimgcswndezrhoiokphu.supabase.co/auth/v1/.well-known/jwks.json | python3 -c "import sys,json;d=json.load(sys.stdin);print('::notice::KEYS',[(k.get('kty'),k.get('alg'),k.get('kid','')[:8]) for k in d.get('keys',[])])"
