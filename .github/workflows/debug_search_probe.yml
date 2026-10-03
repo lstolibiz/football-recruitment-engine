@@ -11,15 +11,10 @@ jobs:
           python3 - <<'PY'
           import json, urllib.request
           API = "https://football-recruitment-engine-production.up.railway.app"
-          L = json.load(urllib.request.urlopen(API + "/api/leagues", timeout=180))
-          print("ITALY GROUP:", json.dumps(L.get("Italy") if isinstance(L, dict) else None, ensure_ascii=False))
-          flat = [x for v in (L.values() if isinstance(L, dict) else []) for x in (v if isinstance(v, list) else [])]
-          print("LEAGUES WITH serie/ital:", [x for x in flat if "serie" in x.lower() or "ital" in x.lower()])
-          for p in ["attacking midfielder", "striker in Serie A", "attacking midfielder in Serie B (Italy)"]:
-              req = urllib.request.Request(API + "/api/search", data=json.dumps({"prompt": p, "min_minutes": 450, "offset": 0}).encode(), headers={"Content-Type": "application/json"})
+          for p, mm in [("striker in Serie A", 0), ("striker in Serie A", 200), ("striker in Serie A", 450), ("striker in Premier League", 450), ("striker in Bundesliga", 450), ("striker in La Liga", 450), ("striker in Ligue 1", 450), ("striker in Eredivisie", 450)]:
+              req = urllib.request.Request(API + "/api/search", data=json.dumps({"prompt": p, "min_minutes": mm, "offset": 0}).encode(), headers={"Content-Type": "application/json"})
               r = json.load(urllib.request.urlopen(req, timeout=180))
-              q = r.get("query_interpretation") or {}
-              print("==", p, "| total", r.get("total_found"), "| leagues", q.get("leagues"))
-              from collections import Counter
-              print("   leagues of results:", Counter(x["league_name"] for x in r.get("players") or []).most_common(8))
+              pl = r.get("players") or []
+              mins = sorted((x.get("stats") or {}).get("minutes_played") or 0 for x in pl)
+              print(f"== {p} | min_minutes={mm} | total {r.get('total_found')} | leagues {(r.get('query_interpretation') or {}).get('leagues')} | minutes of results: min {mins[0] if mins else None} max {mins[-1] if mins else None}")
           PY
