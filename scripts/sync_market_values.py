@@ -73,6 +73,7 @@ def fetch_all_players(sb) -> list[dict]:
         resp = (
             sb.table(TABLE)
             .select(select)
+            .order(COL_PK)
             .range(start, start + PAGE_SIZE - 1)
             .execute()
         )
@@ -162,7 +163,10 @@ def main() -> int:
             update: dict = {COL_MARKET_VALUE: new_value}
             if COL_TM_ID:
                 update[COL_TM_ID] = tm_id
-            if COL_CLUB and matched_club:
+            # NEVER overwrite our club name with Transfermarkt's spelling ("Manchester Utd" vs "Manchester
+            # United"): team_name is the join key for squads, the TM scrapers and the squad-gap builder.
+            # Only fill it when we have none.
+            if COL_CLUB and matched_club and not club:
                 update[COL_CLUB] = matched_club
             if COL_TM_SYNCED_AT:
                 update[COL_TM_SYNCED_AT] = datetime.now(timezone.utc).isoformat()
@@ -190,6 +194,13 @@ def main() -> int:
             f, ensure_ascii=False, indent=2,
         )
     print(f"Review report ({len(review)} players) -> {REVIEW_PATH}", flush=True)
+    # A dead / blocked Transfermarkt API makes every player an "error" yet the run used to end green
+    # after hours. Fail loudly so the scheduled workflow turns red.
+    written = stats["exact"] + stats["linked"]
+    if stats["total"] >= 20 and (stats["errors"] / stats["total"] > 0.20 or written == 0):
+        print(f"::error::market value sync: {stats['errors']} errors / {stats['total']} players, "
+              f"{stats['updated'] + stats['unchanged']} written", flush=True)
+        return 1
     return 0
 
 
