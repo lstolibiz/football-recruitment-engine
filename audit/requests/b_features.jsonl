@@ -1,0 +1,855 @@
+{"id": "b-similar-439266", "tag": "player:similar", "method": "GET", "path": "/api/players/439266/similar", "body": null}
+{"id": "b-career-439266", "tag": "player:career", "method": "GET", "path": "/api/players/439266/career", "body": null}
+{"id": "b-injuries-439266", "tag": "player:injuries", "method": "GET", "path": "/api/players/439266/injuries", "body": null}
+{"id": "b-rankings-439266", "tag": "player:rankings", "method": "GET", "path": "/api/players/439266/rankings", "body": null}
+{"id": "b-strengths-weaknesses-439266", "tag": "player:strengths-weaknesses", "method": "GET", "path": "/api/players/439266/strengths-weaknesses", "body": null}
+{"id": "b-age-curve-439266", "tag": "player:age-curve", "method": "GET", "path": "/api/players/439266/age-curve", "body": null}
+{"id": "b-similar-17158444", "tag": "player:similar", "method": "GET", "path": "/api/players/17158444/similar", "body": null}
+{"id": "b-career-17158444", "tag": "player:career", "method": "GET", "path": "/api/players/17158444/career", "body": null}
+{"id": "b-injuries-17158444", "tag": "player:injuries", "method": "GET", "path": "/api/players/17158444/injuries", "body": null}
+{"id": "b-rankings-17158444", "tag": "player:rankings", "method": "GET", "path": "/api/players/17158444/rankings", "body": null}
+{"id": "b-strengths-weaknesses-17158444", "tag": "player:strengths-weaknesses", "method": "GET", "path": "/api/players/17158444/strengths-weaknesses", "body": null}
+{"id": "b-age-curve-17158444", "tag": "player:age-curve", "method": "GET", "path": "/api/players/17158444/age-curve", "body": null}
+{"id": "b-similar-220052", "tag": "player:similar", "method": "GET", "path": "/api/players/220052/similar", "body": null}
+{"id": "b-career-220052", "tag": "player:career", "method": "GET", "path": "/api/players/220052/career", "body": null}
+{"id": "b-injuries-220052", "tag": "player:injuries", "method": "GET", "path": "/api/players/220052/injuries", "body": null}
+{"id": "b-rankings-220052", "tag": "player:rankings", "method": "GET", "path": "/api/players/220052/rankings", "body": null}
+{"id": "b-strengths-weaknesses-220052", "tag": "player:strengths-weaknesses", "method": "GET", "path": "/api/players/220052/strengths-weaknesses", "body": null}
+{"id": "b-age-curve-220052", "tag": "player:age-curve", "method": "GET", "path": "/api/players/220052/age-curve", "body": null}
+{"id": "b-similar-37324884", "tag": "player:similar", "method": "GET", "path": "/api/players/37324884/similar", "body": null}
+{"id": "b-career-37324884", "tag": "player:career", "method": "GET", "path": "/api/players/37324884/career", "body": null}
+{"id": "b-injuries-37324884", "tag": "player:injuries", "method": "GET", "path": "/api/players/37324884/injuries", "body": null}
+{"id": "b-rankings-37324884", "tag": "player:rankings", "method": "GET", "path": "/api/players/37324884/rankings", "body": null}
+{"id": "b-strengths-weaknesses-37324884", "tag": "player:strengths-weaknesses", "method": "GET", "path": "/api/players/37324884/strengths-weaknesses", "body": null}
+{"id": "b-age-curve-37324884", "tag": "player:age-curve", "method": "GET", "path": "/api/players/37324884/age-curve", "body": null}
+{"id": "b-similar-37787869", "tag": "player:similar", "method": "GET", "path": "/api/players/37787869/similar", "body": null}
+{"id": "b-career-37787869", "tag": "player:career", "method": "GET", "path": "/api/players/37787869/career", "body": null}
+{"id": "b-injuries-37787869", "tag": "player:injuries", "method": "GET", "path": "/api/players/37787869/injuries", "body": null}
+{"id": "b-rankings-37787869", "tag": "player:rankings", "method": "GET", "path": "/api/players/37787869/rankings", "body": null}
+{"id": "b-strengths-weaknesses-37787869", "tag": "player:strengths-weaknesses", "method": "GET", "path": "/api/players/37787869/strengths-weaknesses", "body": null}
+{"id": "b-age-curve-37787869", "tag": "player:age-curve", "method": "GET", "path": "/api/players/37787869/age-curve", "body": null}
+{"id": "b-similar-275565", "tag": "player:similar", "method": "GET", "path": "/api/players/275565/similar", "body": null}
+{"id": "b-career-275565", "tag": "player:career", "method": "GET", "path": "/api/players/275565/career", "body": null}
+{"id": "b-injuries-275565", "tag": "player:injuries", "method": "GET", "path": "/api/players/275565/injuries", "body": null}
+{"id": "b-rankings-275565", "tag": "player:rankings", "method": "GET", "path": "/api/players/275565/rankings", "body": null}
+{"id": "b-strengths-weaknesses-275565", "tag": "player:strengths-weaknesses", "method": "GET", "path": "/api/players/275565/strengths-weaknesses", "body": null}
+{"id": "b-age-curve-275565", "tag": "player:age-curve", "method": "GET", "path": "/api/players/275565/age-curve", "body": null}
+{"id": "b-similar-37391640", "tag": "player:similar", "method": "GET", "path": "/api/players/37391640/similar", "body": null}
+{"id": "b-career-37391640", "tag": "player:career", "method": "GET", "path": "/api/players/37391640/career", "body": null}
+{"id": "b-injuries-37391640", "tag": "player:injuries", "method": "GET", "path": "/api/players/37391640/injuries", "body": null}
+{"id": "b-rankings-37391640", "tag": "player:rankings", "method": "GET", "path": "/api/players/37391640/rankings", "body": null}
+{"id": "b-strengths-weaknesses-37391640", "tag": "player:strengths-weaknesses", "method": "GET", "path": "/api/players/37391640/strengths-weaknesses", "body": null}
+{"id": "b-age-curve-37391640", "tag": "player:age-curve", "method": "GET", "path": "/api/players/37391640/age-curve", "body": null}
+{"id": "b-similar-368455", "tag": "player:similar", "method": "GET", "path": "/api/players/368455/similar", "body": null}
+{"id": "b-career-368455", "tag": "player:career", "method": "GET", "path": "/api/players/368455/career", "body": null}
+{"id": "b-injuries-368455", "tag": "player:injuries", "method": "GET", "path": "/api/players/368455/injuries", "body": null}
+{"id": "b-rankings-368455", "tag": "player:rankings", "method": "GET", "path": "/api/players/368455/rankings", "body": null}
+{"id": "b-strengths-weaknesses-368455", "tag": "player:strengths-weaknesses", "method": "GET", "path": "/api/players/368455/strengths-weaknesses", "body": null}
+{"id": "b-age-curve-368455", "tag": "player:age-curve", "method": "GET", "path": "/api/players/368455/age-curve", "body": null}
+{"id": "b-similar-947", "tag": "player:similar", "method": "GET", "path": "/api/players/947/similar", "body": null}
+{"id": "b-career-947", "tag": "player:career", "method": "GET", "path": "/api/players/947/career", "body": null}
+{"id": "b-injuries-947", "tag": "player:injuries", "method": "GET", "path": "/api/players/947/injuries", "body": null}
+{"id": "b-rankings-947", "tag": "player:rankings", "method": "GET", "path": "/api/players/947/rankings", "body": null}
+{"id": "b-strengths-weaknesses-947", "tag": "player:strengths-weaknesses", "method": "GET", "path": "/api/players/947/strengths-weaknesses", "body": null}
+{"id": "b-age-curve-947", "tag": "player:age-curve", "method": "GET", "path": "/api/players/947/age-curve", "body": null}
+{"id": "b-similar-20683927", "tag": "player:similar", "method": "GET", "path": "/api/players/20683927/similar", "body": null}
+{"id": "b-career-20683927", "tag": "player:career", "method": "GET", "path": "/api/players/20683927/career", "body": null}
+{"id": "b-injuries-20683927", "tag": "player:injuries", "method": "GET", "path": "/api/players/20683927/injuries", "body": null}
+{"id": "b-rankings-20683927", "tag": "player:rankings", "method": "GET", "path": "/api/players/20683927/rankings", "body": null}
+{"id": "b-strengths-weaknesses-20683927", "tag": "player:strengths-weaknesses", "method": "GET", "path": "/api/players/20683927/strengths-weaknesses", "body": null}
+{"id": "b-age-curve-20683927", "tag": "player:age-curve", "method": "GET", "path": "/api/players/20683927/age-curve", "body": null}
+{"id": "b-similar-37527355", "tag": "player:similar", "method": "GET", "path": "/api/players/37527355/similar", "body": null}
+{"id": "b-career-37527355", "tag": "player:career", "method": "GET", "path": "/api/players/37527355/career", "body": null}
+{"id": "b-injuries-37527355", "tag": "player:injuries", "method": "GET", "path": "/api/players/37527355/injuries", "body": null}
+{"id": "b-rankings-37527355", "tag": "player:rankings", "method": "GET", "path": "/api/players/37527355/rankings", "body": null}
+{"id": "b-strengths-weaknesses-37527355", "tag": "player:strengths-weaknesses", "method": "GET", "path": "/api/players/37527355/strengths-weaknesses", "body": null}
+{"id": "b-age-curve-37527355", "tag": "player:age-curve", "method": "GET", "path": "/api/players/37527355/age-curve", "body": null}
+{"id": "b-similar-37596742", "tag": "player:similar", "method": "GET", "path": "/api/players/37596742/similar", "body": null}
+{"id": "b-career-37596742", "tag": "player:career", "method": "GET", "path": "/api/players/37596742/career", "body": null}
+{"id": "b-injuries-37596742", "tag": "player:injuries", "method": "GET", "path": "/api/players/37596742/injuries", "body": null}
+{"id": "b-rankings-37596742", "tag": "player:rankings", "method": "GET", "path": "/api/players/37596742/rankings", "body": null}
+{"id": "b-strengths-weaknesses-37596742", "tag": "player:strengths-weaknesses", "method": "GET", "path": "/api/players/37596742/strengths-weaknesses", "body": null}
+{"id": "b-age-curve-37596742", "tag": "player:age-curve", "method": "GET", "path": "/api/players/37596742/age-curve", "body": null}
+{"id": "b-similar-13980990", "tag": "player:similar", "method": "GET", "path": "/api/players/13980990/similar", "body": null}
+{"id": "b-career-13980990", "tag": "player:career", "method": "GET", "path": "/api/players/13980990/career", "body": null}
+{"id": "b-injuries-13980990", "tag": "player:injuries", "method": "GET", "path": "/api/players/13980990/injuries", "body": null}
+{"id": "b-rankings-13980990", "tag": "player:rankings", "method": "GET", "path": "/api/players/13980990/rankings", "body": null}
+{"id": "b-strengths-weaknesses-13980990", "tag": "player:strengths-weaknesses", "method": "GET", "path": "/api/players/13980990/strengths-weaknesses", "body": null}
+{"id": "b-age-curve-13980990", "tag": "player:age-curve", "method": "GET", "path": "/api/players/13980990/age-curve", "body": null}
+{"id": "b-similar-37538531", "tag": "player:similar", "method": "GET", "path": "/api/players/37538531/similar", "body": null}
+{"id": "b-career-37538531", "tag": "player:career", "method": "GET", "path": "/api/players/37538531/career", "body": null}
+{"id": "b-injuries-37538531", "tag": "player:injuries", "method": "GET", "path": "/api/players/37538531/injuries", "body": null}
+{"id": "b-rankings-37538531", "tag": "player:rankings", "method": "GET", "path": "/api/players/37538531/rankings", "body": null}
+{"id": "b-strengths-weaknesses-37538531", "tag": "player:strengths-weaknesses", "method": "GET", "path": "/api/players/37538531/strengths-weaknesses", "body": null}
+{"id": "b-age-curve-37538531", "tag": "player:age-curve", "method": "GET", "path": "/api/players/37538531/age-curve", "body": null}
+{"id": "b-similar-37555036", "tag": "player:similar", "method": "GET", "path": "/api/players/37555036/similar", "body": null}
+{"id": "b-career-37555036", "tag": "player:career", "method": "GET", "path": "/api/players/37555036/career", "body": null}
+{"id": "b-injuries-37555036", "tag": "player:injuries", "method": "GET", "path": "/api/players/37555036/injuries", "body": null}
+{"id": "b-rankings-37555036", "tag": "player:rankings", "method": "GET", "path": "/api/players/37555036/rankings", "body": null}
+{"id": "b-strengths-weaknesses-37555036", "tag": "player:strengths-weaknesses", "method": "GET", "path": "/api/players/37555036/strengths-weaknesses", "body": null}
+{"id": "b-age-curve-37555036", "tag": "player:age-curve", "method": "GET", "path": "/api/players/37555036/age-curve", "body": null}
+{"id": "b-similar-174296", "tag": "player:similar", "method": "GET", "path": "/api/players/174296/similar", "body": null}
+{"id": "b-career-174296", "tag": "player:career", "method": "GET", "path": "/api/players/174296/career", "body": null}
+{"id": "b-injuries-174296", "tag": "player:injuries", "method": "GET", "path": "/api/players/174296/injuries", "body": null}
+{"id": "b-rankings-174296", "tag": "player:rankings", "method": "GET", "path": "/api/players/174296/rankings", "body": null}
+{"id": "b-strengths-weaknesses-174296", "tag": "player:strengths-weaknesses", "method": "GET", "path": "/api/players/174296/strengths-weaknesses", "body": null}
+{"id": "b-age-curve-174296", "tag": "player:age-curve", "method": "GET", "path": "/api/players/174296/age-curve", "body": null}
+{"id": "b-similar-165", "tag": "player:similar", "method": "GET", "path": "/api/players/165/similar", "body": null}
+{"id": "b-career-165", "tag": "player:career", "method": "GET", "path": "/api/players/165/career", "body": null}
+{"id": "b-injuries-165", "tag": "player:injuries", "method": "GET", "path": "/api/players/165/injuries", "body": null}
+{"id": "b-rankings-165", "tag": "player:rankings", "method": "GET", "path": "/api/players/165/rankings", "body": null}
+{"id": "b-strengths-weaknesses-165", "tag": "player:strengths-weaknesses", "method": "GET", "path": "/api/players/165/strengths-weaknesses", "body": null}
+{"id": "b-age-curve-165", "tag": "player:age-curve", "method": "GET", "path": "/api/players/165/age-curve", "body": null}
+{"id": "b-similar-1396", "tag": "player:similar", "method": "GET", "path": "/api/players/1396/similar", "body": null}
+{"id": "b-career-1396", "tag": "player:career", "method": "GET", "path": "/api/players/1396/career", "body": null}
+{"id": "b-injuries-1396", "tag": "player:injuries", "method": "GET", "path": "/api/players/1396/injuries", "body": null}
+{"id": "b-rankings-1396", "tag": "player:rankings", "method": "GET", "path": "/api/players/1396/rankings", "body": null}
+{"id": "b-strengths-weaknesses-1396", "tag": "player:strengths-weaknesses", "method": "GET", "path": "/api/players/1396/strengths-weaknesses", "body": null}
+{"id": "b-age-curve-1396", "tag": "player:age-curve", "method": "GET", "path": "/api/players/1396/age-curve", "body": null}
+{"id": "b-similar-37684845", "tag": "player:similar", "method": "GET", "path": "/api/players/37684845/similar", "body": null}
+{"id": "b-career-37684845", "tag": "player:career", "method": "GET", "path": "/api/players/37684845/career", "body": null}
+{"id": "b-injuries-37684845", "tag": "player:injuries", "method": "GET", "path": "/api/players/37684845/injuries", "body": null}
+{"id": "b-rankings-37684845", "tag": "player:rankings", "method": "GET", "path": "/api/players/37684845/rankings", "body": null}
+{"id": "b-strengths-weaknesses-37684845", "tag": "player:strengths-weaknesses", "method": "GET", "path": "/api/players/37684845/strengths-weaknesses", "body": null}
+{"id": "b-age-curve-37684845", "tag": "player:age-curve", "method": "GET", "path": "/api/players/37684845/age-curve", "body": null}
+{"id": "b-similar-37757029", "tag": "player:similar", "method": "GET", "path": "/api/players/37757029/similar", "body": null}
+{"id": "b-career-37757029", "tag": "player:career", "method": "GET", "path": "/api/players/37757029/career", "body": null}
+{"id": "b-injuries-37757029", "tag": "player:injuries", "method": "GET", "path": "/api/players/37757029/injuries", "body": null}
+{"id": "b-rankings-37757029", "tag": "player:rankings", "method": "GET", "path": "/api/players/37757029/rankings", "body": null}
+{"id": "b-strengths-weaknesses-37757029", "tag": "player:strengths-weaknesses", "method": "GET", "path": "/api/players/37757029/strengths-weaknesses", "body": null}
+{"id": "b-age-curve-37757029", "tag": "player:age-curve", "method": "GET", "path": "/api/players/37757029/age-curve", "body": null}
+{"id": "b-similar-37703786", "tag": "player:similar", "method": "GET", "path": "/api/players/37703786/similar", "body": null}
+{"id": "b-career-37703786", "tag": "player:career", "method": "GET", "path": "/api/players/37703786/career", "body": null}
+{"id": "b-injuries-37703786", "tag": "player:injuries", "method": "GET", "path": "/api/players/37703786/injuries", "body": null}
+{"id": "b-rankings-37703786", "tag": "player:rankings", "method": "GET", "path": "/api/players/37703786/rankings", "body": null}
+{"id": "b-strengths-weaknesses-37703786", "tag": "player:strengths-weaknesses", "method": "GET", "path": "/api/players/37703786/strengths-weaknesses", "body": null}
+{"id": "b-age-curve-37703786", "tag": "player:age-curve", "method": "GET", "path": "/api/players/37703786/age-curve", "body": null}
+{"id": "b-similar-96706", "tag": "player:similar", "method": "GET", "path": "/api/players/96706/similar", "body": null}
+{"id": "b-career-96706", "tag": "player:career", "method": "GET", "path": "/api/players/96706/career", "body": null}
+{"id": "b-injuries-96706", "tag": "player:injuries", "method": "GET", "path": "/api/players/96706/injuries", "body": null}
+{"id": "b-rankings-96706", "tag": "player:rankings", "method": "GET", "path": "/api/players/96706/rankings", "body": null}
+{"id": "b-strengths-weaknesses-96706", "tag": "player:strengths-weaknesses", "method": "GET", "path": "/api/players/96706/strengths-weaknesses", "body": null}
+{"id": "b-age-curve-96706", "tag": "player:age-curve", "method": "GET", "path": "/api/players/96706/age-curve", "body": null}
+{"id": "b-similar-37645743", "tag": "player:similar", "method": "GET", "path": "/api/players/37645743/similar", "body": null}
+{"id": "b-career-37645743", "tag": "player:career", "method": "GET", "path": "/api/players/37645743/career", "body": null}
+{"id": "b-injuries-37645743", "tag": "player:injuries", "method": "GET", "path": "/api/players/37645743/injuries", "body": null}
+{"id": "b-rankings-37645743", "tag": "player:rankings", "method": "GET", "path": "/api/players/37645743/rankings", "body": null}
+{"id": "b-strengths-weaknesses-37645743", "tag": "player:strengths-weaknesses", "method": "GET", "path": "/api/players/37645743/strengths-weaknesses", "body": null}
+{"id": "b-age-curve-37645743", "tag": "player:age-curve", "method": "GET", "path": "/api/players/37645743/age-curve", "body": null}
+{"id": "b-similar-809", "tag": "player:similar", "method": "GET", "path": "/api/players/809/similar", "body": null}
+{"id": "b-career-809", "tag": "player:career", "method": "GET", "path": "/api/players/809/career", "body": null}
+{"id": "b-injuries-809", "tag": "player:injuries", "method": "GET", "path": "/api/players/809/injuries", "body": null}
+{"id": "b-rankings-809", "tag": "player:rankings", "method": "GET", "path": "/api/players/809/rankings", "body": null}
+{"id": "b-strengths-weaknesses-809", "tag": "player:strengths-weaknesses", "method": "GET", "path": "/api/players/809/strengths-weaknesses", "body": null}
+{"id": "b-age-curve-809", "tag": "player:age-curve", "method": "GET", "path": "/api/players/809/age-curve", "body": null}
+{"id": "b-similar-96536", "tag": "player:similar", "method": "GET", "path": "/api/players/96536/similar", "body": null}
+{"id": "b-career-96536", "tag": "player:career", "method": "GET", "path": "/api/players/96536/career", "body": null}
+{"id": "b-injuries-96536", "tag": "player:injuries", "method": "GET", "path": "/api/players/96536/injuries", "body": null}
+{"id": "b-rankings-96536", "tag": "player:rankings", "method": "GET", "path": "/api/players/96536/rankings", "body": null}
+{"id": "b-strengths-weaknesses-96536", "tag": "player:strengths-weaknesses", "method": "GET", "path": "/api/players/96536/strengths-weaknesses", "body": null}
+{"id": "b-age-curve-96536", "tag": "player:age-curve", "method": "GET", "path": "/api/players/96536/age-curve", "body": null}
+{"id": "b-similar-37733018", "tag": "player:similar", "method": "GET", "path": "/api/players/37733018/similar", "body": null}
+{"id": "b-career-37733018", "tag": "player:career", "method": "GET", "path": "/api/players/37733018/career", "body": null}
+{"id": "b-injuries-37733018", "tag": "player:injuries", "method": "GET", "path": "/api/players/37733018/injuries", "body": null}
+{"id": "b-rankings-37733018", "tag": "player:rankings", "method": "GET", "path": "/api/players/37733018/rankings", "body": null}
+{"id": "b-strengths-weaknesses-37733018", "tag": "player:strengths-weaknesses", "method": "GET", "path": "/api/players/37733018/strengths-weaknesses", "body": null}
+{"id": "b-age-curve-37733018", "tag": "player:age-curve", "method": "GET", "path": "/api/players/37733018/age-curve", "body": null}
+{"id": "b-similar-27280", "tag": "player:similar", "method": "GET", "path": "/api/players/27280/similar", "body": null}
+{"id": "b-career-27280", "tag": "player:career", "method": "GET", "path": "/api/players/27280/career", "body": null}
+{"id": "b-injuries-27280", "tag": "player:injuries", "method": "GET", "path": "/api/players/27280/injuries", "body": null}
+{"id": "b-rankings-27280", "tag": "player:rankings", "method": "GET", "path": "/api/players/27280/rankings", "body": null}
+{"id": "b-strengths-weaknesses-27280", "tag": "player:strengths-weaknesses", "method": "GET", "path": "/api/players/27280/strengths-weaknesses", "body": null}
+{"id": "b-age-curve-27280", "tag": "player:age-curve", "method": "GET", "path": "/api/players/27280/age-curve", "body": null}
+{"id": "b-similar-37697452", "tag": "player:similar", "method": "GET", "path": "/api/players/37697452/similar", "body": null}
+{"id": "b-career-37697452", "tag": "player:career", "method": "GET", "path": "/api/players/37697452/career", "body": null}
+{"id": "b-injuries-37697452", "tag": "player:injuries", "method": "GET", "path": "/api/players/37697452/injuries", "body": null}
+{"id": "b-rankings-37697452", "tag": "player:rankings", "method": "GET", "path": "/api/players/37697452/rankings", "body": null}
+{"id": "b-strengths-weaknesses-37697452", "tag": "player:strengths-weaknesses", "method": "GET", "path": "/api/players/37697452/strengths-weaknesses", "body": null}
+{"id": "b-age-curve-37697452", "tag": "player:age-curve", "method": "GET", "path": "/api/players/37697452/age-curve", "body": null}
+{"id": "b-similar-32777439", "tag": "player:similar", "method": "GET", "path": "/api/players/32777439/similar", "body": null}
+{"id": "b-career-32777439", "tag": "player:career", "method": "GET", "path": "/api/players/32777439/career", "body": null}
+{"id": "b-injuries-32777439", "tag": "player:injuries", "method": "GET", "path": "/api/players/32777439/injuries", "body": null}
+{"id": "b-rankings-32777439", "tag": "player:rankings", "method": "GET", "path": "/api/players/32777439/rankings", "body": null}
+{"id": "b-strengths-weaknesses-32777439", "tag": "player:strengths-weaknesses", "method": "GET", "path": "/api/players/32777439/strengths-weaknesses", "body": null}
+{"id": "b-age-curve-32777439", "tag": "player:age-curve", "method": "GET", "path": "/api/players/32777439/age-curve", "body": null}
+{"id": "b-similar-34127184", "tag": "player:similar", "method": "GET", "path": "/api/players/34127184/similar", "body": null}
+{"id": "b-career-34127184", "tag": "player:career", "method": "GET", "path": "/api/players/34127184/career", "body": null}
+{"id": "b-injuries-34127184", "tag": "player:injuries", "method": "GET", "path": "/api/players/34127184/injuries", "body": null}
+{"id": "b-rankings-34127184", "tag": "player:rankings", "method": "GET", "path": "/api/players/34127184/rankings", "body": null}
+{"id": "b-strengths-weaknesses-34127184", "tag": "player:strengths-weaknesses", "method": "GET", "path": "/api/players/34127184/strengths-weaknesses", "body": null}
+{"id": "b-age-curve-34127184", "tag": "player:age-curve", "method": "GET", "path": "/api/players/34127184/age-curve", "body": null}
+{"id": "b-similar-37537922", "tag": "player:similar", "method": "GET", "path": "/api/players/37537922/similar", "body": null}
+{"id": "b-career-37537922", "tag": "player:career", "method": "GET", "path": "/api/players/37537922/career", "body": null}
+{"id": "b-injuries-37537922", "tag": "player:injuries", "method": "GET", "path": "/api/players/37537922/injuries", "body": null}
+{"id": "b-rankings-37537922", "tag": "player:rankings", "method": "GET", "path": "/api/players/37537922/rankings", "body": null}
+{"id": "b-strengths-weaknesses-37537922", "tag": "player:strengths-weaknesses", "method": "GET", "path": "/api/players/37537922/strengths-weaknesses", "body": null}
+{"id": "b-age-curve-37537922", "tag": "player:age-curve", "method": "GET", "path": "/api/players/37537922/age-curve", "body": null}
+{"id": "b-similar-37683424", "tag": "player:similar", "method": "GET", "path": "/api/players/37683424/similar", "body": null}
+{"id": "b-career-37683424", "tag": "player:career", "method": "GET", "path": "/api/players/37683424/career", "body": null}
+{"id": "b-injuries-37683424", "tag": "player:injuries", "method": "GET", "path": "/api/players/37683424/injuries", "body": null}
+{"id": "b-rankings-37683424", "tag": "player:rankings", "method": "GET", "path": "/api/players/37683424/rankings", "body": null}
+{"id": "b-strengths-weaknesses-37683424", "tag": "player:strengths-weaknesses", "method": "GET", "path": "/api/players/37683424/strengths-weaknesses", "body": null}
+{"id": "b-age-curve-37683424", "tag": "player:age-curve", "method": "GET", "path": "/api/players/37683424/age-curve", "body": null}
+{"id": "b-similar-37562363", "tag": "player:similar", "method": "GET", "path": "/api/players/37562363/similar", "body": null}
+{"id": "b-career-37562363", "tag": "player:career", "method": "GET", "path": "/api/players/37562363/career", "body": null}
+{"id": "b-injuries-37562363", "tag": "player:injuries", "method": "GET", "path": "/api/players/37562363/injuries", "body": null}
+{"id": "b-rankings-37562363", "tag": "player:rankings", "method": "GET", "path": "/api/players/37562363/rankings", "body": null}
+{"id": "b-strengths-weaknesses-37562363", "tag": "player:strengths-weaknesses", "method": "GET", "path": "/api/players/37562363/strengths-weaknesses", "body": null}
+{"id": "b-age-curve-37562363", "tag": "player:age-curve", "method": "GET", "path": "/api/players/37562363/age-curve", "body": null}
+{"id": "b-similar-37643922", "tag": "player:similar", "method": "GET", "path": "/api/players/37643922/similar", "body": null}
+{"id": "b-career-37643922", "tag": "player:career", "method": "GET", "path": "/api/players/37643922/career", "body": null}
+{"id": "b-injuries-37643922", "tag": "player:injuries", "method": "GET", "path": "/api/players/37643922/injuries", "body": null}
+{"id": "b-rankings-37643922", "tag": "player:rankings", "method": "GET", "path": "/api/players/37643922/rankings", "body": null}
+{"id": "b-strengths-weaknesses-37643922", "tag": "player:strengths-weaknesses", "method": "GET", "path": "/api/players/37643922/strengths-weaknesses", "body": null}
+{"id": "b-age-curve-37643922", "tag": "player:age-curve", "method": "GET", "path": "/api/players/37643922/age-curve", "body": null}
+{"id": "b-similar-21782243", "tag": "player:similar", "method": "GET", "path": "/api/players/21782243/similar", "body": null}
+{"id": "b-career-21782243", "tag": "player:career", "method": "GET", "path": "/api/players/21782243/career", "body": null}
+{"id": "b-injuries-21782243", "tag": "player:injuries", "method": "GET", "path": "/api/players/21782243/injuries", "body": null}
+{"id": "b-rankings-21782243", "tag": "player:rankings", "method": "GET", "path": "/api/players/21782243/rankings", "body": null}
+{"id": "b-strengths-weaknesses-21782243", "tag": "player:strengths-weaknesses", "method": "GET", "path": "/api/players/21782243/strengths-weaknesses", "body": null}
+{"id": "b-age-curve-21782243", "tag": "player:age-curve", "method": "GET", "path": "/api/players/21782243/age-curve", "body": null}
+{"id": "b-similar-21115754", "tag": "player:similar", "method": "GET", "path": "/api/players/21115754/similar", "body": null}
+{"id": "b-career-21115754", "tag": "player:career", "method": "GET", "path": "/api/players/21115754/career", "body": null}
+{"id": "b-injuries-21115754", "tag": "player:injuries", "method": "GET", "path": "/api/players/21115754/injuries", "body": null}
+{"id": "b-rankings-21115754", "tag": "player:rankings", "method": "GET", "path": "/api/players/21115754/rankings", "body": null}
+{"id": "b-strengths-weaknesses-21115754", "tag": "player:strengths-weaknesses", "method": "GET", "path": "/api/players/21115754/strengths-weaknesses", "body": null}
+{"id": "b-age-curve-21115754", "tag": "player:age-curve", "method": "GET", "path": "/api/players/21115754/age-curve", "body": null}
+{"id": "b-similar-37617066", "tag": "player:similar", "method": "GET", "path": "/api/players/37617066/similar", "body": null}
+{"id": "b-career-37617066", "tag": "player:career", "method": "GET", "path": "/api/players/37617066/career", "body": null}
+{"id": "b-injuries-37617066", "tag": "player:injuries", "method": "GET", "path": "/api/players/37617066/injuries", "body": null}
+{"id": "b-rankings-37617066", "tag": "player:rankings", "method": "GET", "path": "/api/players/37617066/rankings", "body": null}
+{"id": "b-strengths-weaknesses-37617066", "tag": "player:strengths-weaknesses", "method": "GET", "path": "/api/players/37617066/strengths-weaknesses", "body": null}
+{"id": "b-age-curve-37617066", "tag": "player:age-curve", "method": "GET", "path": "/api/players/37617066/age-curve", "body": null}
+{"id": "b-similar-37521587", "tag": "player:similar", "method": "GET", "path": "/api/players/37521587/similar", "body": null}
+{"id": "b-career-37521587", "tag": "player:career", "method": "GET", "path": "/api/players/37521587/career", "body": null}
+{"id": "b-injuries-37521587", "tag": "player:injuries", "method": "GET", "path": "/api/players/37521587/injuries", "body": null}
+{"id": "b-rankings-37521587", "tag": "player:rankings", "method": "GET", "path": "/api/players/37521587/rankings", "body": null}
+{"id": "b-strengths-weaknesses-37521587", "tag": "player:strengths-weaknesses", "method": "GET", "path": "/api/players/37521587/strengths-weaknesses", "body": null}
+{"id": "b-age-curve-37521587", "tag": "player:age-curve", "method": "GET", "path": "/api/players/37521587/age-curve", "body": null}
+{"id": "b-similar-38210060", "tag": "player:similar", "method": "GET", "path": "/api/players/38210060/similar", "body": null}
+{"id": "b-career-38210060", "tag": "player:career", "method": "GET", "path": "/api/players/38210060/career", "body": null}
+{"id": "b-injuries-38210060", "tag": "player:injuries", "method": "GET", "path": "/api/players/38210060/injuries", "body": null}
+{"id": "b-rankings-38210060", "tag": "player:rankings", "method": "GET", "path": "/api/players/38210060/rankings", "body": null}
+{"id": "b-strengths-weaknesses-38210060", "tag": "player:strengths-weaknesses", "method": "GET", "path": "/api/players/38210060/strengths-weaknesses", "body": null}
+{"id": "b-age-curve-38210060", "tag": "player:age-curve", "method": "GET", "path": "/api/players/38210060/age-curve", "body": null}
+{"id": "b-similar-25796", "tag": "player:similar", "method": "GET", "path": "/api/players/25796/similar", "body": null}
+{"id": "b-career-25796", "tag": "player:career", "method": "GET", "path": "/api/players/25796/career", "body": null}
+{"id": "b-injuries-25796", "tag": "player:injuries", "method": "GET", "path": "/api/players/25796/injuries", "body": null}
+{"id": "b-rankings-25796", "tag": "player:rankings", "method": "GET", "path": "/api/players/25796/rankings", "body": null}
+{"id": "b-strengths-weaknesses-25796", "tag": "player:strengths-weaknesses", "method": "GET", "path": "/api/players/25796/strengths-weaknesses", "body": null}
+{"id": "b-age-curve-25796", "tag": "player:age-curve", "method": "GET", "path": "/api/players/25796/age-curve", "body": null}
+{"id": "b-similar-766687", "tag": "player:similar", "method": "GET", "path": "/api/players/766687/similar", "body": null}
+{"id": "b-career-766687", "tag": "player:career", "method": "GET", "path": "/api/players/766687/career", "body": null}
+{"id": "b-injuries-766687", "tag": "player:injuries", "method": "GET", "path": "/api/players/766687/injuries", "body": null}
+{"id": "b-rankings-766687", "tag": "player:rankings", "method": "GET", "path": "/api/players/766687/rankings", "body": null}
+{"id": "b-strengths-weaknesses-766687", "tag": "player:strengths-weaknesses", "method": "GET", "path": "/api/players/766687/strengths-weaknesses", "body": null}
+{"id": "b-age-curve-766687", "tag": "player:age-curve", "method": "GET", "path": "/api/players/766687/age-curve", "body": null}
+{"id": "b-similar-37757370", "tag": "player:similar", "method": "GET", "path": "/api/players/37757370/similar", "body": null}
+{"id": "b-career-37757370", "tag": "player:career", "method": "GET", "path": "/api/players/37757370/career", "body": null}
+{"id": "b-injuries-37757370", "tag": "player:injuries", "method": "GET", "path": "/api/players/37757370/injuries", "body": null}
+{"id": "b-rankings-37757370", "tag": "player:rankings", "method": "GET", "path": "/api/players/37757370/rankings", "body": null}
+{"id": "b-strengths-weaknesses-37757370", "tag": "player:strengths-weaknesses", "method": "GET", "path": "/api/players/37757370/strengths-weaknesses", "body": null}
+{"id": "b-age-curve-37757370", "tag": "player:age-curve", "method": "GET", "path": "/api/players/37757370/age-curve", "body": null}
+{"id": "b-similar-167676", "tag": "player:similar", "method": "GET", "path": "/api/players/167676/similar", "body": null}
+{"id": "b-career-167676", "tag": "player:career", "method": "GET", "path": "/api/players/167676/career", "body": null}
+{"id": "b-injuries-167676", "tag": "player:injuries", "method": "GET", "path": "/api/players/167676/injuries", "body": null}
+{"id": "b-rankings-167676", "tag": "player:rankings", "method": "GET", "path": "/api/players/167676/rankings", "body": null}
+{"id": "b-strengths-weaknesses-167676", "tag": "player:strengths-weaknesses", "method": "GET", "path": "/api/players/167676/strengths-weaknesses", "body": null}
+{"id": "b-age-curve-167676", "tag": "player:age-curve", "method": "GET", "path": "/api/players/167676/age-curve", "body": null}
+{"id": "b-similar-37601804", "tag": "player:similar", "method": "GET", "path": "/api/players/37601804/similar", "body": null}
+{"id": "b-career-37601804", "tag": "player:career", "method": "GET", "path": "/api/players/37601804/career", "body": null}
+{"id": "b-injuries-37601804", "tag": "player:injuries", "method": "GET", "path": "/api/players/37601804/injuries", "body": null}
+{"id": "b-rankings-37601804", "tag": "player:rankings", "method": "GET", "path": "/api/players/37601804/rankings", "body": null}
+{"id": "b-strengths-weaknesses-37601804", "tag": "player:strengths-weaknesses", "method": "GET", "path": "/api/players/37601804/strengths-weaknesses", "body": null}
+{"id": "b-age-curve-37601804", "tag": "player:age-curve", "method": "GET", "path": "/api/players/37601804/age-curve", "body": null}
+{"id": "b-similar-37719006", "tag": "player:similar", "method": "GET", "path": "/api/players/37719006/similar", "body": null}
+{"id": "b-career-37719006", "tag": "player:career", "method": "GET", "path": "/api/players/37719006/career", "body": null}
+{"id": "b-injuries-37719006", "tag": "player:injuries", "method": "GET", "path": "/api/players/37719006/injuries", "body": null}
+{"id": "b-rankings-37719006", "tag": "player:rankings", "method": "GET", "path": "/api/players/37719006/rankings", "body": null}
+{"id": "b-strengths-weaknesses-37719006", "tag": "player:strengths-weaknesses", "method": "GET", "path": "/api/players/37719006/strengths-weaknesses", "body": null}
+{"id": "b-age-curve-37719006", "tag": "player:age-curve", "method": "GET", "path": "/api/players/37719006/age-curve", "body": null}
+{"id": "b-similar-33980170", "tag": "player:similar", "method": "GET", "path": "/api/players/33980170/similar", "body": null}
+{"id": "b-career-33980170", "tag": "player:career", "method": "GET", "path": "/api/players/33980170/career", "body": null}
+{"id": "b-injuries-33980170", "tag": "player:injuries", "method": "GET", "path": "/api/players/33980170/injuries", "body": null}
+{"id": "b-rankings-33980170", "tag": "player:rankings", "method": "GET", "path": "/api/players/33980170/rankings", "body": null}
+{"id": "b-strengths-weaknesses-33980170", "tag": "player:strengths-weaknesses", "method": "GET", "path": "/api/players/33980170/strengths-weaknesses", "body": null}
+{"id": "b-age-curve-33980170", "tag": "player:age-curve", "method": "GET", "path": "/api/players/33980170/age-curve", "body": null}
+{"id": "b-similar-37735554", "tag": "player:similar", "method": "GET", "path": "/api/players/37735554/similar", "body": null}
+{"id": "b-career-37735554", "tag": "player:career", "method": "GET", "path": "/api/players/37735554/career", "body": null}
+{"id": "b-injuries-37735554", "tag": "player:injuries", "method": "GET", "path": "/api/players/37735554/injuries", "body": null}
+{"id": "b-rankings-37735554", "tag": "player:rankings", "method": "GET", "path": "/api/players/37735554/rankings", "body": null}
+{"id": "b-strengths-weaknesses-37735554", "tag": "player:strengths-weaknesses", "method": "GET", "path": "/api/players/37735554/strengths-weaknesses", "body": null}
+{"id": "b-age-curve-37735554", "tag": "player:age-curve", "method": "GET", "path": "/api/players/37735554/age-curve", "body": null}
+{"id": "b-similar-37264438", "tag": "player:similar", "method": "GET", "path": "/api/players/37264438/similar", "body": null}
+{"id": "b-career-37264438", "tag": "player:career", "method": "GET", "path": "/api/players/37264438/career", "body": null}
+{"id": "b-injuries-37264438", "tag": "player:injuries", "method": "GET", "path": "/api/players/37264438/injuries", "body": null}
+{"id": "b-rankings-37264438", "tag": "player:rankings", "method": "GET", "path": "/api/players/37264438/rankings", "body": null}
+{"id": "b-strengths-weaknesses-37264438", "tag": "player:strengths-weaknesses", "method": "GET", "path": "/api/players/37264438/strengths-weaknesses", "body": null}
+{"id": "b-age-curve-37264438", "tag": "player:age-curve", "method": "GET", "path": "/api/players/37264438/age-curve", "body": null}
+{"id": "b-similar-37552996", "tag": "player:similar", "method": "GET", "path": "/api/players/37552996/similar", "body": null}
+{"id": "b-career-37552996", "tag": "player:career", "method": "GET", "path": "/api/players/37552996/career", "body": null}
+{"id": "b-injuries-37552996", "tag": "player:injuries", "method": "GET", "path": "/api/players/37552996/injuries", "body": null}
+{"id": "b-rankings-37552996", "tag": "player:rankings", "method": "GET", "path": "/api/players/37552996/rankings", "body": null}
+{"id": "b-strengths-weaknesses-37552996", "tag": "player:strengths-weaknesses", "method": "GET", "path": "/api/players/37552996/strengths-weaknesses", "body": null}
+{"id": "b-age-curve-37552996", "tag": "player:age-curve", "method": "GET", "path": "/api/players/37552996/age-curve", "body": null}
+{"id": "b-similar-37609216", "tag": "player:similar", "method": "GET", "path": "/api/players/37609216/similar", "body": null}
+{"id": "b-career-37609216", "tag": "player:career", "method": "GET", "path": "/api/players/37609216/career", "body": null}
+{"id": "b-injuries-37609216", "tag": "player:injuries", "method": "GET", "path": "/api/players/37609216/injuries", "body": null}
+{"id": "b-rankings-37609216", "tag": "player:rankings", "method": "GET", "path": "/api/players/37609216/rankings", "body": null}
+{"id": "b-strengths-weaknesses-37609216", "tag": "player:strengths-weaknesses", "method": "GET", "path": "/api/players/37609216/strengths-weaknesses", "body": null}
+{"id": "b-age-curve-37609216", "tag": "player:age-curve", "method": "GET", "path": "/api/players/37609216/age-curve", "body": null}
+{"id": "b-similar-530526", "tag": "player:similar", "method": "GET", "path": "/api/players/530526/similar", "body": null}
+{"id": "b-career-530526", "tag": "player:career", "method": "GET", "path": "/api/players/530526/career", "body": null}
+{"id": "b-injuries-530526", "tag": "player:injuries", "method": "GET", "path": "/api/players/530526/injuries", "body": null}
+{"id": "b-rankings-530526", "tag": "player:rankings", "method": "GET", "path": "/api/players/530526/rankings", "body": null}
+{"id": "b-strengths-weaknesses-530526", "tag": "player:strengths-weaknesses", "method": "GET", "path": "/api/players/530526/strengths-weaknesses", "body": null}
+{"id": "b-age-curve-530526", "tag": "player:age-curve", "method": "GET", "path": "/api/players/530526/age-curve", "body": null}
+{"id": "b-similar-83069", "tag": "player:similar", "method": "GET", "path": "/api/players/83069/similar", "body": null}
+{"id": "b-career-83069", "tag": "player:career", "method": "GET", "path": "/api/players/83069/career", "body": null}
+{"id": "b-injuries-83069", "tag": "player:injuries", "method": "GET", "path": "/api/players/83069/injuries", "body": null}
+{"id": "b-rankings-83069", "tag": "player:rankings", "method": "GET", "path": "/api/players/83069/rankings", "body": null}
+{"id": "b-strengths-weaknesses-83069", "tag": "player:strengths-weaknesses", "method": "GET", "path": "/api/players/83069/strengths-weaknesses", "body": null}
+{"id": "b-age-curve-83069", "tag": "player:age-curve", "method": "GET", "path": "/api/players/83069/age-curve", "body": null}
+{"id": "b-similar-37728805", "tag": "player:similar", "method": "GET", "path": "/api/players/37728805/similar", "body": null}
+{"id": "b-career-37728805", "tag": "player:career", "method": "GET", "path": "/api/players/37728805/career", "body": null}
+{"id": "b-injuries-37728805", "tag": "player:injuries", "method": "GET", "path": "/api/players/37728805/injuries", "body": null}
+{"id": "b-rankings-37728805", "tag": "player:rankings", "method": "GET", "path": "/api/players/37728805/rankings", "body": null}
+{"id": "b-strengths-weaknesses-37728805", "tag": "player:strengths-weaknesses", "method": "GET", "path": "/api/players/37728805/strengths-weaknesses", "body": null}
+{"id": "b-age-curve-37728805", "tag": "player:age-curve", "method": "GET", "path": "/api/players/37728805/age-curve", "body": null}
+{"id": "b-similar-188778", "tag": "player:similar", "method": "GET", "path": "/api/players/188778/similar", "body": null}
+{"id": "b-career-188778", "tag": "player:career", "method": "GET", "path": "/api/players/188778/career", "body": null}
+{"id": "b-injuries-188778", "tag": "player:injuries", "method": "GET", "path": "/api/players/188778/injuries", "body": null}
+{"id": "b-rankings-188778", "tag": "player:rankings", "method": "GET", "path": "/api/players/188778/rankings", "body": null}
+{"id": "b-strengths-weaknesses-188778", "tag": "player:strengths-weaknesses", "method": "GET", "path": "/api/players/188778/strengths-weaknesses", "body": null}
+{"id": "b-age-curve-188778", "tag": "player:age-curve", "method": "GET", "path": "/api/players/188778/age-curve", "body": null}
+{"id": "b-similar-37572568", "tag": "player:similar", "method": "GET", "path": "/api/players/37572568/similar", "body": null}
+{"id": "b-career-37572568", "tag": "player:career", "method": "GET", "path": "/api/players/37572568/career", "body": null}
+{"id": "b-injuries-37572568", "tag": "player:injuries", "method": "GET", "path": "/api/players/37572568/injuries", "body": null}
+{"id": "b-rankings-37572568", "tag": "player:rankings", "method": "GET", "path": "/api/players/37572568/rankings", "body": null}
+{"id": "b-strengths-weaknesses-37572568", "tag": "player:strengths-weaknesses", "method": "GET", "path": "/api/players/37572568/strengths-weaknesses", "body": null}
+{"id": "b-age-curve-37572568", "tag": "player:age-curve", "method": "GET", "path": "/api/players/37572568/age-curve", "body": null}
+{"id": "b-similar-330582", "tag": "player:similar", "method": "GET", "path": "/api/players/330582/similar", "body": null}
+{"id": "b-career-330582", "tag": "player:career", "method": "GET", "path": "/api/players/330582/career", "body": null}
+{"id": "b-injuries-330582", "tag": "player:injuries", "method": "GET", "path": "/api/players/330582/injuries", "body": null}
+{"id": "b-rankings-330582", "tag": "player:rankings", "method": "GET", "path": "/api/players/330582/rankings", "body": null}
+{"id": "b-strengths-weaknesses-330582", "tag": "player:strengths-weaknesses", "method": "GET", "path": "/api/players/330582/strengths-weaknesses", "body": null}
+{"id": "b-age-curve-330582", "tag": "player:age-curve", "method": "GET", "path": "/api/players/330582/age-curve", "body": null}
+{"id": "b-similar-37628752", "tag": "player:similar", "method": "GET", "path": "/api/players/37628752/similar", "body": null}
+{"id": "b-career-37628752", "tag": "player:career", "method": "GET", "path": "/api/players/37628752/career", "body": null}
+{"id": "b-injuries-37628752", "tag": "player:injuries", "method": "GET", "path": "/api/players/37628752/injuries", "body": null}
+{"id": "b-rankings-37628752", "tag": "player:rankings", "method": "GET", "path": "/api/players/37628752/rankings", "body": null}
+{"id": "b-strengths-weaknesses-37628752", "tag": "player:strengths-weaknesses", "method": "GET", "path": "/api/players/37628752/strengths-weaknesses", "body": null}
+{"id": "b-age-curve-37628752", "tag": "player:age-curve", "method": "GET", "path": "/api/players/37628752/age-curve", "body": null}
+{"id": "b-similar-37663130", "tag": "player:similar", "method": "GET", "path": "/api/players/37663130/similar", "body": null}
+{"id": "b-career-37663130", "tag": "player:career", "method": "GET", "path": "/api/players/37663130/career", "body": null}
+{"id": "b-injuries-37663130", "tag": "player:injuries", "method": "GET", "path": "/api/players/37663130/injuries", "body": null}
+{"id": "b-rankings-37663130", "tag": "player:rankings", "method": "GET", "path": "/api/players/37663130/rankings", "body": null}
+{"id": "b-strengths-weaknesses-37663130", "tag": "player:strengths-weaknesses", "method": "GET", "path": "/api/players/37663130/strengths-weaknesses", "body": null}
+{"id": "b-age-curve-37663130", "tag": "player:age-curve", "method": "GET", "path": "/api/players/37663130/age-curve", "body": null}
+{"id": "b-similar-3058", "tag": "player:similar", "method": "GET", "path": "/api/players/3058/similar", "body": null}
+{"id": "b-career-3058", "tag": "player:career", "method": "GET", "path": "/api/players/3058/career", "body": null}
+{"id": "b-injuries-3058", "tag": "player:injuries", "method": "GET", "path": "/api/players/3058/injuries", "body": null}
+{"id": "b-rankings-3058", "tag": "player:rankings", "method": "GET", "path": "/api/players/3058/rankings", "body": null}
+{"id": "b-strengths-weaknesses-3058", "tag": "player:strengths-weaknesses", "method": "GET", "path": "/api/players/3058/strengths-weaknesses", "body": null}
+{"id": "b-age-curve-3058", "tag": "player:age-curve", "method": "GET", "path": "/api/players/3058/age-curve", "body": null}
+{"id": "b-similar-37677461", "tag": "player:similar", "method": "GET", "path": "/api/players/37677461/similar", "body": null}
+{"id": "b-career-37677461", "tag": "player:career", "method": "GET", "path": "/api/players/37677461/career", "body": null}
+{"id": "b-injuries-37677461", "tag": "player:injuries", "method": "GET", "path": "/api/players/37677461/injuries", "body": null}
+{"id": "b-rankings-37677461", "tag": "player:rankings", "method": "GET", "path": "/api/players/37677461/rankings", "body": null}
+{"id": "b-strengths-weaknesses-37677461", "tag": "player:strengths-weaknesses", "method": "GET", "path": "/api/players/37677461/strengths-weaknesses", "body": null}
+{"id": "b-age-curve-37677461", "tag": "player:age-curve", "method": "GET", "path": "/api/players/37677461/age-curve", "body": null}
+{"id": "b-similar-37655651", "tag": "player:similar", "method": "GET", "path": "/api/players/37655651/similar", "body": null}
+{"id": "b-career-37655651", "tag": "player:career", "method": "GET", "path": "/api/players/37655651/career", "body": null}
+{"id": "b-injuries-37655651", "tag": "player:injuries", "method": "GET", "path": "/api/players/37655651/injuries", "body": null}
+{"id": "b-rankings-37655651", "tag": "player:rankings", "method": "GET", "path": "/api/players/37655651/rankings", "body": null}
+{"id": "b-strengths-weaknesses-37655651", "tag": "player:strengths-weaknesses", "method": "GET", "path": "/api/players/37655651/strengths-weaknesses", "body": null}
+{"id": "b-age-curve-37655651", "tag": "player:age-curve", "method": "GET", "path": "/api/players/37655651/age-curve", "body": null}
+{"id": "b-similar-37562096", "tag": "player:similar", "method": "GET", "path": "/api/players/37562096/similar", "body": null}
+{"id": "b-career-37562096", "tag": "player:career", "method": "GET", "path": "/api/players/37562096/career", "body": null}
+{"id": "b-injuries-37562096", "tag": "player:injuries", "method": "GET", "path": "/api/players/37562096/injuries", "body": null}
+{"id": "b-rankings-37562096", "tag": "player:rankings", "method": "GET", "path": "/api/players/37562096/rankings", "body": null}
+{"id": "b-strengths-weaknesses-37562096", "tag": "player:strengths-weaknesses", "method": "GET", "path": "/api/players/37562096/strengths-weaknesses", "body": null}
+{"id": "b-age-curve-37562096", "tag": "player:age-curve", "method": "GET", "path": "/api/players/37562096/age-curve", "body": null}
+{"id": "b-similar-537176", "tag": "player:similar", "method": "GET", "path": "/api/players/537176/similar", "body": null}
+{"id": "b-career-537176", "tag": "player:career", "method": "GET", "path": "/api/players/537176/career", "body": null}
+{"id": "b-injuries-537176", "tag": "player:injuries", "method": "GET", "path": "/api/players/537176/injuries", "body": null}
+{"id": "b-rankings-537176", "tag": "player:rankings", "method": "GET", "path": "/api/players/537176/rankings", "body": null}
+{"id": "b-strengths-weaknesses-537176", "tag": "player:strengths-weaknesses", "method": "GET", "path": "/api/players/537176/strengths-weaknesses", "body": null}
+{"id": "b-age-curve-537176", "tag": "player:age-curve", "method": "GET", "path": "/api/players/537176/age-curve", "body": null}
+{"id": "b-similar-152908", "tag": "player:similar", "method": "GET", "path": "/api/players/152908/similar", "body": null}
+{"id": "b-career-152908", "tag": "player:career", "method": "GET", "path": "/api/players/152908/career", "body": null}
+{"id": "b-injuries-152908", "tag": "player:injuries", "method": "GET", "path": "/api/players/152908/injuries", "body": null}
+{"id": "b-rankings-152908", "tag": "player:rankings", "method": "GET", "path": "/api/players/152908/rankings", "body": null}
+{"id": "b-strengths-weaknesses-152908", "tag": "player:strengths-weaknesses", "method": "GET", "path": "/api/players/152908/strengths-weaknesses", "body": null}
+{"id": "b-age-curve-152908", "tag": "player:age-curve", "method": "GET", "path": "/api/players/152908/age-curve", "body": null}
+{"id": "b-similar-160316", "tag": "player:similar", "method": "GET", "path": "/api/players/160316/similar", "body": null}
+{"id": "b-career-160316", "tag": "player:career", "method": "GET", "path": "/api/players/160316/career", "body": null}
+{"id": "b-injuries-160316", "tag": "player:injuries", "method": "GET", "path": "/api/players/160316/injuries", "body": null}
+{"id": "b-rankings-160316", "tag": "player:rankings", "method": "GET", "path": "/api/players/160316/rankings", "body": null}
+{"id": "b-strengths-weaknesses-160316", "tag": "player:strengths-weaknesses", "method": "GET", "path": "/api/players/160316/strengths-weaknesses", "body": null}
+{"id": "b-age-curve-160316", "tag": "player:age-curve", "method": "GET", "path": "/api/players/160316/age-curve", "body": null}
+{"id": "b-similar-581094", "tag": "player:similar", "method": "GET", "path": "/api/players/581094/similar", "body": null}
+{"id": "b-career-581094", "tag": "player:career", "method": "GET", "path": "/api/players/581094/career", "body": null}
+{"id": "b-injuries-581094", "tag": "player:injuries", "method": "GET", "path": "/api/players/581094/injuries", "body": null}
+{"id": "b-rankings-581094", "tag": "player:rankings", "method": "GET", "path": "/api/players/581094/rankings", "body": null}
+{"id": "b-strengths-weaknesses-581094", "tag": "player:strengths-weaknesses", "method": "GET", "path": "/api/players/581094/strengths-weaknesses", "body": null}
+{"id": "b-age-curve-581094", "tag": "player:age-curve", "method": "GET", "path": "/api/players/581094/age-curve", "body": null}
+{"id": "b-similar-218882", "tag": "player:similar", "method": "GET", "path": "/api/players/218882/similar", "body": null}
+{"id": "b-career-218882", "tag": "player:career", "method": "GET", "path": "/api/players/218882/career", "body": null}
+{"id": "b-injuries-218882", "tag": "player:injuries", "method": "GET", "path": "/api/players/218882/injuries", "body": null}
+{"id": "b-rankings-218882", "tag": "player:rankings", "method": "GET", "path": "/api/players/218882/rankings", "body": null}
+{"id": "b-strengths-weaknesses-218882", "tag": "player:strengths-weaknesses", "method": "GET", "path": "/api/players/218882/strengths-weaknesses", "body": null}
+{"id": "b-age-curve-218882", "tag": "player:age-curve", "method": "GET", "path": "/api/players/218882/age-curve", "body": null}
+{"id": "b-similar-37736098", "tag": "player:similar", "method": "GET", "path": "/api/players/37736098/similar", "body": null}
+{"id": "b-career-37736098", "tag": "player:career", "method": "GET", "path": "/api/players/37736098/career", "body": null}
+{"id": "b-injuries-37736098", "tag": "player:injuries", "method": "GET", "path": "/api/players/37736098/injuries", "body": null}
+{"id": "b-rankings-37736098", "tag": "player:rankings", "method": "GET", "path": "/api/players/37736098/rankings", "body": null}
+{"id": "b-strengths-weaknesses-37736098", "tag": "player:strengths-weaknesses", "method": "GET", "path": "/api/players/37736098/strengths-weaknesses", "body": null}
+{"id": "b-age-curve-37736098", "tag": "player:age-curve", "method": "GET", "path": "/api/players/37736098/age-curve", "body": null}
+{"id": "b-similar-9308042", "tag": "player:similar", "method": "GET", "path": "/api/players/9308042/similar", "body": null}
+{"id": "b-career-9308042", "tag": "player:career", "method": "GET", "path": "/api/players/9308042/career", "body": null}
+{"id": "b-injuries-9308042", "tag": "player:injuries", "method": "GET", "path": "/api/players/9308042/injuries", "body": null}
+{"id": "b-rankings-9308042", "tag": "player:rankings", "method": "GET", "path": "/api/players/9308042/rankings", "body": null}
+{"id": "b-strengths-weaknesses-9308042", "tag": "player:strengths-weaknesses", "method": "GET", "path": "/api/players/9308042/strengths-weaknesses", "body": null}
+{"id": "b-age-curve-9308042", "tag": "player:age-curve", "method": "GET", "path": "/api/players/9308042/age-curve", "body": null}
+{"id": "b-similar-37558995", "tag": "player:similar", "method": "GET", "path": "/api/players/37558995/similar", "body": null}
+{"id": "b-career-37558995", "tag": "player:career", "method": "GET", "path": "/api/players/37558995/career", "body": null}
+{"id": "b-injuries-37558995", "tag": "player:injuries", "method": "GET", "path": "/api/players/37558995/injuries", "body": null}
+{"id": "b-rankings-37558995", "tag": "player:rankings", "method": "GET", "path": "/api/players/37558995/rankings", "body": null}
+{"id": "b-strengths-weaknesses-37558995", "tag": "player:strengths-weaknesses", "method": "GET", "path": "/api/players/37558995/strengths-weaknesses", "body": null}
+{"id": "b-age-curve-37558995", "tag": "player:age-curve", "method": "GET", "path": "/api/players/37558995/age-curve", "body": null}
+{"id": "b-similar-30841486", "tag": "player:similar", "method": "GET", "path": "/api/players/30841486/similar", "body": null}
+{"id": "b-career-30841486", "tag": "player:career", "method": "GET", "path": "/api/players/30841486/career", "body": null}
+{"id": "b-injuries-30841486", "tag": "player:injuries", "method": "GET", "path": "/api/players/30841486/injuries", "body": null}
+{"id": "b-rankings-30841486", "tag": "player:rankings", "method": "GET", "path": "/api/players/30841486/rankings", "body": null}
+{"id": "b-strengths-weaknesses-30841486", "tag": "player:strengths-weaknesses", "method": "GET", "path": "/api/players/30841486/strengths-weaknesses", "body": null}
+{"id": "b-age-curve-30841486", "tag": "player:age-curve", "method": "GET", "path": "/api/players/30841486/age-curve", "body": null}
+{"id": "b-similar-37614803", "tag": "player:similar", "method": "GET", "path": "/api/players/37614803/similar", "body": null}
+{"id": "b-career-37614803", "tag": "player:career", "method": "GET", "path": "/api/players/37614803/career", "body": null}
+{"id": "b-injuries-37614803", "tag": "player:injuries", "method": "GET", "path": "/api/players/37614803/injuries", "body": null}
+{"id": "b-rankings-37614803", "tag": "player:rankings", "method": "GET", "path": "/api/players/37614803/rankings", "body": null}
+{"id": "b-strengths-weaknesses-37614803", "tag": "player:strengths-weaknesses", "method": "GET", "path": "/api/players/37614803/strengths-weaknesses", "body": null}
+{"id": "b-age-curve-37614803", "tag": "player:age-curve", "method": "GET", "path": "/api/players/37614803/age-curve", "body": null}
+{"id": "b-similar-37656053", "tag": "player:similar", "method": "GET", "path": "/api/players/37656053/similar", "body": null}
+{"id": "b-career-37656053", "tag": "player:career", "method": "GET", "path": "/api/players/37656053/career", "body": null}
+{"id": "b-injuries-37656053", "tag": "player:injuries", "method": "GET", "path": "/api/players/37656053/injuries", "body": null}
+{"id": "b-rankings-37656053", "tag": "player:rankings", "method": "GET", "path": "/api/players/37656053/rankings", "body": null}
+{"id": "b-strengths-weaknesses-37656053", "tag": "player:strengths-weaknesses", "method": "GET", "path": "/api/players/37656053/strengths-weaknesses", "body": null}
+{"id": "b-age-curve-37656053", "tag": "player:age-curve", "method": "GET", "path": "/api/players/37656053/age-curve", "body": null}
+{"id": "b-similar-37324950", "tag": "player:similar", "method": "GET", "path": "/api/players/37324950/similar", "body": null}
+{"id": "b-career-37324950", "tag": "player:career", "method": "GET", "path": "/api/players/37324950/career", "body": null}
+{"id": "b-injuries-37324950", "tag": "player:injuries", "method": "GET", "path": "/api/players/37324950/injuries", "body": null}
+{"id": "b-rankings-37324950", "tag": "player:rankings", "method": "GET", "path": "/api/players/37324950/rankings", "body": null}
+{"id": "b-strengths-weaknesses-37324950", "tag": "player:strengths-weaknesses", "method": "GET", "path": "/api/players/37324950/strengths-weaknesses", "body": null}
+{"id": "b-age-curve-37324950", "tag": "player:age-curve", "method": "GET", "path": "/api/players/37324950/age-curve", "body": null}
+{"id": "b-similar-6538", "tag": "player:similar", "method": "GET", "path": "/api/players/6538/similar", "body": null}
+{"id": "b-career-6538", "tag": "player:career", "method": "GET", "path": "/api/players/6538/career", "body": null}
+{"id": "b-injuries-6538", "tag": "player:injuries", "method": "GET", "path": "/api/players/6538/injuries", "body": null}
+{"id": "b-rankings-6538", "tag": "player:rankings", "method": "GET", "path": "/api/players/6538/rankings", "body": null}
+{"id": "b-strengths-weaknesses-6538", "tag": "player:strengths-weaknesses", "method": "GET", "path": "/api/players/6538/strengths-weaknesses", "body": null}
+{"id": "b-age-curve-6538", "tag": "player:age-curve", "method": "GET", "path": "/api/players/6538/age-curve", "body": null}
+{"id": "b-similar-235659", "tag": "player:similar", "method": "GET", "path": "/api/players/235659/similar", "body": null}
+{"id": "b-career-235659", "tag": "player:career", "method": "GET", "path": "/api/players/235659/career", "body": null}
+{"id": "b-injuries-235659", "tag": "player:injuries", "method": "GET", "path": "/api/players/235659/injuries", "body": null}
+{"id": "b-rankings-235659", "tag": "player:rankings", "method": "GET", "path": "/api/players/235659/rankings", "body": null}
+{"id": "b-strengths-weaknesses-235659", "tag": "player:strengths-weaknesses", "method": "GET", "path": "/api/players/235659/strengths-weaknesses", "body": null}
+{"id": "b-age-curve-235659", "tag": "player:age-curve", "method": "GET", "path": "/api/players/235659/age-curve", "body": null}
+{"id": "b-similar-937", "tag": "player:similar", "method": "GET", "path": "/api/players/937/similar", "body": null}
+{"id": "b-career-937", "tag": "player:career", "method": "GET", "path": "/api/players/937/career", "body": null}
+{"id": "b-injuries-937", "tag": "player:injuries", "method": "GET", "path": "/api/players/937/injuries", "body": null}
+{"id": "b-rankings-937", "tag": "player:rankings", "method": "GET", "path": "/api/players/937/rankings", "body": null}
+{"id": "b-strengths-weaknesses-937", "tag": "player:strengths-weaknesses", "method": "GET", "path": "/api/players/937/strengths-weaknesses", "body": null}
+{"id": "b-age-curve-937", "tag": "player:age-curve", "method": "GET", "path": "/api/players/937/age-curve", "body": null}
+{"id": "b-similar-37739232", "tag": "player:similar", "method": "GET", "path": "/api/players/37739232/similar", "body": null}
+{"id": "b-career-37739232", "tag": "player:career", "method": "GET", "path": "/api/players/37739232/career", "body": null}
+{"id": "b-injuries-37739232", "tag": "player:injuries", "method": "GET", "path": "/api/players/37739232/injuries", "body": null}
+{"id": "b-rankings-37739232", "tag": "player:rankings", "method": "GET", "path": "/api/players/37739232/rankings", "body": null}
+{"id": "b-strengths-weaknesses-37739232", "tag": "player:strengths-weaknesses", "method": "GET", "path": "/api/players/37739232/strengths-weaknesses", "body": null}
+{"id": "b-age-curve-37739232", "tag": "player:age-curve", "method": "GET", "path": "/api/players/37739232/age-curve", "body": null}
+{"id": "b-similar-9605686", "tag": "player:similar", "method": "GET", "path": "/api/players/9605686/similar", "body": null}
+{"id": "b-career-9605686", "tag": "player:career", "method": "GET", "path": "/api/players/9605686/career", "body": null}
+{"id": "b-injuries-9605686", "tag": "player:injuries", "method": "GET", "path": "/api/players/9605686/injuries", "body": null}
+{"id": "b-rankings-9605686", "tag": "player:rankings", "method": "GET", "path": "/api/players/9605686/rankings", "body": null}
+{"id": "b-strengths-weaknesses-9605686", "tag": "player:strengths-weaknesses", "method": "GET", "path": "/api/players/9605686/strengths-weaknesses", "body": null}
+{"id": "b-age-curve-9605686", "tag": "player:age-curve", "method": "GET", "path": "/api/players/9605686/age-curve", "body": null}
+{"id": "b-similar-154421", "tag": "player:similar", "method": "GET", "path": "/api/players/154421/similar", "body": null}
+{"id": "b-career-154421", "tag": "player:career", "method": "GET", "path": "/api/players/154421/career", "body": null}
+{"id": "b-injuries-154421", "tag": "player:injuries", "method": "GET", "path": "/api/players/154421/injuries", "body": null}
+{"id": "b-rankings-154421", "tag": "player:rankings", "method": "GET", "path": "/api/players/154421/rankings", "body": null}
+{"id": "b-strengths-weaknesses-154421", "tag": "player:strengths-weaknesses", "method": "GET", "path": "/api/players/154421/strengths-weaknesses", "body": null}
+{"id": "b-age-curve-154421", "tag": "player:age-curve", "method": "GET", "path": "/api/players/154421/age-curve", "body": null}
+{"id": "b-similar-37561941", "tag": "player:similar", "method": "GET", "path": "/api/players/37561941/similar", "body": null}
+{"id": "b-career-37561941", "tag": "player:career", "method": "GET", "path": "/api/players/37561941/career", "body": null}
+{"id": "b-injuries-37561941", "tag": "player:injuries", "method": "GET", "path": "/api/players/37561941/injuries", "body": null}
+{"id": "b-rankings-37561941", "tag": "player:rankings", "method": "GET", "path": "/api/players/37561941/rankings", "body": null}
+{"id": "b-strengths-weaknesses-37561941", "tag": "player:strengths-weaknesses", "method": "GET", "path": "/api/players/37561941/strengths-weaknesses", "body": null}
+{"id": "b-age-curve-37561941", "tag": "player:age-curve", "method": "GET", "path": "/api/players/37561941/age-curve", "body": null}
+{"id": "b-similar-37656406", "tag": "player:similar", "method": "GET", "path": "/api/players/37656406/similar", "body": null}
+{"id": "b-career-37656406", "tag": "player:career", "method": "GET", "path": "/api/players/37656406/career", "body": null}
+{"id": "b-injuries-37656406", "tag": "player:injuries", "method": "GET", "path": "/api/players/37656406/injuries", "body": null}
+{"id": "b-rankings-37656406", "tag": "player:rankings", "method": "GET", "path": "/api/players/37656406/rankings", "body": null}
+{"id": "b-strengths-weaknesses-37656406", "tag": "player:strengths-weaknesses", "method": "GET", "path": "/api/players/37656406/strengths-weaknesses", "body": null}
+{"id": "b-age-curve-37656406", "tag": "player:age-curve", "method": "GET", "path": "/api/players/37656406/age-curve", "body": null}
+{"id": "b-similar-37698736", "tag": "player:similar", "method": "GET", "path": "/api/players/37698736/similar", "body": null}
+{"id": "b-career-37698736", "tag": "player:career", "method": "GET", "path": "/api/players/37698736/career", "body": null}
+{"id": "b-injuries-37698736", "tag": "player:injuries", "method": "GET", "path": "/api/players/37698736/injuries", "body": null}
+{"id": "b-rankings-37698736", "tag": "player:rankings", "method": "GET", "path": "/api/players/37698736/rankings", "body": null}
+{"id": "b-strengths-weaknesses-37698736", "tag": "player:strengths-weaknesses", "method": "GET", "path": "/api/players/37698736/strengths-weaknesses", "body": null}
+{"id": "b-age-curve-37698736", "tag": "player:age-curve", "method": "GET", "path": "/api/players/37698736/age-curve", "body": null}
+{"id": "b-similar-537109", "tag": "player:similar", "method": "GET", "path": "/api/players/537109/similar", "body": null}
+{"id": "b-career-537109", "tag": "player:career", "method": "GET", "path": "/api/players/537109/career", "body": null}
+{"id": "b-injuries-537109", "tag": "player:injuries", "method": "GET", "path": "/api/players/537109/injuries", "body": null}
+{"id": "b-rankings-537109", "tag": "player:rankings", "method": "GET", "path": "/api/players/537109/rankings", "body": null}
+{"id": "b-strengths-weaknesses-537109", "tag": "player:strengths-weaknesses", "method": "GET", "path": "/api/players/537109/strengths-weaknesses", "body": null}
+{"id": "b-age-curve-537109", "tag": "player:age-curve", "method": "GET", "path": "/api/players/537109/age-curve", "body": null}
+{"id": "b-similar-37738595", "tag": "player:similar", "method": "GET", "path": "/api/players/37738595/similar", "body": null}
+{"id": "b-career-37738595", "tag": "player:career", "method": "GET", "path": "/api/players/37738595/career", "body": null}
+{"id": "b-injuries-37738595", "tag": "player:injuries", "method": "GET", "path": "/api/players/37738595/injuries", "body": null}
+{"id": "b-rankings-37738595", "tag": "player:rankings", "method": "GET", "path": "/api/players/37738595/rankings", "body": null}
+{"id": "b-strengths-weaknesses-37738595", "tag": "player:strengths-weaknesses", "method": "GET", "path": "/api/players/37738595/strengths-weaknesses", "body": null}
+{"id": "b-age-curve-37738595", "tag": "player:age-curve", "method": "GET", "path": "/api/players/37738595/age-curve", "body": null}
+{"id": "b-similar-37677530", "tag": "player:similar", "method": "GET", "path": "/api/players/37677530/similar", "body": null}
+{"id": "b-career-37677530", "tag": "player:career", "method": "GET", "path": "/api/players/37677530/career", "body": null}
+{"id": "b-injuries-37677530", "tag": "player:injuries", "method": "GET", "path": "/api/players/37677530/injuries", "body": null}
+{"id": "b-rankings-37677530", "tag": "player:rankings", "method": "GET", "path": "/api/players/37677530/rankings", "body": null}
+{"id": "b-strengths-weaknesses-37677530", "tag": "player:strengths-weaknesses", "method": "GET", "path": "/api/players/37677530/strengths-weaknesses", "body": null}
+{"id": "b-age-curve-37677530", "tag": "player:age-curve", "method": "GET", "path": "/api/players/37677530/age-curve", "body": null}
+{"id": "b-similar-37538431", "tag": "player:similar", "method": "GET", "path": "/api/players/37538431/similar", "body": null}
+{"id": "b-career-37538431", "tag": "player:career", "method": "GET", "path": "/api/players/37538431/career", "body": null}
+{"id": "b-injuries-37538431", "tag": "player:injuries", "method": "GET", "path": "/api/players/37538431/injuries", "body": null}
+{"id": "b-rankings-37538431", "tag": "player:rankings", "method": "GET", "path": "/api/players/37538431/rankings", "body": null}
+{"id": "b-strengths-weaknesses-37538431", "tag": "player:strengths-weaknesses", "method": "GET", "path": "/api/players/37538431/strengths-weaknesses", "body": null}
+{"id": "b-age-curve-37538431", "tag": "player:age-curve", "method": "GET", "path": "/api/players/37538431/age-curve", "body": null}
+{"id": "b-similar-455794", "tag": "player:similar", "method": "GET", "path": "/api/players/455794/similar", "body": null}
+{"id": "b-career-455794", "tag": "player:career", "method": "GET", "path": "/api/players/455794/career", "body": null}
+{"id": "b-injuries-455794", "tag": "player:injuries", "method": "GET", "path": "/api/players/455794/injuries", "body": null}
+{"id": "b-rankings-455794", "tag": "player:rankings", "method": "GET", "path": "/api/players/455794/rankings", "body": null}
+{"id": "b-strengths-weaknesses-455794", "tag": "player:strengths-weaknesses", "method": "GET", "path": "/api/players/455794/strengths-weaknesses", "body": null}
+{"id": "b-age-curve-455794", "tag": "player:age-curve", "method": "GET", "path": "/api/players/455794/age-curve", "body": null}
+{"id": "b-similar-219925", "tag": "player:similar", "method": "GET", "path": "/api/players/219925/similar", "body": null}
+{"id": "b-career-219925", "tag": "player:career", "method": "GET", "path": "/api/players/219925/career", "body": null}
+{"id": "b-injuries-219925", "tag": "player:injuries", "method": "GET", "path": "/api/players/219925/injuries", "body": null}
+{"id": "b-rankings-219925", "tag": "player:rankings", "method": "GET", "path": "/api/players/219925/rankings", "body": null}
+{"id": "b-strengths-weaknesses-219925", "tag": "player:strengths-weaknesses", "method": "GET", "path": "/api/players/219925/strengths-weaknesses", "body": null}
+{"id": "b-age-curve-219925", "tag": "player:age-curve", "method": "GET", "path": "/api/players/219925/age-curve", "body": null}
+{"id": "b-similar-37739315", "tag": "player:similar", "method": "GET", "path": "/api/players/37739315/similar", "body": null}
+{"id": "b-career-37739315", "tag": "player:career", "method": "GET", "path": "/api/players/37739315/career", "body": null}
+{"id": "b-injuries-37739315", "tag": "player:injuries", "method": "GET", "path": "/api/players/37739315/injuries", "body": null}
+{"id": "b-rankings-37739315", "tag": "player:rankings", "method": "GET", "path": "/api/players/37739315/rankings", "body": null}
+{"id": "b-strengths-weaknesses-37739315", "tag": "player:strengths-weaknesses", "method": "GET", "path": "/api/players/37739315/strengths-weaknesses", "body": null}
+{"id": "b-age-curve-37739315", "tag": "player:age-curve", "method": "GET", "path": "/api/players/37739315/age-curve", "body": null}
+{"id": "b-similar-37755718", "tag": "player:similar", "method": "GET", "path": "/api/players/37755718/similar", "body": null}
+{"id": "b-career-37755718", "tag": "player:career", "method": "GET", "path": "/api/players/37755718/career", "body": null}
+{"id": "b-injuries-37755718", "tag": "player:injuries", "method": "GET", "path": "/api/players/37755718/injuries", "body": null}
+{"id": "b-rankings-37755718", "tag": "player:rankings", "method": "GET", "path": "/api/players/37755718/rankings", "body": null}
+{"id": "b-strengths-weaknesses-37755718", "tag": "player:strengths-weaknesses", "method": "GET", "path": "/api/players/37755718/strengths-weaknesses", "body": null}
+{"id": "b-age-curve-37755718", "tag": "player:age-curve", "method": "GET", "path": "/api/players/37755718/age-curve", "body": null}
+{"id": "b-similar-21427972", "tag": "player:similar", "method": "GET", "path": "/api/players/21427972/similar", "body": null}
+{"id": "b-career-21427972", "tag": "player:career", "method": "GET", "path": "/api/players/21427972/career", "body": null}
+{"id": "b-injuries-21427972", "tag": "player:injuries", "method": "GET", "path": "/api/players/21427972/injuries", "body": null}
+{"id": "b-rankings-21427972", "tag": "player:rankings", "method": "GET", "path": "/api/players/21427972/rankings", "body": null}
+{"id": "b-strengths-weaknesses-21427972", "tag": "player:strengths-weaknesses", "method": "GET", "path": "/api/players/21427972/strengths-weaknesses", "body": null}
+{"id": "b-age-curve-21427972", "tag": "player:age-curve", "method": "GET", "path": "/api/players/21427972/age-curve", "body": null}
+{"id": "b-similar-37296497", "tag": "player:similar", "method": "GET", "path": "/api/players/37296497/similar", "body": null}
+{"id": "b-career-37296497", "tag": "player:career", "method": "GET", "path": "/api/players/37296497/career", "body": null}
+{"id": "b-injuries-37296497", "tag": "player:injuries", "method": "GET", "path": "/api/players/37296497/injuries", "body": null}
+{"id": "b-rankings-37296497", "tag": "player:rankings", "method": "GET", "path": "/api/players/37296497/rankings", "body": null}
+{"id": "b-strengths-weaknesses-37296497", "tag": "player:strengths-weaknesses", "method": "GET", "path": "/api/players/37296497/strengths-weaknesses", "body": null}
+{"id": "b-age-curve-37296497", "tag": "player:age-curve", "method": "GET", "path": "/api/players/37296497/age-curve", "body": null}
+{"id": "b-similar-289327", "tag": "player:similar", "method": "GET", "path": "/api/players/289327/similar", "body": null}
+{"id": "b-career-289327", "tag": "player:career", "method": "GET", "path": "/api/players/289327/career", "body": null}
+{"id": "b-injuries-289327", "tag": "player:injuries", "method": "GET", "path": "/api/players/289327/injuries", "body": null}
+{"id": "b-rankings-289327", "tag": "player:rankings", "method": "GET", "path": "/api/players/289327/rankings", "body": null}
+{"id": "b-strengths-weaknesses-289327", "tag": "player:strengths-weaknesses", "method": "GET", "path": "/api/players/289327/strengths-weaknesses", "body": null}
+{"id": "b-age-curve-289327", "tag": "player:age-curve", "method": "GET", "path": "/api/players/289327/age-curve", "body": null}
+{"id": "b-similar-165357", "tag": "player:similar", "method": "GET", "path": "/api/players/165357/similar", "body": null}
+{"id": "b-career-165357", "tag": "player:career", "method": "GET", "path": "/api/players/165357/career", "body": null}
+{"id": "b-injuries-165357", "tag": "player:injuries", "method": "GET", "path": "/api/players/165357/injuries", "body": null}
+{"id": "b-rankings-165357", "tag": "player:rankings", "method": "GET", "path": "/api/players/165357/rankings", "body": null}
+{"id": "b-strengths-weaknesses-165357", "tag": "player:strengths-weaknesses", "method": "GET", "path": "/api/players/165357/strengths-weaknesses", "body": null}
+{"id": "b-age-curve-165357", "tag": "player:age-curve", "method": "GET", "path": "/api/players/165357/age-curve", "body": null}
+{"id": "b-similar-187110", "tag": "player:similar", "method": "GET", "path": "/api/players/187110/similar", "body": null}
+{"id": "b-career-187110", "tag": "player:career", "method": "GET", "path": "/api/players/187110/career", "body": null}
+{"id": "b-injuries-187110", "tag": "player:injuries", "method": "GET", "path": "/api/players/187110/injuries", "body": null}
+{"id": "b-rankings-187110", "tag": "player:rankings", "method": "GET", "path": "/api/players/187110/rankings", "body": null}
+{"id": "b-strengths-weaknesses-187110", "tag": "player:strengths-weaknesses", "method": "GET", "path": "/api/players/187110/strengths-weaknesses", "body": null}
+{"id": "b-age-curve-187110", "tag": "player:age-curve", "method": "GET", "path": "/api/players/187110/age-curve", "body": null}
+{"id": "b-similar-37646970", "tag": "player:similar", "method": "GET", "path": "/api/players/37646970/similar", "body": null}
+{"id": "b-career-37646970", "tag": "player:career", "method": "GET", "path": "/api/players/37646970/career", "body": null}
+{"id": "b-injuries-37646970", "tag": "player:injuries", "method": "GET", "path": "/api/players/37646970/injuries", "body": null}
+{"id": "b-rankings-37646970", "tag": "player:rankings", "method": "GET", "path": "/api/players/37646970/rankings", "body": null}
+{"id": "b-strengths-weaknesses-37646970", "tag": "player:strengths-weaknesses", "method": "GET", "path": "/api/players/37646970/strengths-weaknesses", "body": null}
+{"id": "b-age-curve-37646970", "tag": "player:age-curve", "method": "GET", "path": "/api/players/37646970/age-curve", "body": null}
+{"id": "b-similar-6429", "tag": "player:similar", "method": "GET", "path": "/api/players/6429/similar", "body": null}
+{"id": "b-career-6429", "tag": "player:career", "method": "GET", "path": "/api/players/6429/career", "body": null}
+{"id": "b-injuries-6429", "tag": "player:injuries", "method": "GET", "path": "/api/players/6429/injuries", "body": null}
+{"id": "b-rankings-6429", "tag": "player:rankings", "method": "GET", "path": "/api/players/6429/rankings", "body": null}
+{"id": "b-strengths-weaknesses-6429", "tag": "player:strengths-weaknesses", "method": "GET", "path": "/api/players/6429/strengths-weaknesses", "body": null}
+{"id": "b-age-curve-6429", "tag": "player:age-curve", "method": "GET", "path": "/api/players/6429/age-curve", "body": null}
+{"id": "b-similar-159895", "tag": "player:similar", "method": "GET", "path": "/api/players/159895/similar", "body": null}
+{"id": "b-career-159895", "tag": "player:career", "method": "GET", "path": "/api/players/159895/career", "body": null}
+{"id": "b-injuries-159895", "tag": "player:injuries", "method": "GET", "path": "/api/players/159895/injuries", "body": null}
+{"id": "b-rankings-159895", "tag": "player:rankings", "method": "GET", "path": "/api/players/159895/rankings", "body": null}
+{"id": "b-strengths-weaknesses-159895", "tag": "player:strengths-weaknesses", "method": "GET", "path": "/api/players/159895/strengths-weaknesses", "body": null}
+{"id": "b-age-curve-159895", "tag": "player:age-curve", "method": "GET", "path": "/api/players/159895/age-curve", "body": null}
+{"id": "b-similar-31627366", "tag": "player:similar", "method": "GET", "path": "/api/players/31627366/similar", "body": null}
+{"id": "b-career-31627366", "tag": "player:career", "method": "GET", "path": "/api/players/31627366/career", "body": null}
+{"id": "b-injuries-31627366", "tag": "player:injuries", "method": "GET", "path": "/api/players/31627366/injuries", "body": null}
+{"id": "b-rankings-31627366", "tag": "player:rankings", "method": "GET", "path": "/api/players/31627366/rankings", "body": null}
+{"id": "b-strengths-weaknesses-31627366", "tag": "player:strengths-weaknesses", "method": "GET", "path": "/api/players/31627366/strengths-weaknesses", "body": null}
+{"id": "b-age-curve-31627366", "tag": "player:age-curve", "method": "GET", "path": "/api/players/31627366/age-curve", "body": null}
+{"id": "b-similar-37714142", "tag": "player:similar", "method": "GET", "path": "/api/players/37714142/similar", "body": null}
+{"id": "b-career-37714142", "tag": "player:career", "method": "GET", "path": "/api/players/37714142/career", "body": null}
+{"id": "b-injuries-37714142", "tag": "player:injuries", "method": "GET", "path": "/api/players/37714142/injuries", "body": null}
+{"id": "b-rankings-37714142", "tag": "player:rankings", "method": "GET", "path": "/api/players/37714142/rankings", "body": null}
+{"id": "b-strengths-weaknesses-37714142", "tag": "player:strengths-weaknesses", "method": "GET", "path": "/api/players/37714142/strengths-weaknesses", "body": null}
+{"id": "b-age-curve-37714142", "tag": "player:age-curve", "method": "GET", "path": "/api/players/37714142/age-curve", "body": null}
+{"id": "b-similar-37717288", "tag": "player:similar", "method": "GET", "path": "/api/players/37717288/similar", "body": null}
+{"id": "b-career-37717288", "tag": "player:career", "method": "GET", "path": "/api/players/37717288/career", "body": null}
+{"id": "b-injuries-37717288", "tag": "player:injuries", "method": "GET", "path": "/api/players/37717288/injuries", "body": null}
+{"id": "b-rankings-37717288", "tag": "player:rankings", "method": "GET", "path": "/api/players/37717288/rankings", "body": null}
+{"id": "b-strengths-weaknesses-37717288", "tag": "player:strengths-weaknesses", "method": "GET", "path": "/api/players/37717288/strengths-weaknesses", "body": null}
+{"id": "b-age-curve-37717288", "tag": "player:age-curve", "method": "GET", "path": "/api/players/37717288/age-curve", "body": null}
+{"id": "b-similar-37741878", "tag": "player:similar", "method": "GET", "path": "/api/players/37741878/similar", "body": null}
+{"id": "b-career-37741878", "tag": "player:career", "method": "GET", "path": "/api/players/37741878/career", "body": null}
+{"id": "b-injuries-37741878", "tag": "player:injuries", "method": "GET", "path": "/api/players/37741878/injuries", "body": null}
+{"id": "b-rankings-37741878", "tag": "player:rankings", "method": "GET", "path": "/api/players/37741878/rankings", "body": null}
+{"id": "b-strengths-weaknesses-37741878", "tag": "player:strengths-weaknesses", "method": "GET", "path": "/api/players/37741878/strengths-weaknesses", "body": null}
+{"id": "b-age-curve-37741878", "tag": "player:age-curve", "method": "GET", "path": "/api/players/37741878/age-curve", "body": null}
+{"id": "b-similar-106613", "tag": "player:similar", "method": "GET", "path": "/api/players/106613/similar", "body": null}
+{"id": "b-career-106613", "tag": "player:career", "method": "GET", "path": "/api/players/106613/career", "body": null}
+{"id": "b-injuries-106613", "tag": "player:injuries", "method": "GET", "path": "/api/players/106613/injuries", "body": null}
+{"id": "b-rankings-106613", "tag": "player:rankings", "method": "GET", "path": "/api/players/106613/rankings", "body": null}
+{"id": "b-strengths-weaknesses-106613", "tag": "player:strengths-weaknesses", "method": "GET", "path": "/api/players/106613/strengths-weaknesses", "body": null}
+{"id": "b-age-curve-106613", "tag": "player:age-curve", "method": "GET", "path": "/api/players/106613/age-curve", "body": null}
+{"id": "b-similar-129638", "tag": "player:similar", "method": "GET", "path": "/api/players/129638/similar", "body": null}
+{"id": "b-career-129638", "tag": "player:career", "method": "GET", "path": "/api/players/129638/career", "body": null}
+{"id": "b-injuries-129638", "tag": "player:injuries", "method": "GET", "path": "/api/players/129638/injuries", "body": null}
+{"id": "b-rankings-129638", "tag": "player:rankings", "method": "GET", "path": "/api/players/129638/rankings", "body": null}
+{"id": "b-strengths-weaknesses-129638", "tag": "player:strengths-weaknesses", "method": "GET", "path": "/api/players/129638/strengths-weaknesses", "body": null}
+{"id": "b-age-curve-129638", "tag": "player:age-curve", "method": "GET", "path": "/api/players/129638/age-curve", "body": null}
+{"id": "b-similar-32044", "tag": "player:similar", "method": "GET", "path": "/api/players/32044/similar", "body": null}
+{"id": "b-career-32044", "tag": "player:career", "method": "GET", "path": "/api/players/32044/career", "body": null}
+{"id": "b-injuries-32044", "tag": "player:injuries", "method": "GET", "path": "/api/players/32044/injuries", "body": null}
+{"id": "b-rankings-32044", "tag": "player:rankings", "method": "GET", "path": "/api/players/32044/rankings", "body": null}
+{"id": "b-strengths-weaknesses-32044", "tag": "player:strengths-weaknesses", "method": "GET", "path": "/api/players/32044/strengths-weaknesses", "body": null}
+{"id": "b-age-curve-32044", "tag": "player:age-curve", "method": "GET", "path": "/api/players/32044/age-curve", "body": null}
+{"id": "b-similar-37568808", "tag": "player:similar", "method": "GET", "path": "/api/players/37568808/similar", "body": null}
+{"id": "b-career-37568808", "tag": "player:career", "method": "GET", "path": "/api/players/37568808/career", "body": null}
+{"id": "b-injuries-37568808", "tag": "player:injuries", "method": "GET", "path": "/api/players/37568808/injuries", "body": null}
+{"id": "b-rankings-37568808", "tag": "player:rankings", "method": "GET", "path": "/api/players/37568808/rankings", "body": null}
+{"id": "b-strengths-weaknesses-37568808", "tag": "player:strengths-weaknesses", "method": "GET", "path": "/api/players/37568808/strengths-weaknesses", "body": null}
+{"id": "b-age-curve-37568808", "tag": "player:age-curve", "method": "GET", "path": "/api/players/37568808/age-curve", "body": null}
+{"id": "b-similar-37712144", "tag": "player:similar", "method": "GET", "path": "/api/players/37712144/similar", "body": null}
+{"id": "b-career-37712144", "tag": "player:career", "method": "GET", "path": "/api/players/37712144/career", "body": null}
+{"id": "b-injuries-37712144", "tag": "player:injuries", "method": "GET", "path": "/api/players/37712144/injuries", "body": null}
+{"id": "b-rankings-37712144", "tag": "player:rankings", "method": "GET", "path": "/api/players/37712144/rankings", "body": null}
+{"id": "b-strengths-weaknesses-37712144", "tag": "player:strengths-weaknesses", "method": "GET", "path": "/api/players/37712144/strengths-weaknesses", "body": null}
+{"id": "b-age-curve-37712144", "tag": "player:age-curve", "method": "GET", "path": "/api/players/37712144/age-curve", "body": null}
+{"id": "b-similar-37631925", "tag": "player:similar", "method": "GET", "path": "/api/players/37631925/similar", "body": null}
+{"id": "b-career-37631925", "tag": "player:career", "method": "GET", "path": "/api/players/37631925/career", "body": null}
+{"id": "b-injuries-37631925", "tag": "player:injuries", "method": "GET", "path": "/api/players/37631925/injuries", "body": null}
+{"id": "b-rankings-37631925", "tag": "player:rankings", "method": "GET", "path": "/api/players/37631925/rankings", "body": null}
+{"id": "b-strengths-weaknesses-37631925", "tag": "player:strengths-weaknesses", "method": "GET", "path": "/api/players/37631925/strengths-weaknesses", "body": null}
+{"id": "b-age-curve-37631925", "tag": "player:age-curve", "method": "GET", "path": "/api/players/37631925/age-curve", "body": null}
+{"id": "b-similar-527618", "tag": "player:similar", "method": "GET", "path": "/api/players/527618/similar", "body": null}
+{"id": "b-career-527618", "tag": "player:career", "method": "GET", "path": "/api/players/527618/career", "body": null}
+{"id": "b-injuries-527618", "tag": "player:injuries", "method": "GET", "path": "/api/players/527618/injuries", "body": null}
+{"id": "b-rankings-527618", "tag": "player:rankings", "method": "GET", "path": "/api/players/527618/rankings", "body": null}
+{"id": "b-strengths-weaknesses-527618", "tag": "player:strengths-weaknesses", "method": "GET", "path": "/api/players/527618/strengths-weaknesses", "body": null}
+{"id": "b-age-curve-527618", "tag": "player:age-curve", "method": "GET", "path": "/api/players/527618/age-curve", "body": null}
+{"id": "b-report-439266", "tag": "player:scouting-report", "method": "GET", "path": "/api/players/439266/scouting-report", "body": null}
+{"id": "b-report-17158444", "tag": "player:scouting-report", "method": "GET", "path": "/api/players/17158444/scouting-report", "body": null}
+{"id": "b-report-220052", "tag": "player:scouting-report", "method": "GET", "path": "/api/players/220052/scouting-report", "body": null}
+{"id": "b-report-37324884", "tag": "player:scouting-report", "method": "GET", "path": "/api/players/37324884/scouting-report", "body": null}
+{"id": "b-report-37787869", "tag": "player:scouting-report", "method": "GET", "path": "/api/players/37787869/scouting-report", "body": null}
+{"id": "b-report-275565", "tag": "player:scouting-report", "method": "GET", "path": "/api/players/275565/scouting-report", "body": null}
+{"id": "b-report-37391640", "tag": "player:scouting-report", "method": "GET", "path": "/api/players/37391640/scouting-report", "body": null}
+{"id": "b-report-368455", "tag": "player:scouting-report", "method": "GET", "path": "/api/players/368455/scouting-report", "body": null}
+{"id": "b-report-947", "tag": "player:scouting-report", "method": "GET", "path": "/api/players/947/scouting-report", "body": null}
+{"id": "b-report-20683927", "tag": "player:scouting-report", "method": "GET", "path": "/api/players/20683927/scouting-report", "body": null}
+{"id": "b-report-37527355", "tag": "player:scouting-report", "method": "GET", "path": "/api/players/37527355/scouting-report", "body": null}
+{"id": "b-report-37596742", "tag": "player:scouting-report", "method": "GET", "path": "/api/players/37596742/scouting-report", "body": null}
+{"id": "b-report-13980990", "tag": "player:scouting-report", "method": "GET", "path": "/api/players/13980990/scouting-report", "body": null}
+{"id": "b-report-37538531", "tag": "player:scouting-report", "method": "GET", "path": "/api/players/37538531/scouting-report", "body": null}
+{"id": "b-report-37555036", "tag": "player:scouting-report", "method": "GET", "path": "/api/players/37555036/scouting-report", "body": null}
+{"id": "b-players-all", "tag": "meta", "method": "GET", "path": "/api/players", "body": null}
+{"id": "b-psearch-Paulo Henrique de Oliveira Alves", "tag": "player-search", "method": "GET", "path": "/api/players/search?q=Paulo%20Henrique%20de%20Oliveira%20Alves", "body": null}
+{"id": "b-psearch-Kamal Miller", "tag": "player-search", "method": "GET", "path": "/api/players/search?q=Kamal%20Miller", "body": null}
+{"id": "b-psearch-Lucas Tolentino Coelho de Lima", "tag": "player-search", "method": "GET", "path": "/api/players/search?q=Lucas%20Tolentino%20Coelho%20de%20Lima", "body": null}
+{"id": "b-psearch-Kaito Suzuki", "tag": "player-search", "method": "GET", "path": "/api/players/search?q=Kaito%20Suzuki", "body": null}
+{"id": "b-psearch-Bright Ede", "tag": "player-search", "method": "GET", "path": "/api/players/search?q=Bright%20Ede", "body": null}
+{"id": "b-psearch-Chris Durkin", "tag": "player-search", "method": "GET", "path": "/api/players/search?q=Chris%20Durkin", "body": null}
+{"id": "b-psearch-Andre Brookes", "tag": "player-search", "method": "GET", "path": "/api/players/search?q=Andre%20Brookes", "body": null}
+{"id": "b-psearch-Michael Ijemuan Folorunsho", "tag": "player-search", "method": "GET", "path": "/api/players/search?q=Michael%20Ijemuan%20Folorunsho", "body": null}
+{"id": "b-psearch-Luis Alberto Suárez Díaz", "tag": "player-search", "method": "GET", "path": "/api/players/search?q=Luis%20Alberto%20Su%C3%A1rez%20D%C3%ADaz", "body": null}
+{"id": "b-psearch-Anthony Paulo Rodrigues Correia", "tag": "player-search", "method": "GET", "path": "/api/players/search?q=Anthony%20Paulo%20Rodrigues%20Correia", "body": null}
+{"id": "b-psearch-Rick Meissen", "tag": "player-search", "method": "GET", "path": "/api/players/search?q=Rick%20Meissen", "body": null}
+{"id": "b-psearch-Freddy Situmona Mbemba", "tag": "player-search", "method": "GET", "path": "/api/players/search?q=Freddy%20Situmona%20Mbemba", "body": null}
+{"id": "b-psearch-haaland", "tag": "player-search", "method": "GET", "path": "/api/players/search?q=haaland", "body": null}
+{"id": "b-psearch-Mbappe", "tag": "player-search", "method": "GET", "path": "/api/players/search?q=Mbappe", "body": null}
+{"id": "b-psearch-de bruyne", "tag": "player-search", "method": "GET", "path": "/api/players/search?q=de%20bruyne", "body": null}
+{"id": "b-psearch-Pedri", "tag": "player-search", "method": "GET", "path": "/api/players/search?q=Pedri", "body": null}
+{"id": "b-psearch-Vinicius", "tag": "player-search", "method": "GET", "path": "/api/players/search?q=Vinicius", "body": null}
+{"id": "b-psearch-Saka", "tag": "player-search", "method": "GET", "path": "/api/players/search?q=Saka", "body": null}
+{"id": "b-psearch-Bellingham", "tag": "player-search", "method": "GET", "path": "/api/players/search?q=Bellingham", "body": null}
+{"id": "b-psearch-Musiala", "tag": "player-search", "method": "GET", "path": "/api/players/search?q=Musiala", "body": null}
+{"id": "b-tsearch-Arsenal", "tag": "team-search", "method": "GET", "path": "/api/teams/search?q=Arsenal", "body": null}
+{"id": "b-tsearch-man utd", "tag": "team-search", "method": "GET", "path": "/api/teams/search?q=man%20utd", "body": null}
+{"id": "b-tsearch-Bayern", "tag": "team-search", "method": "GET", "path": "/api/teams/search?q=Bayern", "body": null}
+{"id": "b-tsearch-Ajax", "tag": "team-search", "method": "GET", "path": "/api/teams/search?q=Ajax", "body": null}
+{"id": "b-tsearch-Celtic", "tag": "team-search", "method": "GET", "path": "/api/teams/search?q=Celtic", "body": null}
+{"id": "b-tsearch-Brighton", "tag": "team-search", "method": "GET", "path": "/api/teams/search?q=Brighton", "body": null}
+{"id": "b-tsearch-Benfica", "tag": "team-search", "method": "GET", "path": "/api/teams/search?q=Benfica", "body": null}
+{"id": "b-tsearch-Sporting", "tag": "team-search", "method": "GET", "path": "/api/teams/search?q=Sporting", "body": null}
+{"id": "b-tsearch-Boca", "tag": "team-search", "method": "GET", "path": "/api/teams/search?q=Boca", "body": null}
+{"id": "b-tsearch-Melbourne", "tag": "team-search", "method": "GET", "path": "/api/teams/search?q=Melbourne", "body": null}
+{"id": "b-tsearch-Leeds", "tag": "team-search", "method": "GET", "path": "/api/teams/search?q=Leeds", "body": null}
+{"id": "b-tsearch-PSV", "tag": "team-search", "method": "GET", "path": "/api/teams/search?q=PSV", "body": null}
+{"id": "b-tsearch-Club Brugge", "tag": "team-search", "method": "GET", "path": "/api/teams/search?q=Club%20Brugge", "body": null}
+{"id": "b-tsearch-Feyenoord", "tag": "team-search", "method": "GET", "path": "/api/teams/search?q=Feyenoord", "body": null}
+{"id": "b-tsearch-Rangers", "tag": "team-search", "method": "GET", "path": "/api/teams/search?q=Rangers", "body": null}
+{"id": "b-tsearch-inter", "tag": "team-search", "method": "GET", "path": "/api/teams/search?q=inter", "body": null}
+{"id": "b-tsearch-Atletico", "tag": "team-search", "method": "GET", "path": "/api/teams/search?q=Atletico", "body": null}
+{"id": "b-tsearch-Marseille", "tag": "team-search", "method": "GET", "path": "/api/teams/search?q=Marseille", "body": null}
+{"id": "b-tsearch-Lyon", "tag": "team-search", "method": "GET", "path": "/api/teams/search?q=Lyon", "body": null}
+{"id": "b-tsearch-Dortmund", "tag": "team-search", "method": "GET", "path": "/api/teams/search?q=Dortmund", "body": null}
+{"id": "b-teamplayers-Inter", "tag": "team-players", "method": "GET", "path": "/api/teams/Inter/players", "body": null}
+{"id": "b-teamplayers-FC Barcelona", "tag": "team-players", "method": "GET", "path": "/api/teams/FC%20Barcelona/players", "body": null}
+{"id": "b-teamplayers-Fluminense", "tag": "team-players", "method": "GET", "path": "/api/teams/Fluminense/players", "body": null}
+{"id": "b-teamplayers-Como", "tag": "team-players", "method": "GET", "path": "/api/teams/Como/players", "body": null}
+{"id": "b-teamplayers-Ajax", "tag": "team-players", "method": "GET", "path": "/api/teams/Ajax/players", "body": null}
+{"id": "b-teamplayers-Real Betis", "tag": "team-players", "method": "GET", "path": "/api/teams/Real%20Betis/players", "body": null}
+{"id": "b-teamplayers-Real Madrid", "tag": "team-players", "method": "GET", "path": "/api/teams/Real%20Madrid/players", "body": null}
+{"id": "b-teamplayers-Roma", "tag": "team-players", "method": "GET", "path": "/api/teams/Roma/players", "body": null}
+{"id": "b-teamplayers-Bragantino", "tag": "team-players", "method": "GET", "path": "/api/teams/Bragantino/players", "body": null}
+{"id": "b-teamplayers-Cruzeiro", "tag": "team-players", "method": "GET", "path": "/api/teams/Cruzeiro/players", "body": null}
+{"id": "b-suggest-strikr", "tag": "suggest", "method": "GET", "path": "/api/suggest?q=strikr", "body": null}
+{"id": "b-suggest-centr back", "tag": "suggest", "method": "GET", "path": "/api/suggest?q=centr%20back", "body": null}
+{"id": "b-suggest-wingr", "tag": "suggest", "method": "GET", "path": "/api/suggest?q=wingr", "body": null}
+{"id": "b-suggest-goalkeper", "tag": "suggest", "method": "GET", "path": "/api/suggest?q=goalkeper", "body": null}
+{"id": "b-suggest-midfeilder", "tag": "suggest", "method": "GET", "path": "/api/suggest?q=midfeilder", "body": null}
+{"id": "b-suggest-defensiv", "tag": "suggest", "method": "GET", "path": "/api/suggest?q=defensiv", "body": null}
+{"id": "b-suggest-harland", "tag": "suggest", "method": "GET", "path": "/api/suggest?q=harland", "body": null}
+{"id": "b-suggest-mbape", "tag": "suggest", "method": "GET", "path": "/api/suggest?q=mbape", "body": null}
+{"id": "b-suggest-premeir league", "tag": "suggest", "method": "GET", "path": "/api/suggest?q=premeir%20league", "body": null}
+{"id": "b-suggest-bundesliga", "tag": "suggest", "method": "GET", "path": "/api/suggest?q=bundesliga", "body": null}
+{"id": "b-suggest-eredivise", "tag": "suggest", "method": "GET", "path": "/api/suggest?q=eredivise", "body": null}
+{"id": "b-suggest-championship", "tag": "suggest", "method": "GET", "path": "/api/suggest?q=championship", "body": null}
+{"id": "b-suggest-inverted fullbak", "tag": "suggest", "method": "GET", "path": "/api/suggest?q=inverted%20fullbak", "body": null}
+{"id": "b-suggest-box to box", "tag": "suggest", "method": "GET", "path": "/api/suggest?q=box%20to%20box", "body": null}
+{"id": "b-suggest-regista", "tag": "suggest", "method": "GET", "path": "/api/suggest?q=regista", "body": null}
+{"id": "b-suggest-poacher", "tag": "suggest", "method": "GET", "path": "/api/suggest?q=poacher", "body": null}
+{"id": "b-suggest-creation", "tag": "suggest", "method": "GET", "path": "/api/suggest?q=creation", "body": null}
+{"id": "b-suggest-dribble", "tag": "suggest", "method": "GET", "path": "/api/suggest?q=dribble", "body": null}
+{"id": "b-suggest-per 90", "tag": "suggest", "method": "GET", "path": "/api/suggest?q=per%2090", "body": null}
+{"id": "b-suggest-xG", "tag": "suggest", "method": "GET", "path": "/api/suggest?q=xG", "body": null}
+{"id": "b-suggest-ball-playing", "tag": "suggest", "method": "GET", "path": "/api/suggest?q=ball-playing", "body": null}
+{"id": "b-suggest-u21", "tag": "suggest", "method": "GET", "path": "/api/suggest?q=u21", "body": null}
+{"id": "b-suggest-loan", "tag": "suggest", "method": "GET", "path": "/api/suggest?q=loan", "body": null}
+{"id": "b-suggest-free agent", "tag": "suggest", "method": "GET", "path": "/api/suggest?q=free%20agent", "body": null}
+{"id": "b-suggest-A-League", "tag": "suggest", "method": "GET", "path": "/api/suggest?q=A-League", "body": null}
+{"id": "b-suggest-Serie A", "tag": "suggest", "method": "GET", "path": "/api/suggest?q=Serie%20A", "body": null}
+{"id": "b-suggest-La Liga", "tag": "suggest", "method": "GET", "path": "/api/suggest?q=La%20Liga", "body": null}
+{"id": "b-suggest-Ligue 1", "tag": "suggest", "method": "GET", "path": "/api/suggest?q=Ligue%201", "body": null}
+{"id": "b-suggest-left footed", "tag": "suggest", "method": "GET", "path": "/api/suggest?q=left%20footed", "body": null}
+{"id": "b-suggest-target man", "tag": "suggest", "method": "GET", "path": "/api/suggest?q=target%20man", "body": null}
+{"id": "b-refine-0", "tag": "refine", "method": "POST", "path": "/api/search/refine", "body": {"player_ids": [37757702, 37736098, 38210564, 37620501, 37563412, 37620389, 37627245, 38210508, 37342722, 37627630, 37735554, 37627503, 37566672, 37739802, 37677360], "follow_up": "only under 23", "min_minutes": 450}}
+{"id": "b-refine-1", "tag": "refine", "method": "POST", "path": "/api/search/refine", "body": {"player_ids": [160258, 537758, 158464, 36265, 37540897, 96611, 7698443, 37260431, 128450, 333594, 74250, 37553543, 10293508, 219859, 37560892, 37596506, 96661, 30875515, 37570289, 37739178, 262216, 37595692, 382072, 37705040, 37599292], "follow_up": "left-footed only", "min_minutes": 450}}
+{"id": "b-refine-2", "tag": "refine", "method": "POST", "path": "/api/search/refine", "body": {"player_ids": [37561657, 37555733, 37915474, 310232, 32013615, 37555734, 61736, 309581, 240435, 28931578, 13590328, 319184, 30841685, 13646929, 37430204, 3872664, 312709, 318994, 319231, 312418, 37699703, 319450, 28931654, 459254, 30947573], "follow_up": "sort by cheapest", "min_minutes": 450}}
+{"id": "b-refine-3", "tag": "refine", "method": "POST", "path": "/api/search/refine", "body": {"player_ids": [37540897, 37596506, 37560892, 37570289, 37739178, 37705040, 37599292, 37595692, 37664703, 37677602, 37717736, 37584657, 37660823, 37570226, 37637057, 37590696, 37565524, 37359803, 37653286, 37596971, 37653343, 37759290, 37690422, 37652796, 37588657], "follow_up": "only Premier League", "min_minutes": 450}}
+{"id": "b-refine-4", "tag": "refine", "method": "POST", "path": "/api/search/refine", "body": {"player_ids": [37266179, 37558992, 37536352, 37650095, 37679253, 37561034, 37645047, 37344301, 37259163, 37351292, 37707206, 37266076, 30468646, 23269627, 37656833, 24469115, 37650664], "follow_up": "remove anyone injured", "min_minutes": 450}}
+{"id": "b-refine-5", "tag": "refine", "method": "POST", "path": "/api/search/refine", "body": {"player_ids": [242328, 329563, 129412, 37562571, 749396, 25931162, 6006073, 617, 52176, 846, 32797, 1494709], "follow_up": "taller than 185cm", "min_minutes": 450}}
+{"id": "b-refine-6", "tag": "refine", "method": "POST", "path": "/api/search/refine", "body": {"player_ids": [78039, 185674, 131876, 178065, 32819201, 432782, 4764, 383202], "follow_up": "with more assists", "min_minutes": 450}}
+{"id": "b-refine-7", "tag": "refine", "method": "POST", "path": "/api/search/refine", "body": {"player_ids": [37253469, 260899, 4545486, 35280474, 464742, 473149, 37539230, 9302767, 37625553, 581043, 37531507, 120207, 31255283, 37566600, 37252519, 37391787, 37297497, 6974918, 84471, 37538561, 464833, 37541125, 470503, 37505264, 37787358], "follow_up": "younger", "min_minutes": 450}}
+{"id": "b-refine-8", "tag": "refine", "method": "POST", "path": "/api/search/refine", "body": {"player_ids": [335673, 37536953, 37682332, 6306068, 461027, 37550443, 37540234, 310131, 37593153, 62342, 216612, 7026744, 52867, 37563876, 968, 5273, 3058, 37630179, 1494447, 37581796, 37509395, 37722794, 537108, 197, 29709995], "follow_up": "cheaper than 2m", "min_minutes": 450}}
+{"id": "b-refine-9", "tag": "refine", "method": "POST", "path": "/api/search/refine", "body": {"player_ids": [821, 95186, 37588358, 235112, 303869, 289409, 37653171, 149574, 37685206, 37285030, 21781500, 1525103, 36085274, 37612177, 1923, 37539027, 20326078, 37558561, 2644, 3533724, 37766975, 293911, 37583887, 37907414, 65411], "follow_up": "only those on expiring contracts", "min_minutes": 450}}
+{"id": "b-refine-10", "tag": "refine", "method": "POST", "path": "/api/search/refine", "body": {"player_ids": [37625767, 37567627, 539656, 37674290, 37404802, 4536517, 37729623, 37596742, 37716641, 24818003, 37529822, 129454, 37597889, 37566137, 215532, 96656, 37616895, 19996287, 2511125, 37702398, 33121, 37922937, 37566650, 21427714, 22493451], "follow_up": "only from Scandinavia", "min_minutes": 450}}
+{"id": "b-refine-11", "tag": "refine", "method": "POST", "path": "/api/search/refine", "body": {"player_ids": [35218, 31532, 32361, 55485, 191329, 37610686, 37582282, 34831, 537562, 37548316, 20691939, 3187862], "follow_up": "best passers", "min_minutes": 450}}
+{"id": "b-refine-12", "tag": "refine", "method": "POST", "path": "/api/search/refine", "body": {"player_ids": [37912788], "follow_up": "exclude Spanish leagues", "min_minutes": 450}}
+{"id": "b-refine-13", "tag": "refine", "method": "POST", "path": "/api/search/refine", "body": {"player_ids": [37262281, 37596544, 37539230, 2832, 132235, 131982, 4536539, 25335, 5283409], "follow_up": "under 21 and cheap", "min_minutes": 450}}
+{"id": "b-refine-14", "tag": "refine", "method": "POST", "path": "/api/search/refine", "body": {"player_ids": [160258, 537758, 158464, 7698443, 36265, 37540897, 37553543, 219859, 96611, 333594, 74250, 37260431, 128450, 37739178, 37570289, 10293508, 96661, 37595692, 382072, 185658, 37560892, 30875515, 186936, 37596506, 467450], "follow_up": "more defensive", "min_minutes": 450}}
+{"id": "b-refine-15", "tag": "refine", "method": "POST", "path": "/api/search/refine", "body": {"player_ids": [37917503, 37562306, 1452543, 37563401, 37564192, 765821, 12121065, 37679853, 463224, 781632, 781651, 787556, 32796815, 37680273, 37686255, 10319463, 1872776, 529246, 37677461, 29312001, 12121071, 37522681, 222138, 537051, 2158153], "follow_up": "only under 23", "min_minutes": 450}}
+{"id": "b-refine-16", "tag": "refine", "method": "POST", "path": "/api/search/refine", "body": {"player_ids": [37544385, 33121, 6599980, 37625225, 37694000, 32535, 37317328, 19616116, 19980318], "follow_up": "left-footed only", "min_minutes": 450}}
+{"id": "b-refine-17", "tag": "refine", "method": "POST", "path": "/api/search/refine", "body": {"player_ids": [32096, 37588320, 37288990, 37706003, 3526183, 37684888, 84491, 31729, 37590607, 33524, 31255306, 37582220, 23277920, 41963, 3862331, 16474783, 37640364, 119637, 32314, 37315722, 32802, 37537922, 3861642], "follow_up": "sort by cheapest", "min_minutes": 450}}
+{"id": "b-refine-18", "tag": "refine", "method": "POST", "path": "/api/search/refine", "body": {"player_ids": [37757029], "follow_up": "only Premier League", "min_minutes": 450}}
+{"id": "b-refine-19", "tag": "refine", "method": "POST", "path": "/api/search/refine", "body": {"player_ids": [37567627, 33121, 37674290, 37688661, 37341905, 6599980, 37537730, 37577572, 37630418, 37625843, 37391667, 37653223, 26895, 37436322, 21072794, 187032, 37578628, 37528864, 70501, 37530272, 37926401, 21413511, 472962, 7687965, 37537521], "follow_up": "remove anyone injured", "min_minutes": 450}}
+{"id": "b-refine-20", "tag": "refine", "method": "POST", "path": "/api/search/refine", "body": {"player_ids": [37673313], "follow_up": "taller than 185cm", "min_minutes": 450}}
+{"id": "b-refine-21", "tag": "refine", "method": "POST", "path": "/api/search/refine", "body": {"player_ids": [3876679, 37643651, 37694115, 37304032, 37931630, 37640109, 151532, 37594785, 91372, 37689686, 37646425, 23715927, 37337185, 30852012, 37608175, 31616637, 84602, 37607154, 37625601, 33717, 37778237, 37569970, 456387, 37336217, 37702404], "follow_up": "with more assists", "min_minutes": 450}}
+{"id": "b-refine-22", "tag": "refine", "method": "POST", "path": "/api/search/refine", "body": {"player_ids": [2511125, 37729623, 37529822, 37544805, 30841465, 129553, 37608596, 15434627, 37599458, 37328006, 37591823, 129926, 129429], "follow_up": "younger", "min_minutes": 450}}
+{"id": "b-refine-23", "tag": "refine", "method": "POST", "path": "/api/search/refine", "body": {"player_ids": [36458, 161308, 4545466], "follow_up": "cheaper than 2m", "min_minutes": 450}}
+{"id": "b-refine-24", "tag": "refine", "method": "POST", "path": "/api/search/refine", "body": {"player_ids": [37616895, 37716641, 539656, 4536517, 37566650, 220009, 37567627, 37596742, 2511125, 129454, 37651156, 37593371, 37566137, 37676667, 37577768, 37708605, 1525103, 37637488, 29710712, 149574, 37252509, 37341905, 18683, 524288, 37652954], "follow_up": "only those on expiring contracts", "min_minutes": 450}}
+{"id": "b-refine-25", "tag": "refine", "method": "POST", "path": "/api/search/refine", "body": {"player_ids": [21482928, 177772], "follow_up": "only from Scandinavia", "min_minutes": 450}}
+{"id": "b-refine-26", "tag": "refine", "method": "POST", "path": "/api/search/refine", "body": {"player_ids": [38210435, 37716952], "follow_up": "best passers", "min_minutes": 450}}
+{"id": "b-refine-27", "tag": "refine", "method": "POST", "path": "/api/search/refine", "body": {"player_ids": [37648294, 537429], "follow_up": "exclude Spanish leagues", "min_minutes": 450}}
+{"id": "b-refine-28", "tag": "refine", "method": "POST", "path": "/api/search/refine", "body": {"player_ids": [159396, 159569], "follow_up": "under 21 and cheap", "min_minutes": 450}}
+{"id": "b-refine-29", "tag": "refine", "method": "POST", "path": "/api/search/refine", "body": {"player_ids": [37257611, 37545350, 532358, 218449, 37605221, 24817071, 160208, 1532890, 3510260, 25187252, 9308193, 186437, 31217496, 13991929, 3568416, 12058670, 49395, 530140, 19979845, 37296251, 36481517, 2823329, 37577765, 34691, 37693087], "follow_up": "more defensive", "min_minutes": 450}}
+{"id": "b-squadgap-0", "tag": "squad-gap", "method": "POST", "path": "/api/squad-gap", "body": {"formation": "4-3-3", "squad_player_ids": [198062, 128873, 128873, 128873, 37423138, 130117, 37423138, 130117, 37683059, 130117, 37423138], "recruitment_objective": null, "min_minutes": 450, "max_market_value": 1000000.0}}
+{"id": "b-squadgap-1", "tag": "squad-gap", "method": "POST", "path": "/api/squad-gap", "body": {"formation": "4-4-2", "squad_player_ids": [37656790, 37656790, 37357510, 37656790, 37656790, 37719662, 37719662, 186910, 186910, 186910, 186910], "recruitment_objective": "starter", "min_minutes": 450, "search_leagues": ["Championship (England)"]}}
+{"id": "b-squadgap-2", "tag": "squad-gap", "method": "POST", "path": "/api/squad-gap", "body": {"formation": "4-2-3-1", "squad_player_ids": [216916, 216916, 216916, 24837993, 10948475, 10319479, 10319479, 37538503, 37538503, 441306, 37526155], "recruitment_objective": "rotation", "min_minutes": 450, "age_max": 23}}
+{"id": "b-squadgap-3", "tag": "squad-gap", "method": "POST", "path": "/api/squad-gap", "body": {"formation": "3-5-2", "squad_player_ids": [97706, 37656089, 37592787, 37545384, 37545384, 12036865, 382624, 382624, 12036865, 382624, 12036865], "recruitment_objective": "young_talent", "min_minutes": 450, "max_market_value": 10000000.0, "vacant_position_groups": ["Striker"]}}
+{"id": "b-squadgap-4", "tag": "squad-gap", "method": "POST", "path": "/api/squad-gap", "body": {"formation": "3-4-3", "squad_player_ids": [31284, 37721206, 32738, 37721206, 37722914, 37583864, 37260431, 26033, 37260431, 37583864, 32158], "recruitment_objective": "sell_on", "min_minutes": 450}}
+{"id": "b-squadgap-5", "tag": "squad-gap", "method": "POST", "path": "/api/squad-gap", "body": {"formation": "5-3-2", "squad_player_ids": [450028, 450028, 37402346, 37619560, 32399, 37402346, 37402346, 32399, 37402346, 37619560, 37402346], "recruitment_objective": "emergency", "min_minutes": 450, "search_leagues": ["Championship (England)"]}}
+{"id": "b-squadgap-6", "tag": "squad-gap", "method": "POST", "path": "/api/squad-gap", "body": {"formation": "4-1-4-1", "squad_player_ids": [37612542, 37612542, 37612542, 37612542, 37612542, 37612542, 37612542, 37255840, 96611, 37255840, 37547467], "recruitment_objective": null, "min_minutes": 450, "max_market_value": 1000000.0}}
+{"id": "b-squadgap-7", "tag": "squad-gap", "method": "POST", "path": "/api/squad-gap", "body": {"formation": "4-4-1-1", "squad_player_ids": [37757029, 37757029, 37757029, 37757029, 37757029, 129467, 129467, 23738800, 23738800, 23738800, 23738800], "recruitment_objective": "starter", "min_minutes": 450, "age_max": 23}}
+{"id": "b-squadgap-8", "tag": "squad-gap", "method": "POST", "path": "/api/squad-gap", "body": {"formation": "3-4-2-1", "squad_player_ids": [220088, 218458, 218458, 218458, 37554375, 260892, 36085414, 223795, 36085414, 260892, 260892], "recruitment_objective": "rotation", "min_minutes": 450}}
+{"id": "b-squadgap-9", "tag": "squad-gap", "method": "POST", "path": "/api/squad-gap", "body": {"formation": "5-4-1", "squad_player_ids": [37623534, 37623534, 37699502, 219502, 37699502, 214476, 37699502, 37699502, 37699502, 214476, 219665], "recruitment_objective": "young_talent", "min_minutes": 450, "max_market_value": 3000000.0, "search_leagues": ["Allsvenskan", "Denmark Superliga", "Norway Eliteserien"]}}
+{"id": "b-squadgap-10", "tag": "squad-gap", "method": "POST", "path": "/api/squad-gap", "body": {"formation": "4-3-3", "squad_player_ids": [198062, 128873, 128873, 128873, 37423138, 130117, 37423138, 130117, 37683059, 130117, 37423138], "recruitment_objective": "sell_on", "min_minutes": 450, "vacant_position_groups": ["Striker"]}}
+{"id": "b-squadgap-11", "tag": "squad-gap", "method": "POST", "path": "/api/squad-gap", "body": {"formation": "4-4-2", "squad_player_ids": [37656790, 37656790, 37357510, 37656790, 37656790, 37719662, 37719662, 186910, 186910, 186910, 186910], "recruitment_objective": "emergency", "min_minutes": 450}}
+{"id": "b-squadgap-12", "tag": "squad-gap", "method": "POST", "path": "/api/squad-gap", "body": {"formation": "4-2-3-1", "squad_player_ids": [216916, 216916, 216916, 24837993, 10948475, 10319479, 10319479, 37538503, 37538503, 441306, 37526155], "recruitment_objective": null, "min_minutes": 450, "max_market_value": 1000000.0, "age_max": 23}}
+{"id": "b-squadgap-13", "tag": "squad-gap", "method": "POST", "path": "/api/squad-gap", "body": {"formation": "3-5-2", "squad_player_ids": [97706, 37656089, 37592787, 37545384, 37545384, 12036865, 382624, 382624, 12036865, 382624, 12036865], "recruitment_objective": "starter", "min_minutes": 450, "search_leagues": ["Eredivisie", "Jupiler Pro League"]}}
+{"id": "b-squadgap-14", "tag": "squad-gap", "method": "POST", "path": "/api/squad-gap", "body": {"formation": "3-4-3", "squad_player_ids": [31284, 37721206, 32738, 37721206, 37722914, 37583864, 37260431, 26033, 37260431, 37583864, 32158], "recruitment_objective": "rotation", "min_minutes": 450}}
+{"id": "b-squadgap-15", "tag": "squad-gap", "method": "POST", "path": "/api/squad-gap", "body": {"formation": "5-3-2", "squad_player_ids": [450028, 450028, 37402346, 37619560, 32399, 37402346, 37402346, 32399, 37402346, 37619560, 37402346], "recruitment_objective": "young_talent", "min_minutes": 450, "max_market_value": 3000000.0}}
+{"id": "b-squadgap-16", "tag": "squad-gap", "method": "POST", "path": "/api/squad-gap", "body": {"formation": "4-1-4-1", "squad_player_ids": [37612542, 37612542, 37612542, 37612542, 37612542, 37612542, 37612542, 37255840, 96611, 37255840, 37547467], "recruitment_objective": "sell_on", "min_minutes": 450}}
+{"id": "b-squadgap-17", "tag": "squad-gap", "method": "POST", "path": "/api/squad-gap", "body": {"formation": "4-4-1-1", "squad_player_ids": [37757029, 37757029, 37757029, 37757029, 37757029, 129467, 129467, 23738800, 23738800, 23738800, 23738800], "recruitment_objective": "emergency", "min_minutes": 450, "search_leagues": ["Championship (England)"], "age_max": 23, "vacant_position_groups": ["Striker"]}}
+{"id": "b-squadgap-18", "tag": "squad-gap", "method": "POST", "path": "/api/squad-gap", "body": {"formation": "3-4-2-1", "squad_player_ids": [220088, 218458, 218458, 218458, 37554375, 260892, 36085414, 223795, 36085414, 260892, 260892], "recruitment_objective": null, "min_minutes": 450, "max_market_value": 1000000.0}}
+{"id": "b-squadgap-19", "tag": "squad-gap", "method": "POST", "path": "/api/squad-gap", "body": {"formation": "5-4-1", "squad_player_ids": [37623534, 37623534, 37699502, 219502, 37699502, 214476, 37699502, 37699502, 37699502, 214476, 219665], "recruitment_objective": "starter", "min_minutes": 450}}
+{"id": "b-squadgap-20", "tag": "squad-gap", "method": "POST", "path": "/api/squad-gap", "body": {"formation": "4-3-3", "squad_player_ids": [198062, 128873, 128873, 128873, 37423138, 130117, 37423138, 130117, 37683059, 130117, 37423138], "recruitment_objective": "rotation", "min_minutes": 450}}
+{"id": "b-squadgap-21", "tag": "squad-gap", "method": "POST", "path": "/api/squad-gap", "body": {"formation": "4-4-2", "squad_player_ids": [37656790, 37656790, 37357510, 37656790, 37656790, 37719662, 37719662, 186910, 186910, 186910, 186910], "recruitment_objective": "young_talent", "min_minutes": 450, "max_market_value": 3000000.0, "search_leagues": ["Allsvenskan", "Denmark Superliga", "Norway Eliteserien"]}}
+{"id": "b-squadgap-22", "tag": "squad-gap", "method": "POST", "path": "/api/squad-gap", "body": {"formation": "4-2-3-1", "squad_player_ids": [216916, 216916, 216916, 24837993, 10948475, 10319479, 10319479, 37538503, 37538503, 441306, 37526155], "recruitment_objective": "sell_on", "min_minutes": 450, "age_max": 23}}
+{"id": "b-squadgap-23", "tag": "squad-gap", "method": "POST", "path": "/api/squad-gap", "body": {"formation": "3-5-2", "squad_player_ids": [97706, 37656089, 37592787, 37545384, 37545384, 12036865, 382624, 382624, 12036865, 382624, 12036865], "recruitment_objective": "emergency", "min_minutes": 450}}
+{"id": "b-squadgap-24", "tag": "squad-gap", "method": "POST", "path": "/api/squad-gap", "body": {"formation": "3-4-3", "squad_player_ids": [31284, 37721206, 32738, 37721206, 37722914, 37583864, 37260431, 26033, 37260431, 37583864, 32158], "recruitment_objective": null, "min_minutes": 450, "max_market_value": 3000000.0, "vacant_position_groups": ["Striker"]}}
+{"id": "b-squadgap-25", "tag": "squad-gap", "method": "POST", "path": "/api/squad-gap", "body": {"formation": "5-3-2", "squad_player_ids": [450028, 450028, 37402346, 37619560, 32399, 37402346, 37402346, 32399, 37402346, 37619560, 37402346], "recruitment_objective": "starter", "min_minutes": 450, "search_leagues": ["Allsvenskan", "Denmark Superliga", "Norway Eliteserien"]}}
+{"id": "b-squadgap-26", "tag": "squad-gap", "method": "POST", "path": "/api/squad-gap", "body": {"formation": "4-1-4-1", "squad_player_ids": [37612542, 37612542, 37612542, 37612542, 37612542, 37612542, 37612542, 37255840, 96611, 37255840, 37547467], "recruitment_objective": "rotation", "min_minutes": 450}}
+{"id": "b-squadgap-27", "tag": "squad-gap", "method": "POST", "path": "/api/squad-gap", "body": {"formation": "4-4-1-1", "squad_player_ids": [37757029, 37757029, 37757029, 37757029, 37757029, 129467, 129467, 23738800, 23738800, 23738800, 23738800], "recruitment_objective": "young_talent", "min_minutes": 450, "max_market_value": 10000000.0, "age_max": 23}}
+{"id": "b-squadgap-28", "tag": "squad-gap", "method": "POST", "path": "/api/squad-gap", "body": {"formation": "3-4-2-1", "squad_player_ids": [220088, 218458, 218458, 218458, 37554375, 260892, 36085414, 223795, 36085414, 260892, 260892], "recruitment_objective": "sell_on", "min_minutes": 450}}
+{"id": "b-squadgap-29", "tag": "squad-gap", "method": "POST", "path": "/api/squad-gap", "body": {"formation": "5-4-1", "squad_player_ids": [37623534, 37623534, 37699502, 219502, 37699502, 214476, 37699502, 37699502, 37699502, 214476, 219665], "recruitment_objective": "emergency", "min_minutes": 450, "search_leagues": ["Eredivisie", "Jupiler Pro League"]}}
+{"id": "b-squadgap-30", "tag": "squad-gap", "method": "POST", "path": "/api/squad-gap", "body": {"formation": "4-3-3", "squad_player_ids": [198062, 128873, 128873, 128873, 37423138, 130117, 37423138, 130117, 37683059, 130117, 37423138], "recruitment_objective": null, "min_minutes": 450, "max_market_value": 1000000.0}}
+{"id": "b-squadgap-31", "tag": "squad-gap", "method": "POST", "path": "/api/squad-gap", "body": {"formation": "4-4-2", "squad_player_ids": [37656790, 37656790, 37357510, 37656790, 37656790, 37719662, 37719662, 186910, 186910, 186910, 186910], "recruitment_objective": "starter", "min_minutes": 450, "vacant_position_groups": ["Striker"]}}
+{"id": "b-squadgap-32", "tag": "squad-gap", "method": "POST", "path": "/api/squad-gap", "body": {"formation": "4-2-3-1", "squad_player_ids": [216916, 216916, 216916, 24837993, 10948475, 10319479, 10319479, 37538503, 37538503, 441306, 37526155], "recruitment_objective": "rotation", "min_minutes": 450, "age_max": 23}}
+{"id": "b-squadgap-33", "tag": "squad-gap", "method": "POST", "path": "/api/squad-gap", "body": {"formation": "3-5-2", "squad_player_ids": [97706, 37656089, 37592787, 37545384, 37545384, 12036865, 382624, 382624, 12036865, 382624, 12036865], "recruitment_objective": "young_talent", "min_minutes": 450, "max_market_value": 10000000.0, "search_leagues": ["Allsvenskan", "Denmark Superliga", "Norway Eliteserien"]}}
+{"id": "b-squadgap-34", "tag": "squad-gap", "method": "POST", "path": "/api/squad-gap", "body": {"formation": "3-4-3", "squad_player_ids": [31284, 37721206, 32738, 37721206, 37722914, 37583864, 37260431, 26033, 37260431, 37583864, 32158], "recruitment_objective": "sell_on", "min_minutes": 450}}
+{"id": "b-squadgap-35", "tag": "squad-gap", "method": "POST", "path": "/api/squad-gap", "body": {"formation": "5-3-2", "squad_player_ids": [450028, 450028, 37402346, 37619560, 32399, 37402346, 37402346, 32399, 37402346, 37619560, 37402346], "recruitment_objective": "emergency", "min_minutes": 450}}
+{"id": "b-squadgap-36", "tag": "squad-gap", "method": "POST", "path": "/api/squad-gap", "body": {"formation": "4-1-4-1", "squad_player_ids": [37612542, 37612542, 37612542, 37612542, 37612542, 37612542, 37612542, 37255840, 96611, 37255840, 37547467], "recruitment_objective": null, "min_minutes": 450, "max_market_value": 10000000.0}}
+{"id": "b-squadgap-37", "tag": "squad-gap", "method": "POST", "path": "/api/squad-gap", "body": {"formation": "4-4-1-1", "squad_player_ids": [37757029, 37757029, 37757029, 37757029, 37757029, 129467, 129467, 23738800, 23738800, 23738800, 23738800], "recruitment_objective": "starter", "min_minutes": 450, "search_leagues": ["Allsvenskan", "Denmark Superliga", "Norway Eliteserien"], "age_max": 23}}
+{"id": "b-squadgap-38", "tag": "squad-gap", "method": "POST", "path": "/api/squad-gap", "body": {"formation": "3-4-2-1", "squad_player_ids": [220088, 218458, 218458, 218458, 37554375, 260892, 36085414, 223795, 36085414, 260892, 260892], "recruitment_objective": "rotation", "min_minutes": 450, "vacant_position_groups": ["Striker"]}}
+{"id": "b-squadgap-39", "tag": "squad-gap", "method": "POST", "path": "/api/squad-gap", "body": {"formation": "5-4-1", "squad_player_ids": [37623534, 37623534, 37699502, 219502, 37699502, 214476, 37699502, 37699502, 37699502, 214476, 219665], "recruitment_objective": "young_talent", "min_minutes": 450, "max_market_value": 10000000.0}}
+{"id": "b-squadgap-empty", "tag": "squad-gap", "method": "POST", "path": "/api/squad-gap", "body": {"formation": "4-3-3", "squad_player_ids": []}}
+{"id": "b-outliers-0", "tag": "outliers", "method": "POST", "path": "/api/outliers", "body": {"leagues": [], "position_groups": [], "age_max": null, "max_market_value": null, "min_minutes": 270, "limit": 30}}
+{"id": "b-outliers-1", "tag": "outliers", "method": "POST", "path": "/api/outliers", "body": {"leagues": ["Eredivisie"], "position_groups": ["Striker"], "age_max": 23, "max_market_value": null, "min_minutes": 270, "limit": 30}}
+{"id": "b-outliers-2", "tag": "outliers", "method": "POST", "path": "/api/outliers", "body": {"leagues": ["Championship (England)"], "position_groups": ["Centre Back"], "age_max": null, "max_market_value": 2000000.0, "min_minutes": 270, "limit": 30}}
+{"id": "b-outliers-3", "tag": "outliers", "method": "POST", "path": "/api/outliers", "body": {"leagues": ["Allsvenskan", "Norway Eliteserien", "Denmark Superliga"], "position_groups": ["Winger"], "age_max": 21, "max_market_value": null, "min_minutes": 270, "limit": 30}}
+{"id": "b-outliers-4", "tag": "outliers", "method": "POST", "path": "/api/outliers", "body": {"leagues": [], "position_groups": ["Goalkeeper"], "age_max": 25, "max_market_value": null, "min_minutes": 270, "limit": 30}}
+{"id": "b-outliers-5", "tag": "outliers", "method": "POST", "path": "/api/outliers", "body": {"leagues": ["Liga Portugal"], "position_groups": ["Central Mid"], "age_max": null, "max_market_value": 5000000.0, "min_minutes": 270, "limit": 30}}
+{"id": "b-outliers-6", "tag": "outliers", "method": "POST", "path": "/api/outliers", "body": {"leagues": ["Major League Soccer"], "position_groups": ["Attacking Mid"], "age_max": null, "max_market_value": null, "min_minutes": 270, "limit": 30}}
+{"id": "b-outliers-7", "tag": "outliers", "method": "POST", "path": "/api/outliers", "body": {"leagues": [], "position_groups": ["Fullback"], "age_max": 22, "max_market_value": 1000000.0, "min_minutes": 270, "limit": 30}}
+{"id": "b-outliers-8", "tag": "outliers", "method": "POST", "path": "/api/outliers", "body": {"leagues": ["Bundesliga", "La Liga", "Serie A (Italy)", "Premier League (England)", "Ligue 1 (France)"], "position_groups": [], "age_max": null, "max_market_value": null, "min_minutes": 270, "limit": 30}}
+{"id": "b-outliers-9", "tag": "outliers", "method": "POST", "path": "/api/outliers", "body": {"leagues": ["Jupiler Pro League"], "position_groups": ["Defensive Mid"], "age_max": 24, "max_market_value": null, "min_minutes": 270, "limit": 30}}
+{"id": "b-outliers-10", "tag": "outliers", "method": "POST", "path": "/api/outliers", "body": {"leagues": ["A-League"], "position_groups": [], "age_max": null, "max_market_value": null, "min_minutes": 270, "limit": 30}}
+{"id": "b-outliers-11", "tag": "outliers", "method": "POST", "path": "/api/outliers", "body": {"leagues": ["Liga MX"], "position_groups": ["Striker"], "age_max": null, "max_market_value": null, "min_minutes": 270, "limit": 30}}
+{"id": "b-help-0", "tag": "help", "method": "POST", "path": "/api/help", "body": {"message": "How is the tactical fit score calculated?", "history": [], "language": "en"}}
+{"id": "b-help-1", "tag": "help", "method": "POST", "path": "/api/help", "body": {"message": "What does market efficiency mean?", "history": [], "language": "en"}}
+{"id": "b-help-2", "tag": "help", "method": "POST", "path": "/api/help", "body": {"message": "How often is the data updated?", "history": [], "language": "en"}}
+{"id": "b-help-3", "tag": "help", "method": "POST", "path": "/api/help", "body": {"message": "Can I export a shortlist to PDF?", "history": [], "language": "en"}}
+{"id": "b-help-4", "tag": "help", "method": "POST", "path": "/api/help", "body": {"message": "Why does my search return no players?", "history": [], "language": "en"}}
+{"id": "b-help-5", "tag": "help", "method": "POST", "path": "/api/help", "body": {"message": "What leagues do you cover?", "history": [], "language": "en"}}
+{"id": "b-help-6", "tag": "help", "method": "POST", "path": "/api/help", "body": {"message": "How do I compare two players?", "history": [], "language": "en"}}
+{"id": "b-help-7", "tag": "help", "method": "POST", "path": "/api/help", "body": {"message": "¿Cómo funciona la puntuación?", "history": [], "language": "es"}}
+{"id": "b-help-8", "tag": "help", "method": "POST", "path": "/api/help", "body": {"message": "Is xG available for all leagues?", "history": [], "language": "en"}}
+{"id": "b-help-9", "tag": "help", "method": "POST", "path": "/api/help", "body": {"message": "How do I add a player to my pipeline?", "history": [], "language": "en"}}
+{"id": "b-fitnote-0", "tag": "fit-note", "method": "POST", "path": "/api/generate-fit-note", "body": {"squad": [], "candidate": {"sportmonks_id": 439266, "name": "Paulo Henrique de Oliveira Alves", "team_name": "Vasco da Gama", "league_name": "Serie A (Brazil)", "position": "Defender", "detailed_position": "Right Back", "position_group": "Fullback", "nationality": "Brazil", "age": 30, "height": 175, "preferred_foot": "Right", "contract_expiry": "2027-12-31", "market_value": 6000000.0, "is_loan": false, "is_injured": false, "injury_description": "Foot injury", "archetype_match": "Defensive Fullback", "scores": {"total": 42.96, "performance": 42.38, "tactical_fit": 44.7, "market_efficiency": 36.96}, "highlighted_stats": [{"key": "tackles_p90", "label": "Tackles/90", "value": 2.12, "rank": 36, "rank_total": 134, "is_gap_stat": false}, {"key": "interceptions_p90", "label": "Interceptions/90", "value": 1.06, "rank": 70, "rank_total": 134, "is_gap_stat": false}, {"key": "duels_won_pct", "label": "Duel Win %", "value": 53.8, "rank": 88, "rank_total": 134, "is_gap_stat": false}, {"key": "clearances_p90", "label": "Clearances/90", "value": 2.91, "rank": 97, "rank_total": 134, "is_gap_stat": false}, {"key": "aerials_won_p90", "label": "Aerials Won/90", "value": 1.13, "rank": 94, "rank_total": 134, "is_gap_stat": false}, {"key": "accurate_crosses_p90", "label": "Crosses/90", "value": 0.86, "rank": 26, "rank_total": 134, "is_gap_stat": false}], "rank": 19, "availability_label": "Under Contract", "value_tier_rank": 17, "value_tier_total": 24, "image_url": "https://cdn.sportmonks.com/images/soccer/players/2/439266.png", "stats": {"minutes_played": 1359.0, "appearances": 19, "goals_p90": 0.0, "assists_p90": 0.132, "key_passes_p90": 1.325, "successful_dribbles_p90": 2.053, "tackles_p90": 2.119, "interceptions_p90": 1.06, "aerials_won_p90": 1.126, "duels_won_pct": 53.8, "accurate_pass_pct": 83.5, "xg_p90": null, "shots_p90": 0.53, "clearances_p90": 2.914, "saves_p90": 0.0, "accurate_crosses_p90": 0.861, "rating": null}}, "position_group": "Fullback", "weak_stats": [{"stat": "goals_p90", "label": "Goals/90", "value": 0.1}], "formation_description": "4-3-3 high press"}}
+{"id": "b-fitnote-1", "tag": "fit-note", "method": "POST", "path": "/api/generate-fit-note", "body": {"squad": [], "candidate": {"sportmonks_id": 17158444, "name": "Kamal Miller", "team_name": "Portland Timbers", "league_name": "Major League Soccer", "position": "Defender", "detailed_position": "Centre Back", "position_group": "Centre Back", "nationality": "Canada", "age": 29, "height": 183, "preferred_foot": "Left", "contract_expiry": "2026-12-31", "market_value": 2500000.0, "is_loan": false, "is_injured": false, "injury_description": null, "archetype_match": "Aerial Defender", "scores": {"total": 60.53, "performance": 56.32, "tactical_fit": 64.2, "market_efficiency": 52.86}, "highlighted_stats": [{"key": "aerials_won_p90", "label": "Aerials Won/90", "value": 1.75, "rank": 45, "rank_total": 188, "is_gap_stat": false}, {"key": "clearances_p90", "label": "Clearances/90", "value": 6.7, "rank": 4, "rank_total": 188, "is_gap_stat": false}, {"key": "interceptions_p90", "label": "Interceptions/90", "value": 1.22, "rank": 89, "rank_total": 188, "is_gap_stat": false}, {"key": "duels_won_pct", "label": "Duel Win %", "value": 61.7, "rank": 35, "rank_total": 188, "is_gap_stat": false}, {"key": "long_ball_accuracy_pct", "label": "Long Ball Accuracy %", "value": 62.0, "rank": 17, "rank_total": 188, "is_gap_stat": false}, {"key": "dribbled_past_p90", "label": "Dribbled Past/90", "value": 0.17, "rank": 13, "rank_total": 188, "is_gap_stat": false}], "rank": 18, "availability_label": "Under Contract", "value_tier_rank": 20, "value_tier_total": 84, "image_url": "https://cdn.sportmonks.com/images/soccer/players/12/17158444.png", "stats": {"minutes_played": 1545.0, "appearances": 22, "goals_p90": 0.058, "assists_p90": 0.0, "key_passes_p90": 0.175, "successful_dribbles_p90": 0.058, "tackles_p90": 0.99, "interceptions_p90": 1.223, "aerials_won_p90": 1.748, "duels_won_pct": 61.7, "accurate_pass_pct": 91.4, "xg_p90": null, "shots_p90": 0.058, "clearances_p90": 6.699, "saves_p90": 0.0, "accurate_crosses_p90": 0.058, "rating": null}}, "position_group": "Centre Back", "weak_stats": [{"stat": "goals_p90", "label": "Goals/90", "value": 0.1}], "formation_description": "4-3-3 high press"}}
+{"id": "b-fitnote-2", "tag": "fit-note", "method": "POST", "path": "/api/generate-fit-note", "body": {"squad": [], "candidate": {"sportmonks_id": 220052, "name": "Lucas Tolentino Coelho de Lima", "team_name": "Flamengo", "league_name": "Serie A (Brazil)", "position": "Midfielder", "detailed_position": "Attacking Midfield", "position_group": "Attacking Mid", "nationality": "Brazil", "age": 29, "height": 183, "preferred_foot": "Left", "contract_expiry": "2030-12-31", "market_value": 32000000.0, "is_loan": false, "is_injured": false, "injury_description": null, "archetype_match": "Goal Threat 10", "scores": {"total": 67.49, "performance": 56.77, "tactical_fit": 79.35, "market_efficiency": 37.91}, "highlighted_stats": [{"key": "goals_p90", "label": "Goals/90", "value": 0.35, "rank": 9, "rank_total": 109, "is_gap_stat": false}, {"key": "duels_won_pct", "label": "Duel Win %", "value": 57.7, "rank": 8, "rank_total": 109, "is_gap_stat": false}, {"key": "shots_p90", "label": "Shots/90", "value": 2.87, "rank": 6, "rank_total": 109, "is_gap_stat": false}, {"key": "shots_on_target_p90", "label": "Shots on Target/90", "value": 0.91, "rank": 11, "rank_total": 109, "is_gap_stat": false}, {"key": "key_passes_p90", "label": "Key Passes/90", "value": 1.19, "rank": 43, "rank_total": 109, "is_gap_stat": false}, {"key": "goal_contributions_p90", "label": "Goal Contributions/90", "value": 0.35, "rank": 23, "rank_total": 109, "is_gap_stat": false}], "rank": 11, "availability_label": "Under Contract", "value_tier_rank": 4, "value_tier_total": 7, "image_url": "https://cdn.sportmonks.com/images/soccer/players/20/220052.png", "stats": {"minutes_played": 1284.0, "appearances": 19, "goals_p90": 0.35, "assists_p90": 0.0, "key_passes_p90": 1.192, "successful_dribbles_p90": 0.911, "tackles_p90": 2.593, "interceptions_p90": 0.35, "aerials_won_p90": 1.542, "duels_won_pct": 57.7, "accurate_pass_pct": 84.1, "xg_p90": null, "shots_p90": 2.874, "clearances_p90": 1.542, "saves_p90": 0.0, "accurate_crosses_p90": 0.21, "rating": null}}, "position_group": "Attacking Mid", "weak_stats": [{"stat": "goals_p90", "label": "Goals/90", "value": 0.1}], "formation_description": "4-3-3 high press"}}
+{"id": "b-fitnote-3", "tag": "fit-note", "method": "POST", "path": "/api/generate-fit-note", "body": {"squad": [], "candidate": {"sportmonks_id": 37324884, "name": "Kaito Suzuki", "team_name": "Tokyo Verdy", "league_name": "J1 League", "position": "Defender", "detailed_position": "Centre Back", "position_group": "Centre Back", "nationality": "Japan", "age": 24, "height": 182, "preferred_foot": "Right", "contract_expiry": "2026-01-31", "market_value": 400000.0, "is_loan": false, "is_injured": false, "injury_description": null, "archetype_match": "Aerial Defender", "scores": {"total": 38.31, "performance": 38.25, "tactical_fit": 36.06, "market_efficiency": 47.4}, "highlighted_stats": [{"key": "aerials_won_p90", "label": "Aerials Won/90", "value": 3.29, "rank": 13, "rank_total": 89, "is_gap_stat": false}, {"key": "duels_won_pct", "label": "Duel Win %", "value": 56.9, "rank": 45, "rank_total": 89, "is_gap_stat": false}, {"key": "clearances_p90", "label": "Clearances/90", "value": 4.19, "rank": 42, "rank_total": 89, "is_gap_stat": false}, {"key": "interceptions_p90", "label": "Interceptions/90", "value": 1.05, "rank": 45, "rank_total": 89, "is_gap_stat": false}, {"key": "long_ball_accuracy_pct", "label": "Long Ball Accuracy %", "value": 31.4, "rank": 67, "rank_total": 89, "is_gap_stat": false}, {"key": "dribbled_past_p90", "label": "Dribbled Past/90", "value": 0.45, "rank": 46, "rank_total": 89, "is_gap_stat": false}], "rank": 7, "availability_label": "Likely Available", "value_tier_rank": 141, "value_tier_total": 465, "image_url": "https://cdn.sportmonks.com/images/soccer/players/20/37324884.png", "stats": {"minutes_played": 601.0, "appearances": 8, "goals_p90": 0.0, "assists_p90": 0.0, "key_passes_p90": 0.15, "successful_dribbles_p90": 0.15, "tackles_p90": 1.348, "interceptions_p90": 1.048, "aerials_won_p90": 3.295, "duels_won_pct": 56.9, "accurate_pass_pct": 76.9, "xg_p90": null, "shots_p90": 0.599, "clearances_p90": 4.193, "saves_p90": 0.0, "accurate_crosses_p90": 0.15, "rating": null}}, "position_group": "Centre Back", "weak_stats": [{"stat": "goals_p90", "label": "Goals/90", "value": 0.1}], "formation_description": "4-3-3 high press"}}
+{"id": "b-fitnote-4", "tag": "fit-note", "method": "POST", "path": "/api/generate-fit-note", "body": {"squad": [], "candidate": {"sportmonks_id": 37787869, "name": "Bright Ede", "team_name": "Deportivo A Coruña", "league_name": "La Liga", "position": "Defender", "detailed_position": "Centre Back", "position_group": "Centre Back", "nationality": "Poland", "age": 19, "height": 193, "preferred_foot": "Left", "contract_expiry": "2031-06-30", "market_value": 600000.0, "is_loan": false, "is_injured": false, "injury_description": null, "archetype_match": "Sweeper CB", "scores": {"total": 55.85, "performance": 55.91, "tactical_fit": 55.91, "market_efficiency": 55.66}, "highlighted_stats": [{"key": "interceptions_p90", "label": "Interceptions/90", "value": 0.94, "rank": 60, "rank_total": 98, "is_gap_stat": false}, {"key": "clearances_p90", "label": "Clearances/90", "value": 7.24, "rank": 7, "rank_total": 98, "is_gap_stat": false}, {"key": "duels_won_pct", "label": "Duel Win %", "value": 65.0, "rank": 17, "rank_total": 98, "is_gap_stat": false}, {"key": "accurate_pass_pct", "label": "Pass Accuracy %", "value": 89.3, "rank": 35, "rank_total": 98, "is_gap_stat": false}, {"key": "tackles_p90", "label": "Tackles/90", "value": 1.26, "rank": 75, "rank_total": 98, "is_gap_stat": false}, {"key": "aerials_won_p90", "label": "Aerials Won/90", "value": 2.52, "rank": 12, "rank_total": 98, "is_gap_stat": false}], "rank": 18, "availability_label": "Possibly Available", "value_tier_rank": 15, "value_tier_total": 246, "image_url": "https://cdn.sportmonks.com/images/soccer/placeholder.png", "stats": {"minutes_played": 286.0, "appearances": 4, "goals_p90": 0.0, "assists_p90": 0.0, "key_passes_p90": 0.0, "successful_dribbles_p90": 0.0, "tackles_p90": 1.259, "interceptions_p90": 0.944, "aerials_won_p90": 2.517, "duels_won_pct": 65.0, "accurate_pass_pct": 89.3, "xg_p90": null, "shots_p90": 0.629, "clearances_p90": 7.238, "saves_p90": 0.0, "accurate_crosses_p90": 0.0, "rating": null}}, "position_group": "Centre Back", "weak_stats": [{"stat": "goals_p90", "label": "Goals/90", "value": 0.1}], "formation_description": "4-3-3 high press"}}
+{"id": "b-fitnote-5", "tag": "fit-note", "method": "POST", "path": "/api/generate-fit-note", "body": {"squad": [], "candidate": {"sportmonks_id": 275565, "name": "Chris Durkin", "team_name": "St. Louis City", "league_name": "Major League Soccer", "position": "Midfielder", "detailed_position": "Defensive Midfield", "position_group": "Defensive Mid", "nationality": "United States", "age": 26, "height": 183, "preferred_foot": "Right", "contract_expiry": "2028-06-30", "market_value": 2000000.0, "is_loan": false, "is_injured": false, "injury_description": null, "archetype_match": "Sweeper CB", "scores": {"total": 66.97, "performance": 66.71, "tactical_fit": 66.71, "market_efficiency": 67.74}, "highlighted_stats": [{"key": "interceptions_p90", "label": "Interceptions/90", "value": 1.95, "rank": 10, "rank_total": 151, "is_gap_stat": false}, {"key": "clearances_p90", "label": "Clearances/90", "value": 1.63, "rank": 41, "rank_total": 151, "is_gap_stat": false}, {"key": "duels_won_pct", "label": "Duel Win %", "value": 56.4, "rank": 25, "rank_total": 151, "is_gap_stat": false}, {"key": "accurate_pass_pct", "label": "Pass Accuracy %", "value": 86.4, "rank": 74, "rank_total": 151, "is_gap_stat": false}, {"key": "tackles_p90", "label": "Tackles/90", "value": 2.23, "rank": 37, "rank_total": 151, "is_gap_stat": false}, {"key": "key_passes_p90", "label": "Key Passes/90", "value": 0.7, "rank": 120, "rank_total": 151, "is_gap_stat": false}], "rank": 20, "availability_label": "Key Player", "value_tier_rank": 2, "value_tier_total": 25, "image_url": "https://cdn.sportmonks.com/images/soccer/players/13/275565.png", "stats": {"minutes_played": 1934.0, "appearances": 23, "goals_p90": 0.093, "assists_p90": 0.0, "key_passes_p90": 0.698, "successful_dribbles_p90": 0.419, "tackles_p90": 2.234, "interceptions_p90": 1.954, "aerials_won_p90": 1.489, "duels_won_pct": 56.4, "accurate_pass_pct": 86.4, "xg_p90": null, "shots_p90": 0.745, "clearances_p90": 1.629, "saves_p90": 0.0, "accurate_crosses_p90": 0.093, "rating": null}}, "position_group": "Defensive Mid", "weak_stats": [{"stat": "goals_p90", "label": "Goals/90", "value": 0.1}], "formation_description": "4-3-3 high press"}}
