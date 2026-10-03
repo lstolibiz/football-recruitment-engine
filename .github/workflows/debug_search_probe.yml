@@ -6,22 +6,19 @@ on:
 jobs:
   probe:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 15
     steps:
       - run: |
           python3 -u - <<'PY'
           import json, urllib.request
+          from collections import Counter
           API = "https://football-recruitment-engine-production.up.railway.app"
-          def s(p, mm):
-              req = urllib.request.Request(API + "/api/search", data=json.dumps({"prompt": p, "min_minutes": mm, "offset": 0}).encode(), headers={"Content-Type": "application/json"})
-              try: return json.load(urllib.request.urlopen(req, timeout=120))
-              except Exception as e: return {"err": str(e)}
-          for lg in ["Premier League", "Bundesliga", "La Liga", "Serie A", "Ligue 1", "Eredivisie", "Liga Portugal", "Championship", "Major League Soccer"]:
-              row = []
-              for pos in ["striker", "central midfielder", "centre back", "goalkeeper"]:
-                  r = s(f"{pos} in {lg}", 0)
-                  pl = r.get("players") or []
-                  mx = max([((x.get("stats") or {}).get("minutes_played") or 0) for x in pl] or [0])
-                  row.append(f"{pos}: {r.get('total_found')} (max {mx:.0f} min)")
-              print(f"{lg:22s} | " + " | ".join(row))
+          def s(p):
+              req = urllib.request.Request(API + "/api/search", data=json.dumps({"prompt": p, "min_minutes": 0, "offset": 0}).encode(), headers={"Content-Type": "application/json"})
+              return json.load(urllib.request.urlopen(req, timeout=120))
+          for p in ["goalkeeper in Premier League", "defender in Premier League", "midfielder in Premier League", "forward in Premier League", "goalkeeper in Eredivisie", "defender in Major League Soccer"]:
+              r = s(p); pl = r.get("players") or []
+              print("==", p, "| total", r.get("total_found"))
+              print("   (position, detailed):", Counter((x.get("position"), x.get("detailed_position")) for x in pl).most_common(10))
+              print("   sample:", [(x["name"], x.get("detailed_position"), x["team_name"]) for x in pl[:6]])
           PY
