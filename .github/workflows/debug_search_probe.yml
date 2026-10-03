@@ -6,15 +6,22 @@ on:
 jobs:
   probe:
     runs-on: ubuntu-latest
+    timeout-minutes: 25
     steps:
       - run: |
           python3 - <<'PY'
-          import json, urllib.request
+          import json, time, urllib.request
           API = "https://football-recruitment-engine-production.up.railway.app"
-          for p, mm in [("striker in Serie A", 0), ("striker in Serie A", 200), ("striker in Serie A", 450), ("striker in Premier League", 450), ("striker in Bundesliga", 450), ("striker in La Liga", 450), ("striker in Ligue 1", 450), ("striker in Eredivisie", 450)]:
-              req = urllib.request.Request(API + "/api/search", data=json.dumps({"prompt": p, "min_minutes": mm, "offset": 0}).encode(), headers={"Content-Type": "application/json"})
-              r = json.load(urllib.request.urlopen(req, timeout=180))
-              pl = r.get("players") or []
-              mins = sorted((x.get("stats") or {}).get("minutes_played") or 0 for x in pl)
-              print(f"== {p} | min_minutes={mm} | total {r.get('total_found')} | leagues {(r.get('query_interpretation') or {}).get('leagues')} | minutes of results: min {mins[0] if mins else None} max {mins[-1] if mins else None}")
+          def s(p):
+              req = urllib.request.Request(API + "/api/search", data=json.dumps({"prompt": p, "min_minutes": 450, "offset": 0}).encode(), headers={"Content-Type": "application/json"})
+              return json.load(urllib.request.urlopen(req, timeout=180))
+          for i in range(40):
+              r = s("Creative #10 in Italian Serie A with high chance creation and dribble success rate")
+              if (r.get("total_found") or 0) > 0: break
+              print("not live yet", i); time.sleep(30)
+          for p in ["Creative #10 in Italian Serie A with high chance creation and dribble success rate", "striker in Premier League", "centre back in Bundesliga", "winger in La Liga", "striker who scores goals", "Holding midfielder with low fouls committed and strong interceptions per 90"]:
+              r = s(p); from collections import Counter
+              print("==", p, "| total", r.get("total_found"), "| msg", r.get("message"))
+              print("   top:", [(x["name"], x["league_name"]) for x in (r.get("players") or [])[:3]])
+              print("   leagues:", Counter(x["league_name"] for x in r.get("players") or []).most_common(6))
           PY
