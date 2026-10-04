@@ -119,6 +119,16 @@ def run_many(reqs, phase, conc=4):
 
 def main():
     plan = json.load(open(os.environ.get("PLAN") or os.path.join(os.path.dirname(__file__), "plan.json")))
+    # Register the test account the way the app does on first sign-in (no-op once registered).
+    st, me, _ = call("GET", "/api/auth/me")
+    if st == 404:
+        code = os.environ.get("TEST_ACCESS_CODE", "LIVE-TEST-2026")
+        st2, r2, _ = call("POST", "/api/auth/complete-registration",
+                          {"code": code, "full_name": "Live Test", "organisation": "SmartScout QA"})
+        print(f"registration: {st2} {r2}", flush=True)
+        print(f"::notice::test account registration: {st2}")
+    else:
+        print(f"auth/me: {st}", flush=True)
     random.seed(7)
     # 1. security (no AI cost)
     forged = "Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ4IiwiZW1haWwiOiJ4QHguY29tIiwiZXhwIjo5OTk5OTk5OTk5fQ.c2lnbmF0dXJl"
