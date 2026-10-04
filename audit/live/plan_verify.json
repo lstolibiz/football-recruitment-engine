@@ -87,6 +87,28 @@
     "min_minutes": 450,
     "offset": 0
    }
+  },
+  {
+   "id": "v-rm",
+   "tag": "verify",
+   "method": "POST",
+   "path": "/api/search",
+   "body": {
+    "prompt": "right midfielder with energy crosses and defensive work",
+    "min_minutes": 450,
+    "offset": 0
+   }
+  },
+  {
+   "id": "v-lm2",
+   "tag": "verify",
+   "method": "POST",
+   "path": "/api/search",
+   "body": {
+    "prompt": "left midfielder with dribbling goal contributions and pressing",
+    "min_minutes": 450,
+    "offset": 0
+   }
   }
  ],
  "lookup": [
@@ -100,7 +122,7 @@
    "id": "v-l2",
    "tag": "verify",
    "method": "GET",
-   "path": "/api/teams/Atl%C3%A9tico%20Madrid/players"
+   "path": "/api/teams/Atl%C3%A9tico%20de%20Madrid/players"
   },
   {
    "id": "v-l3",
