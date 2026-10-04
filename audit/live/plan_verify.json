@@ -1,0 +1,216 @@
+{
+ "search": [
+  {
+   "id": "v-messi",
+   "tag": "verify",
+   "method": "POST",
+   "path": "/api/search",
+   "body": {
+    "prompt": "Lionel Messi",
+    "min_minutes": 450,
+    "offset": 0
+   }
+  },
+  {
+   "id": "v-cb",
+   "tag": "verify",
+   "method": "POST",
+   "path": "/api/search",
+   "body": {
+    "prompt": "left-footed centre-bak Championship <\u00a32m",
+    "min_minutes": 450,
+    "offset": 0
+   }
+  },
+  {
+   "id": "v-lcm1",
+   "tag": "verify",
+   "method": "POST",
+   "path": "/api/search",
+   "body": {
+    "prompt": "left central midfielder with passing creativity and interceptions",
+    "min_minutes": 450,
+    "offset": 0
+   }
+  },
+  {
+   "id": "v-lcm2",
+   "tag": "verify",
+   "method": "POST",
+   "path": "/api/search",
+   "body": {
+    "prompt": "left central midfielder with creativity and key passes",
+    "min_minutes": 450,
+    "offset": 0
+   }
+  },
+  {
+   "id": "v-rcm",
+   "tag": "verify",
+   "method": "POST",
+   "path": "/api/search",
+   "body": {
+    "prompt": "right central midfielder who presses",
+    "min_minutes": 450,
+    "offset": 0
+   }
+  },
+  {
+   "id": "v-lm",
+   "tag": "verify",
+   "method": "POST",
+   "path": "/api/search",
+   "body": {
+    "prompt": "left midfielder with crossing",
+    "min_minutes": 450,
+    "offset": 0
+   }
+  },
+  {
+   "id": "v-st",
+   "tag": "verify",
+   "method": "POST",
+   "path": "/api/search",
+   "body": {
+    "prompt": "young striker under 23 in the Eredivisie",
+    "min_minutes": 450,
+    "offset": 0
+   }
+  },
+  {
+   "id": "v-cdm",
+   "tag": "verify",
+   "method": "POST",
+   "path": "/api/search",
+   "body": {
+    "prompt": "ball-winning defensive midfielder in Ligue 1",
+    "min_minutes": 450,
+    "offset": 0
+   }
+  }
+ ],
+ "lookup": [
+  {
+   "id": "v-l1",
+   "tag": "verify",
+   "method": "GET",
+   "path": "/api/teams/search?q=Atl%C3%A9tico%20Madrid"
+  },
+  {
+   "id": "v-l2",
+   "tag": "verify",
+   "method": "GET",
+   "path": "/api/teams/Atl%C3%A9tico%20Madrid/players"
+  },
+  {
+   "id": "v-l3",
+   "tag": "verify",
+   "method": "GET",
+   "path": "/api/players/search?q=Florian%20Wirtz"
+  }
+ ],
+ "similar": [
+  {
+   "id": "14-052",
+   "tag": "similar",
+   "method": "GET",
+   "path": "/api/players/37596363/similar",
+   "body": null,
+   "_note": "Ferm\u00edn L\u00f3pez Mar\u00edn | FC Barcelona | La Liga | Attacking Midfield"
+  },
+  {
+   "id": "14-035",
+   "tag": "similar",
+   "method": "GET",
+   "path": "/api/players/186910/similar",
+   "body": null,
+   "_note": "Rodrigo Hern\u00e1ndez Cascante | FC Barcelona | La Liga | Defensive Midfield"
+  }
+ ],
+ "outliers": [
+  {
+   "id": "17-032",
+   "tag": "outliers-r2",
+   "method": "POST",
+   "path": "/api/outliers",
+   "body": {
+    "leagues": [],
+    "position_groups": [],
+    "age_min": null,
+    "age_max": null,
+    "min_minutes": 270,
+    "max_market_value": null,
+    "archetype": "Direct Winger",
+    "limit": 50
+   }
+  },
+  {
+   "id": "17-047",
+   "tag": "outliers-r2",
+   "method": "POST",
+   "path": "/api/outliers",
+   "body": {
+    "leagues": [],
+    "position_groups": [],
+    "age_min": null,
+    "age_max": 21,
+    "min_minutes": 900,
+    "max_market_value": null,
+    "archetype": "Poacher",
+    "limit": 50
+   }
+  }
+ ],
+ "refine_followups": [
+  "better in the air",
+  "exclude Spanish leagues",
+  "at least 0.3 assists per 90",
+  "at most 24",
+  "only Japan or Korea",
+  "only from Scandinavia"
+ ],
+ "reports": [
+  {
+   "id": "13-001",
+   "tag": "scouting-report",
+   "method": "GET",
+   "path": "/api/players/187215/scouting-report",
+   "body": null,
+   "_note": "GK, market value missing, Athletic Club"
+  }
+ ],
+ "help": [
+  {
+   "id": "25-001",
+   "tag": "help",
+   "method": "POST",
+   "path": "/api/help",
+   "body": {
+    "message": "How is the Tactical Fit score calculated and why does it sometimes equal Performance?",
+    "history": [],
+    "language": "en"
+   }
+  }
+ ],
+ "squad_gap": [
+  {
+   "id": "15-001",
+   "tag": "squad-gap",
+   "method": "POST",
+   "path": "/api/squad-gap",
+   "body": {
+    "formation": "4-3-3 (Attack)",
+    "squad_player_ids": [
+     128873,
+     130117,
+     198062,
+     37423138,
+     37683059
+    ],
+    "recruitment_objective": "starter",
+    "min_minutes": 900
+   }
+  }
+ ],
+ "full_xi_teams": []
+}

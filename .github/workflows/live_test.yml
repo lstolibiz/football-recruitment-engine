@@ -28,7 +28,10 @@ jobs:
           if [ -z "$TEST_USER_EMAIL" ] || [ -z "$TEST_USER_PASSWORD" ]; then
             echo "::error::Add TEST_USER_EMAIL and TEST_USER_PASSWORD as repository secrets"; exit 1; fi
       - name: Run the live test
-        run: mkdir -p /tmp/out && cd /tmp/out && python3 -u "$GITHUB_WORKSPACE/audit/live/live_test.py"
+        run: |
+          # audit/live/use_plan.txt names a smaller plan (e.g. plan_verify.json) for a quick targeted run
+          if [ -s audit/live/use_plan.txt ]; then export PLAN="$GITHUB_WORKSPACE/audit/live/$(cat audit/live/use_plan.txt)"; echo "plan: $PLAN"; fi
+          mkdir -p /tmp/out && cd /tmp/out && python3 -u "$GITHUB_WORKSPACE/audit/live/live_test.py"
       - name: Save results to the audit-results branch
         if: always()
         run: |
