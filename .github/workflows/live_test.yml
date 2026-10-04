@@ -1,0 +1,41 @@
+name: Live test - every feature against production
+# Signs in as a dedicated test account and exercises search, refine, player detail, similar players,
+# outliers, scouting reports, squad gap, help, fit notes, saved squads, settings and security checks.
+# Needs repository secrets TEST_USER_EMAIL and TEST_USER_PASSWORD (an approved account on the elite plan).
+on:
+  workflow_dispatch:
+  push:
+    branches: [claude/eager-allen-gvz5as]
+    paths: ['audit/live/trigger.txt']
+permissions:
+  contents: write
+concurrency:
+  group: live-test
+  cancel-in-progress: false
+jobs:
+  live:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    env:
+      # Public "anon" key of the website's Supabase project - the same value every browser receives.
+      SUPABASE_ANON_KEY: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InFpbWdjc3duZGV6cmhvaW9rcGh1Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzMyMjE1NDAsImV4cCI6MjA4ODc5NzU0MH0.vD0w664K2w4VeZTH3JrgBNJYlLam5XskrzqA6Ts_6IA
+      TEST_USER_EMAIL: ${{ secrets.TEST_USER_EMAIL }}
+      TEST_USER_PASSWORD: ${{ secrets.TEST_USER_PASSWORD }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check the test account secrets are set
+        run: |
+          if [ -z "$TEST_USER_EMAIL" ] || [ -z "$TEST_USER_PASSWORD" ]; then
+            echo "::error::Add TEST_USER_EMAIL and TEST_USER_PASSWORD as repository secrets"; exit 1; fi
+      - name: Run the live test
+        run: mkdir -p /tmp/out && cd /tmp/out && python3 -u "$GITHUB_WORKSPACE/audit/live/live_test.py"
+      - name: Save results to the audit-results branch
+        if: always()
+        run: |
+          cd $GITHUB_WORKSPACE
+          git config user.name "audit-bot"; git config user.email "audit-bot@users.noreply.github.com"
+          git fetch origin audit-results || true
+          git worktree add /tmp/res -B audit-results origin/audit-results 2>/dev/null || git worktree add /tmp/res -b audit-results
+          mkdir -p /tmp/res/results && cp /tmp/out/results/live-* /tmp/res/results/ 2>/dev/null || true
+          cd /tmp/res && git add -A results && git commit -m "live test results $(date -u +%FT%TZ)" && \
+            for i in 1 2 3; do git push origin audit-results && break; git pull --rebase origin audit-results; done
