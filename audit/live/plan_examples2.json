@@ -1,0 +1,144 @@
+{
+ "lookup": [],
+ "similar": [],
+ "outliers": [],
+ "refine_followups": [],
+ "reports": [],
+ "help": [],
+ "squad_gap": [],
+ "full_xi_teams": [],
+ "search": [
+  {
+   "id": "t-en-0",
+   "tag": "example-i18n",
+   "method": "POST",
+   "path": "/api/search",
+   "body": {
+    "prompt": "Left-back under 24 worth under €4m with strong cross accuracy and assists per 90",
+    "min_minutes": 450,
+    "offset": 0
+   }
+  },
+  {
+   "id": "t-en-1",
+   "tag": "example-i18n",
+   "method": "POST",
+   "path": "/api/search",
+   "body": {
+    "prompt": "Goalkeeper under 23 in Scandinavia worth under €2m with strong saves per 90",
+    "min_minutes": 450,
+    "offset": 0
+   }
+  },
+  {
+   "id": "t-es-2",
+   "tag": "example-i18n",
+   "method": "POST",
+   "path": "/api/search",
+   "body": {
+    "prompt": "Lateral ofensivo menor de 23 años valorado entre 2 y 8 M€ con asistencias y centros precisos por 90",
+    "min_minutes": 450,
+    "offset": 0
+   }
+  },
+  {
+   "id": "t-es-3",
+   "tag": "example-i18n",
+   "method": "POST",
+   "path": "/api/search",
+   "body": {
+    "prompt": "Delantero mejor valorado de la MLS con un valor de entre 1 y 5 M€",
+    "min_minutes": 450,
+    "offset": 0
+   }
+  },
+  {
+   "id": "t-fr-4",
+   "tag": "example-i18n",
+   "method": "POST",
+   "path": "/api/search",
+   "body": {
+    "prompt": "Ailier rapide en Scandinavie à moins de 3 M€ avec un fort taux de un-contre-un réussis et des contributions décisives par 90",
+    "min_minutes": 450,
+    "offset": 0
+   }
+  },
+  {
+   "id": "t-fr-5",
+   "tag": "example-i18n",
+   "method": "POST",
+   "path": "/api/search",
+   "body": {
+    "prompt": "Ailier à pied inversé de moins de 23 ans au Portugal à moins de 10 M€ avec beaucoup de buts par 90 et de dribbles réussis",
+    "min_minutes": 450,
+    "offset": 0
+   }
+  },
+  {
+   "id": "t-de-6",
+   "tag": "example-i18n",
+   "method": "POST",
+   "path": "/api/search",
+   "body": {
+    "prompt": "Tiefer Spielmacher unter 28 mit Marktwert zwischen 5 und 20 Mio. €, Top-Werten bei langen Bällen und Passquote",
+    "min_minutes": 450,
+    "offset": 0
+   }
+  },
+  {
+   "id": "t-de-7",
+   "tag": "example-i18n",
+   "method": "POST",
+   "path": "/api/search",
+   "body": {
+    "prompt": "Etablierter Premier-League-Flügelspieler mit Marktwert über 30 Mio. € und Top-Werten bei Toren und Vorlagen pro 90",
+    "min_minutes": 450,
+    "offset": 0
+   }
+  },
+  {
+   "id": "t-pt-8",
+   "tag": "example-i18n",
+   "method": "POST",
+   "path": "/api/search",
+   "body": {
+    "prompt": "Defesa central com menos de 23 anos nas 5 grandes ligas, avaliado em menos de 10 M€, dominante no jogo aéreo e com passe progressivo",
+    "min_minutes": 450,
+    "offset": 0
+   }
+  },
+  {
+   "id": "t-pt-9",
+   "tag": "example-i18n",
+   "method": "POST",
+   "path": "/api/search",
+   "body": {
+    "prompt": "Médio com contrato até 2027 e mais de 1.500 minutos nesta época, avaliado em menos de 5 M€",
+    "min_minutes": 450,
+    "offset": 0
+   }
+  },
+  {
+   "id": "t-it-10",
+   "tag": "example-i18n",
+   "method": "POST",
+   "path": "/api/search",
+   "body": {
+    "prompt": "Trequartista creativo in Serie A sotto i 15 M€ con tante occasioni create e alta percentuale di dribbling riusciti",
+    "min_minutes": 450,
+    "offset": 0
+   }
+  },
+  {
+   "id": "t-it-11",
+   "tag": "example-i18n",
+   "method": "POST",
+   "path": "/api/search",
+   "body": {
+    "prompt": "Difensore centrale con contratto in scadenza nel 2027, valutato meno di 3 M€, forte nei duelli aerei e negli intercetti",
+    "min_minutes": 450,
+    "offset": 0
+   }
+  }
+ ]
+}
