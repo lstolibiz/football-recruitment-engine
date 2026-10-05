@@ -1,6 +1,5 @@
 {
  "lookup": [],
- "similar": [],
  "outliers": [],
  "refine_followups": [],
  "reports": [],
@@ -9,70 +8,31 @@
  "full_xi_teams": [],
  "search": [
   {
-   "id": "xg-0",
+   "id": "xg2-0",
    "tag": "xg",
    "method": "POST",
    "path": "/api/search",
    "body": {
-    "prompt": "striker in the Premier League with high goals per 90",
+    "prompt": "striker in the Premier League",
     "min_minutes": 450,
     "offset": 0
    }
+  }
+ ],
+ "similar": [
+  {
+   "id": "xg2-s1",
+   "tag": "similar",
+   "method": "GET",
+   "path": "/api/players/37596363/similar",
+   "body": null
   },
   {
-   "id": "xg-1",
-   "tag": "xg",
-   "method": "POST",
-   "path": "/api/search",
-   "body": {
-    "prompt": "winger in La Liga under 25",
-    "min_minutes": 450,
-    "offset": 0
-   }
-  },
-  {
-   "id": "xg-2",
-   "tag": "xg",
-   "method": "POST",
-   "path": "/api/search",
-   "body": {
-    "prompt": "striker in the Championship",
-    "min_minutes": 450,
-    "offset": 0
-   }
-  },
-  {
-   "id": "xg-3",
-   "tag": "xg",
-   "method": "POST",
-   "path": "/api/search",
-   "body": {
-    "prompt": "attacking midfielder in the Bundesliga",
-    "min_minutes": 450,
-    "offset": 0
-   }
-  },
-  {
-   "id": "xg-4",
-   "tag": "xg",
-   "method": "POST",
-   "path": "/api/search",
-   "body": {
-    "prompt": "striker in MLS",
-    "min_minutes": 450,
-    "offset": 0
-   }
-  },
-  {
-   "id": "xg-5",
-   "tag": "xg",
-   "method": "POST",
-   "path": "/api/search",
-   "body": {
-    "prompt": "centre-back in Serie A",
-    "min_minutes": 450,
-    "offset": 0
-   }
+   "id": "xg2-s2",
+   "tag": "similar",
+   "method": "GET",
+   "path": "/api/players/159396/similar",
+   "body": null
   }
  ]
 }
