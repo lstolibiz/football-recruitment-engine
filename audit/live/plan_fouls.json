@@ -1,0 +1,45 @@
+{
+ "lookup": [],
+ "similar": [],
+ "outliers": [],
+ "refine_followups": [],
+ "reports": [],
+ "help": [],
+ "squad_gap": [],
+ "full_xi_teams": [],
+ "search": [
+  {
+   "id": "f-0",
+   "tag": "fouls",
+   "method": "POST",
+   "path": "/api/search",
+   "body": {
+    "prompt": "Holding midfielder under €2m in the Championship or League One with strong interceptions and few fouls",
+    "min_minutes": 450,
+    "offset": 0
+   }
+  },
+  {
+   "id": "f-1",
+   "tag": "fouls",
+   "method": "POST",
+   "path": "/api/search",
+   "body": {
+    "prompt": "disciplined centre-back who rarely fouls",
+    "min_minutes": 450,
+    "offset": 0
+   }
+  },
+  {
+   "id": "f-2",
+   "tag": "fouls",
+   "method": "POST",
+   "path": "/api/search",
+   "body": {
+    "prompt": "defensive midfielder with low fouls per 90 and high tackles",
+    "min_minutes": 450,
+    "offset": 0
+   }
+  }
+ ]
+}
