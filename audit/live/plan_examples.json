@@ -1,0 +1,276 @@
+{
+ "lookup": [],
+ "similar": [],
+ "outliers": [],
+ "refine_followups": [],
+ "reports": [],
+ "help": [],
+ "squad_gap": [],
+ "full_xi_teams": [],
+ "search": [
+  {
+   "id": "ex-01",
+   "tag": "example",
+   "method": "POST",
+   "path": "/api/search",
+   "body": {
+    "prompt": "Centre-back under 23 in the top 5 leagues valued under €10m with aerial dominance and progressive passing",
+    "min_minutes": 450,
+    "offset": 0
+   }
+  },
+  {
+   "id": "ex-02",
+   "tag": "example",
+   "method": "POST",
+   "path": "/api/search",
+   "body": {
+    "prompt": "Creative #10 in Serie A under €15m with high chance creation and dribble success rate",
+    "min_minutes": 450,
+    "offset": 0
+   }
+  },
+  {
+   "id": "ex-03",
+   "tag": "example",
+   "method": "POST",
+   "path": "/api/search",
+   "body": {
+    "prompt": "Defensive midfielder under 26 worth less than €8m with elite tackles and interceptions per 90",
+    "min_minutes": 450,
+    "offset": 0
+   }
+  },
+  {
+   "id": "ex-04",
+   "tag": "example",
+   "method": "POST",
+   "path": "/api/search",
+   "body": {
+    "prompt": "Pacy winger in Scandinavia under €3m with high take-on success and goal contributions per 90",
+    "min_minutes": 450,
+    "offset": 0
+   }
+  },
+  {
+   "id": "ex-05",
+   "tag": "example",
+   "method": "POST",
+   "path": "/api/search",
+   "body": {
+    "prompt": "Goalkeeper under 25 valued below €5m with high saves per 90 and strong long-ball distribution",
+    "min_minutes": 450,
+    "offset": 0
+   }
+  },
+  {
+   "id": "ex-06",
+   "tag": "example",
+   "method": "POST",
+   "path": "/api/search",
+   "body": {
+    "prompt": "Left-footed centre-back in the Championship under €5m with strong aerial duels and long-ball accuracy",
+    "min_minutes": 450,
+    "offset": 0
+   }
+  },
+  {
+   "id": "ex-07",
+   "tag": "example",
+   "method": "POST",
+   "path": "/api/search",
+   "body": {
+    "prompt": "Attacking fullback under 23 worth between €2m and €8m with assists and accurate crosses per 90",
+    "min_minutes": 450,
+    "offset": 0
+   }
+  },
+  {
+   "id": "ex-08",
+   "tag": "example",
+   "method": "POST",
+   "path": "/api/search",
+   "body": {
+    "prompt": "Box-to-box midfielder under 24 in Ligue 1 or the Eredivisie, under €12m, with tackles and key passes per 90",
+    "min_minutes": 450,
+    "offset": 0
+   }
+  },
+  {
+   "id": "ex-09",
+   "tag": "example",
+   "method": "POST",
+   "path": "/api/search",
+   "body": {
+    "prompt": "Striker under 21 valued under €5m with high non-penalty goals and shot conversion",
+    "min_minutes": 450,
+    "offset": 0
+   }
+  },
+  {
+   "id": "ex-10",
+   "tag": "example",
+   "method": "POST",
+   "path": "/api/search",
+   "body": {
+    "prompt": "Right winger under 22 in South America, under €4m, with high successful dribbles per 90",
+    "min_minutes": 450,
+    "offset": 0
+   }
+  },
+  {
+   "id": "ex-11",
+   "tag": "example",
+   "method": "POST",
+   "path": "/api/search",
+   "body": {
+    "prompt": "Undervalued striker under €3m with at least 0.4 goals per 90 and strong shot accuracy",
+    "min_minutes": 450,
+    "offset": 0
+   }
+  },
+  {
+   "id": "ex-12",
+   "tag": "example",
+   "method": "POST",
+   "path": "/api/search",
+   "body": {
+    "prompt": "Deep-lying playmaker under 28 valued €5m-€20m with elite long-ball accuracy and pass completion",
+    "min_minutes": 450,
+    "offset": 0
+   }
+  },
+  {
+   "id": "ex-13",
+   "tag": "example",
+   "method": "POST",
+   "path": "/api/search",
+   "body": {
+    "prompt": "Attacking midfielder under 22 in Belgium or Portugal, under €6m, with strong assists and key passes",
+    "min_minutes": 450,
+    "offset": 0
+   }
+  },
+  {
+   "id": "ex-14",
+   "tag": "example",
+   "method": "POST",
+   "path": "/api/search",
+   "body": {
+    "prompt": "Left-back under 24 worth under €4m with cross accuracy and assists, contract ending 2027",
+    "min_minutes": 450,
+    "offset": 0
+   }
+  },
+  {
+   "id": "ex-15",
+   "tag": "example",
+   "method": "POST",
+   "path": "/api/search",
+   "body": {
+    "prompt": "Ball-playing centre-back under 22 with pass accuracy above 90% and a market value under €7m",
+    "min_minutes": 450,
+    "offset": 0
+   }
+  },
+  {
+   "id": "ex-16",
+   "tag": "example",
+   "method": "POST",
+   "path": "/api/search",
+   "body": {
+    "prompt": "Holding midfielder under €2m in the Championship or League One with strong interceptions and few fouls",
+    "min_minutes": 450,
+    "offset": 0
+   }
+  },
+  {
+   "id": "ex-17",
+   "tag": "example",
+   "method": "POST",
+   "path": "/api/search",
+   "body": {
+    "prompt": "Inside forward under 23 in Portugal under €10m with high goals per 90 and dribble success",
+    "min_minutes": 450,
+    "offset": 0
+   }
+  },
+  {
+   "id": "ex-18",
+   "tag": "example",
+   "method": "POST",
+   "path": "/api/search",
+   "body": {
+    "prompt": "Centre-back with a contract expiring in 2027, valued under €3m, strong in aerial duels and interceptions",
+    "min_minutes": 450,
+    "offset": 0
+   }
+  },
+  {
+   "id": "ex-19",
+   "tag": "example",
+   "method": "POST",
+   "path": "/api/search",
+   "body": {
+    "prompt": "Right winger in the Championship under €5m with high goals per 90 and shot accuracy",
+    "min_minutes": 450,
+    "offset": 0
+   }
+  },
+  {
+   "id": "ex-20",
+   "tag": "example",
+   "method": "POST",
+   "path": "/api/search",
+   "body": {
+    "prompt": "Physical target man under €2m with a high share of aerial duels won and goals per 90",
+    "min_minutes": 450,
+    "offset": 0
+   }
+  },
+  {
+   "id": "ex-21",
+   "tag": "example",
+   "method": "POST",
+   "path": "/api/search",
+   "body": {
+    "prompt": "Midfielder out of contract in 2027 with over 1,500 minutes this season, valued under €5m",
+    "min_minutes": 450,
+    "offset": 0
+   }
+  },
+  {
+   "id": "ex-22",
+   "tag": "example",
+   "method": "POST",
+   "path": "/api/search",
+   "body": {
+    "prompt": "Top-rated striker in MLS valued between €1m and €5m",
+    "min_minutes": 450,
+    "offset": 0
+   }
+  },
+  {
+   "id": "ex-23",
+   "tag": "example",
+   "method": "POST",
+   "path": "/api/search",
+   "body": {
+    "prompt": "Goalkeeper under 21 in Scandinavia worth under €1m with strong saves per 90",
+    "min_minutes": 450,
+    "offset": 0
+   }
+  },
+  {
+   "id": "ex-24",
+   "tag": "example",
+   "method": "POST",
+   "path": "/api/search",
+   "body": {
+    "prompt": "Proven Premier League winger valued over €30m with elite goals and assists per 90",
+    "min_minutes": 450,
+    "offset": 0
+   }
+  }
+ ]
+}
