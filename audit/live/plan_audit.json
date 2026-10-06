@@ -1,21 +1,50 @@
 {
  "lookup": [
   {
-   "id": "audit-Brentford",
-   "tag": "club-audit",
+   "id": "arch",
+   "tag": "archetypes",
+   "method": "GET",
+   "path": "/api/archetypes",
+   "body": null
+  },
+  {
+   "id": "out-default",
+   "tag": "outliers",
    "method": "POST",
-   "path": "/api/club-audit",
+   "path": "/api/outliers",
    "body": {
-    "team_name": "Brentford"
+    "archetype": "Creative Attacker",
+    "limit": 10
    }
   },
   {
-   "id": "audit-Aris",
-   "tag": "club-audit",
+   "id": "out-custom",
+   "tag": "outliers",
    "method": "POST",
-   "path": "/api/club-audit",
+   "path": "/api/outliers",
    "body": {
-    "team_name": "Aris"
+    "archetype": "Creative Attacker",
+    "limit": 10,
+    "weights": {
+     "goals": 70,
+     "key_passes": 10,
+     "assists": 10,
+     "successful_dribbles": 5,
+     "accurate_pass_pct": 5
+    }
+   }
+  },
+  {
+   "id": "out-junk",
+   "tag": "outliers",
+   "method": "POST",
+   "path": "/api/outliers",
+   "body": {
+    "archetype": "Creative Attacker",
+    "limit": 10,
+    "weights": {
+     "nope": 50
+    }
    }
   }
  ],
