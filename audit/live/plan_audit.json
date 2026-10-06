@@ -1,0 +1,117 @@
+{
+ "lookup": [
+  {
+   "id": "pt-Feyenoord",
+   "tag": "public-teams",
+   "method": "GET",
+   "path": "/api/public/teams?q=Feyenoord",
+   "body": null,
+   "auth": false
+  },
+  {
+   "id": "pt-Celtic",
+   "tag": "public-teams",
+   "method": "GET",
+   "path": "/api/public/teams?q=Celtic",
+   "body": null,
+   "auth": false
+  },
+  {
+   "id": "pt-Brentford",
+   "tag": "public-teams",
+   "method": "GET",
+   "path": "/api/public/teams?q=Brentford",
+   "body": null,
+   "auth": false
+  },
+  {
+   "id": "pt-Hammarby",
+   "tag": "public-teams",
+   "method": "GET",
+   "path": "/api/public/teams?q=Hammarby",
+   "body": null,
+   "auth": false
+  },
+  {
+   "id": "pt-Aris",
+   "tag": "public-teams",
+   "method": "GET",
+   "path": "/api/public/teams?q=Aris",
+   "body": null,
+   "auth": false
+  },
+  {
+   "id": "audit-Feyenoord",
+   "tag": "club-audit",
+   "method": "POST",
+   "path": "/api/club-audit",
+   "body": {
+    "team_name": "Feyenoord"
+   }
+  },
+  {
+   "id": "audit-Celtic",
+   "tag": "club-audit",
+   "method": "POST",
+   "path": "/api/club-audit",
+   "body": {
+    "team_name": "Celtic"
+   }
+  },
+  {
+   "id": "audit-Brentford",
+   "tag": "club-audit",
+   "method": "POST",
+   "path": "/api/club-audit",
+   "body": {
+    "team_name": "Brentford"
+   }
+  },
+  {
+   "id": "audit-Hammarby",
+   "tag": "club-audit",
+   "method": "POST",
+   "path": "/api/club-audit",
+   "body": {
+    "team_name": "Hammarby"
+   }
+  },
+  {
+   "id": "audit-Aris",
+   "tag": "club-audit",
+   "method": "POST",
+   "path": "/api/club-audit",
+   "body": {
+    "team_name": "Aris"
+   }
+  },
+  {
+   "id": "audit-public-noemail",
+   "tag": "expect-422",
+   "method": "POST",
+   "path": "/api/public/club-audit",
+   "body": {
+    "team_name": "Celtic"
+   },
+   "auth": false
+  },
+  {
+   "id": "audit-noauth",
+   "tag": "expect-401",
+   "method": "POST",
+   "path": "/api/club-audit",
+   "body": {
+    "team_name": "Celtic"
+   },
+   "auth": false
+  }
+ ],
+ "outliers": [],
+ "refine_followups": [],
+ "reports": [],
+ "help": [],
+ "squad_gap": [],
+ "full_xi_teams": [],
+ "search": [],
+ "similar": []
+}
