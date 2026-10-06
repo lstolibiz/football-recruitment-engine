@@ -19,6 +19,7 @@ STAMP = time.strftime("%Y%m%dT%H%M%SZ", time.gmtime())
 OUT = f"results/live-{STAMP}.jsonl"
 os.makedirs("results", exist_ok=True)
 _lock = threading.Lock()
+_timing = threading.local()   # Server-Timing header of this thread's last response
 _tok = {"value": None, "at": 0.0}
 _search_times: list[float] = []
 SEARCH_PER_HOUR = int(os.environ.get("SEARCH_PER_HOUR", "450"))   # API allows 600/h per account
@@ -60,6 +61,7 @@ def call(method, path, body=None, auth=True, raw_token=None, timeout=240):
     for attempt in range(3):
         try:
             r = urllib.request.urlopen(urllib.request.Request(API + path, data=data, headers=hdr, method=method), timeout=timeout)
+            _timing.value = r.headers.get("Server-Timing")
             txt = r.read().decode("utf-8", "replace")
             try:
                 return r.status, json.loads(txt), round((time.time() - t) * 1000)
@@ -98,12 +100,13 @@ def record(rec):
 
 
 def run(req, phase):
+    _timing.value = None
     if req["path"].startswith(("/api/search",)) and req.get("method") == "POST":
         pace_search()
     st, resp, ms = call(req.get("method", "GET"), req["path"], req.get("body"),
                         auth=req.get("auth", True), raw_token=req.get("raw_token"))
     rec = {"phase": phase, "id": req.get("id"), "tag": req.get("tag"), "method": req.get("method", "GET"),
-           "path": req["path"], "body": req.get("body"), "note": req.get("_note"), "status": st, "ms": ms, "resp": trim(resp)}
+           "path": req["path"], "body": req.get("body"), "note": req.get("_note"), "status": st, "ms": ms, "server_timing": getattr(_timing, "value", None), "resp": trim(resp)}
     record(rec)
     return rec
 

@@ -1,46 +1,5 @@
 {
- "lookup": [
-  {
-   "id": "out-default-2",
-   "tag": "outliers",
-   "method": "POST",
-   "path": "/api/outliers",
-   "body": {
-    "archetype": "Creative Attacker",
-    "limit": 10
-   }
-  },
-  {
-   "id": "out-custom",
-   "tag": "outliers",
-   "method": "POST",
-   "path": "/api/outliers",
-   "body": {
-    "archetype": "Creative Attacker",
-    "limit": 10,
-    "weights": {
-     "goals": 70,
-     "key_passes": 10,
-     "assists": 10,
-     "successful_dribbles": 5,
-     "accurate_pass_pct": 5
-    }
-   }
-  },
-  {
-   "id": "out-junk",
-   "tag": "outliers",
-   "method": "POST",
-   "path": "/api/outliers",
-   "body": {
-    "archetype": "Creative Attacker",
-    "limit": 10,
-    "weights": {
-     "nope": 50
-    }
-   }
-  }
- ],
+ "lookup": [],
  "outliers": [],
  "refine_followups": [],
  "reports": [],
@@ -49,13 +8,135 @@
  "full_xi_teams": [],
  "search": [
   {
-   "id": "out-default",
-   "tag": "outliers",
+   "id": "s0",
+   "tag": "timing",
    "method": "POST",
-   "path": "/api/outliers",
+   "path": "/api/search",
    "body": {
-    "archetype": "Creative Attacker",
-    "limit": 10
+    "prompt": "young left back in the Eredivisie",
+    "min_minutes": 450,
+    "offset": 0
+   }
+  },
+  {
+   "id": "s1",
+   "tag": "timing",
+   "method": "POST",
+   "path": "/api/search",
+   "body": {
+    "prompt": "ball-playing centre-half under 24 in the Championship, left-footed, under 2 million",
+    "min_minutes": 450,
+    "offset": 0
+   }
+  },
+  {
+   "id": "s2",
+   "tag": "timing",
+   "method": "POST",
+   "path": "/api/search",
+   "body": {
+    "prompt": "striker who scores headers under 25",
+    "min_minutes": 450,
+    "offset": 0
+   }
+  },
+  {
+   "id": "s3",
+   "tag": "timing",
+   "method": "POST",
+   "path": "/api/search",
+   "body": {
+    "prompt": "creative attacking midfielder in Scandinavia under \u20ac1m",
+    "min_minutes": 450,
+    "offset": 0
+   }
+  },
+  {
+   "id": "s4",
+   "tag": "timing",
+   "method": "POST",
+   "path": "/api/search",
+   "body": {
+    "prompt": "pressing forward in Belgium or the Netherlands",
+    "min_minutes": 450,
+    "offset": 0
+   }
+  },
+  {
+   "id": "s5",
+   "tag": "timing",
+   "method": "POST",
+   "path": "/api/search",
+   "body": {
+    "prompt": "box to box midfielder under 23 with high work rate",
+    "min_minutes": 450,
+    "offset": 0
+   }
+  },
+  {
+   "id": "s6",
+   "tag": "timing",
+   "method": "POST",
+   "path": "/api/search",
+   "body": {
+    "prompt": "goalkeeper good with his feet in Serie B",
+    "min_minutes": 450,
+    "offset": 0
+   }
+  },
+  {
+   "id": "s7",
+   "tag": "timing",
+   "method": "POST",
+   "path": "/api/search",
+   "body": {
+    "prompt": "right winger with pace and dribbling in Portugal",
+    "min_minutes": 450,
+    "offset": 0
+   }
+  },
+  {
+   "id": "s8",
+   "tag": "timing",
+   "method": "POST",
+   "path": "/api/search",
+   "body": {
+    "prompt": "defensive midfielder who rarely fouls in the Bundesliga",
+    "min_minutes": 450,
+    "offset": 0
+   }
+  },
+  {
+   "id": "s9",
+   "tag": "timing",
+   "method": "POST",
+   "path": "/api/search",
+   "body": {
+    "prompt": "cheap centre back from South America under 21",
+    "min_minutes": 450,
+    "offset": 0
+   }
+  },
+  {
+   "id": "s10",
+   "tag": "timing",
+   "method": "POST",
+   "path": "/api/search",
+   "body": {
+    "prompt": "fullback who can cross in the MLS",
+    "min_minutes": 450,
+    "offset": 0
+   }
+  },
+  {
+   "id": "s11",
+   "tag": "timing",
+   "method": "POST",
+   "path": "/api/search",
+   "body": {
+    "prompt": "target man in League One",
+    "min_minutes": 450,
+    "offset": 0
    }
   }
  ],
