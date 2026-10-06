@@ -1,0 +1,51 @@
+{
+ "search": [],
+ "similar": [],
+ "refine_followups": [],
+ "reports": [],
+ "help": [],
+ "squad_gap": [],
+ "full_xi_teams": [],
+ "lookup": [
+  {
+   "id": "chila",
+   "tag": "profile",
+   "method": "GET",
+   "path": "/api/players/search?q=Chila%20Macias"
+  }
+ ],
+ "outliers": [
+  {
+   "id": "17-032",
+   "tag": "outliers-r2",
+   "method": "POST",
+   "path": "/api/outliers",
+   "body": {
+    "leagues": [],
+    "position_groups": [],
+    "age_min": null,
+    "age_max": null,
+    "min_minutes": 270,
+    "max_market_value": null,
+    "archetype": "Direct Winger",
+    "limit": 50
+   }
+  },
+  {
+   "id": "17-047",
+   "tag": "outliers-r2",
+   "method": "POST",
+   "path": "/api/outliers",
+   "body": {
+    "leagues": [],
+    "position_groups": [],
+    "age_min": null,
+    "age_max": 21,
+    "min_minutes": 900,
+    "max_market_value": null,
+    "archetype": "Poacher",
+    "limit": 50
+   }
+  }
+ ]
+}
