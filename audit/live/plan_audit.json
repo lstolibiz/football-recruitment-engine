@@ -1,14 +1,7 @@
 {
  "lookup": [
   {
-   "id": "arch",
-   "tag": "archetypes",
-   "method": "GET",
-   "path": "/api/archetypes",
-   "body": null
-  },
-  {
-   "id": "out-default",
+   "id": "out-default-2",
    "tag": "outliers",
    "method": "POST",
    "path": "/api/outliers",
@@ -54,6 +47,17 @@
  "help": [],
  "squad_gap": [],
  "full_xi_teams": [],
- "search": [],
+ "search": [
+  {
+   "id": "out-default",
+   "tag": "outliers",
+   "method": "POST",
+   "path": "/api/outliers",
+   "body": {
+    "archetype": "Creative Attacker",
+    "limit": 10
+   }
+  }
+ ],
  "similar": []
 }
