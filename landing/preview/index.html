@@ -1,0 +1,363 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="robots" content="noindex, nofollow">
+<title>SmartScout AI intro preview</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preconnect" href="https://d2ol7oe51mr4n9.cloudfront.net" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600&family=Inter:wght@400;500;600&display=swap">
+<style>
+  /* Tokens mirror the SmartScout landing page (talent-scryer): dark ground, Space Grotesk display,
+     Inter body, the site's green primary button. */
+  :root {
+    --bg: #0a0c10;
+    --fg: #ffffff;
+    --muted: rgba(255, 255, 255, 0.72);
+    --faint: rgba(255, 255, 255, 0.45);
+    --line: rgba(255, 255, 255, 0.12);
+    --accent: #4ade80;
+    --font-display: 'Space Grotesk', 'Inter', system-ui, sans-serif;
+    --font-body: 'Inter', system-ui, -apple-system, 'Segoe UI', sans-serif;
+    color-scheme: dark;
+  }
+  * { box-sizing: border-box; }
+  html { background: var(--bg); scroll-behavior: smooth; }
+  body { margin: 0; background: var(--bg); color: var(--fg); font-family: var(--font-body); -webkit-font-smoothing: antialiased; }
+  @media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } }
+
+  /* Slim preview bar. On the real site the existing navigation sits here. */
+  .bar {
+    position: fixed; inset: 0 0 auto 0; z-index: 20;
+    display: flex; align-items: center; justify-content: space-between; gap: 16px;
+    padding: calc(14px + env(safe-area-inset-top, 0px)) 20px 14px;
+    background: linear-gradient(to bottom, rgba(10, 12, 16, 0.72), rgba(10, 12, 16, 0));
+    pointer-events: none;
+  }
+  .bar > * { pointer-events: auto; }
+  .brand { font-family: var(--font-display); font-weight: 600; font-size: 15px; letter-spacing: -0.01em; text-decoration: none; color: var(--fg); display: flex; align-items: center; gap: 10px; }
+  .pill { font: 500 11px/1 var(--font-body); letter-spacing: 0.08em; text-transform: uppercase; color: var(--faint); border: 1px solid var(--line); border-radius: 999px; padding: 6px 9px; }
+  .meta { display: flex; align-items: center; gap: 14px; font-size: 13px; color: var(--faint); font-variant-numeric: tabular-nums; }
+  .meta a { color: var(--muted); text-decoration: none; border-bottom: 1px solid var(--line); padding-bottom: 1px; }
+  .meta a:hover { color: var(--fg); border-color: var(--muted); }
+  @media (max-width: 639px) { .meta .film { display: none; } .bar { padding-left: 16px; padding-right: 16px; } }
+
+  /* Scroll track: tall; the stage sticks and plays the film as you scroll. */
+  .track { position: relative; height: calc(var(--w, 9.7) * 100vh); height: calc(var(--w, 9.7) * 100svh); }
+  .stage { position: sticky; top: 0; height: 100vh; height: 100svh; overflow: hidden; background: var(--bg); isolation: isolate; }
+  .stage video { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; opacity: 0; background: var(--bg); }
+  .stage video.active { opacity: 1; }
+  .scrim { position: absolute; inset: 0; pointer-events: none; background: linear-gradient(to top, rgba(10, 12, 16, 0.78) 0%, rgba(10, 12, 16, 0.28) 36%, rgba(10, 12, 16, 0) 60%); }
+
+  .chapter {
+    position: absolute; left: 0; bottom: 11vh; bottom: 11svh; max-width: 34rem;
+    padding: 0 20px env(safe-area-inset-bottom, 0px); pointer-events: none;
+    opacity: 0; visibility: hidden; will-change: opacity, transform;
+  }
+  .chapter.right { left: auto; right: 0; }
+  @media (min-width: 640px) {
+    .chapter { left: 4vw; padding-left: 32px; padding-right: 32px; }
+    .chapter.right { left: auto; right: 4vw; }
+  }
+  .chapter h2 { margin: 0; font-family: var(--font-display); font-weight: 600; font-size: clamp(30px, 4.6vw, 60px); line-height: 1.02; letter-spacing: -0.02em; text-wrap: balance; }
+  .chapter p { margin: 16px 0 0; max-width: 28rem; font-size: clamp(15px, 1.2vw, 18px); line-height: 1.6; color: var(--muted); text-wrap: pretty; }
+  .cta { margin-top: 28px; display: flex; flex-wrap: wrap; align-items: center; gap: 14px; pointer-events: auto; }
+  .note { font-size: 13px; color: var(--faint); opacity: 0; transition: opacity 0.3s; }
+  .note.show { opacity: 1; }
+
+  .btn {
+    display: inline-flex; align-items: center; justify-content: center; gap: 8px;
+    border-radius: 12px; padding: 16px 32px; font: 600 15px/1 var(--font-body);
+    border: 0; cursor: pointer; text-decoration: none; white-space: nowrap;
+    transition: box-shadow 0.3s, transform 0.3s, border-color 0.3s, background-color 0.3s, color 0.3s;
+  }
+  .btn:hover { transform: scale(1.02); }
+  .btn:active { transform: scale(0.98); }
+  .btn-primary { background: var(--accent); color: #000; }
+  .btn-primary:hover { box-shadow: 0 0 32px -4px hsl(160 84% 52% / 0.6); }
+  .btn-primary:focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; }
+  .btn-outline { background: transparent; color: var(--muted); border: 1px solid rgba(255, 255, 255, 0.2); }
+  .btn-outline:hover { color: var(--fg); border-color: rgba(255, 255, 255, 0.4); background: rgba(255, 255, 255, 0.04); }
+  .btn-outline:focus-visible { outline: 2px solid rgba(255, 255, 255, 0.5); outline-offset: 3px; }
+  .btn svg { width: 16px; height: 16px; transition: transform 0.3s; }
+  .btn:hover svg { transform: translateX(3px); }
+
+  .hint {
+    position: absolute; left: 50%; bottom: calc(22px + env(safe-area-inset-bottom, 0px)); transform: translateX(-50%);
+    display: flex; flex-direction: column; align-items: center; gap: 8px;
+    font: 500 11px/1 var(--font-body); letter-spacing: 0.14em; text-transform: uppercase; color: var(--faint);
+    transition: opacity 0.4s; pointer-events: none;
+  }
+  .hint span { display: block; width: 1px; height: 34px; background: linear-gradient(to bottom, rgba(255,255,255,0.5), rgba(255,255,255,0)); animation: drip 1.8s ease-in-out infinite; }
+  @keyframes drip { 0% { transform: scaleY(0); transform-origin: top; } 50% { transform: scaleY(1); transform-origin: top; } 51% { transform-origin: bottom; } 100% { transform: scaleY(0); transform-origin: bottom; } }
+  @media (prefers-reduced-motion: reduce) { .hint span { animation: none; } }
+
+  /* Static fallback for reduced motion: posters stacked with the copy. */
+  .static { display: none; }
+  .static article { position: relative; isolation: isolate; display: flex; align-items: flex-end; min-height: 72vh; min-height: 72svh; overflow: hidden; }
+  .static img { position: absolute; inset: 0; z-index: -2; width: 100%; height: 100%; object-fit: cover; }
+  .static .fade { position: absolute; inset: 0; z-index: -1; background: linear-gradient(to top, rgba(10,12,16,0.85) 0%, rgba(10,12,16,0.3) 45%, rgba(10,12,16,0) 70%); }
+  .static .copy { width: 100%; max-width: 34rem; padding: 96px 20px 48px; }
+  .static .copy.right { margin-left: auto; }
+  @media (min-width: 640px) { .static .copy { padding-left: 32px; padding-right: 32px; } }
+  body.reduced .track { display: none; }
+  body.reduced .static { display: block; }
+
+  /* Where the existing landing page would continue. */
+  .after { position: relative; border-top: 1px solid var(--line); padding: 96px 20px 120px; }
+  .after .inner { max-width: 60rem; margin: 0 auto; display: grid; gap: 20px; }
+  .eyebrow { margin: 0; font: 500 12px/1 var(--font-body); letter-spacing: 0.12em; text-transform: uppercase; color: var(--faint); }
+  .after h2 { margin: 0; font-family: var(--font-display); font-weight: 600; font-size: clamp(28px, 4vw, 48px); line-height: 1.05; letter-spacing: -0.02em; max-width: 24ch; text-wrap: balance; }
+  .after p { margin: 0; max-width: 60ch; font-size: 17px; line-height: 1.65; color: var(--muted); }
+  .after .row { display: flex; flex-wrap: wrap; gap: 14px; margin-top: 12px; }
+</style>
+</head>
+<body>
+<a id="top"></a>
+<header class="bar">
+  <a class="brand" href="#top">SmartScout AI <span class="pill">Intro preview</span></a>
+  <div class="meta">
+    <a class="film" id="filmLink" href="#" target="_blank" rel="noopener">Watch as one film</a>
+    <span id="counter" aria-live="polite">1 / 7</span>
+  </div>
+</header>
+
+<section class="track" id="track" aria-label="Introduction">
+  <div class="stage" id="stage">
+    <div class="scrim" aria-hidden="true"></div>
+    <div class="hint" id="hint" aria-hidden="true">Scroll<span></span></div>
+  </div>
+</section>
+
+<section class="static" id="static" aria-label="Introduction"></section>
+
+<section class="after">
+  <div class="inner">
+    <p class="eyebrow">End of the intro</p>
+    <h2>Your current landing page continues from here.</h2>
+    <p>In the real integration the existing hero, product walkthrough and the rest of the page follow directly under the film, unchanged. Scroll back up to play it in reverse; every frame holds still wherever you stop.</p>
+    <div class="row">
+      <a class="btn btn-outline" href="#top">Back to the start</a>
+    </div>
+  </div>
+</section>
+
+<script>
+(function () {
+  "use strict";
+  var CDN = window.__INTRO_BASE || "https://d2ol7oe51mr4n9.cloudfront.net/user_3KMIwEHxZ1qIzuncbcTaRoyQ4q9/";
+  var FILES = window.__INTRO_FILES || {
+    "scene-01.mp4": "9ab3e278-57a8-4e9a-a3fe-924766c593c1.mp4",
+    "scene-01-mobile.mp4": "f6644317-cecc-4c7e-82ef-e2dc471e1668.mp4",
+    "scene-02.mp4": "6ee6398c-0b98-4c5b-a0d2-327fe58fa82d.mp4",
+    "scene-02-mobile.mp4": "586f8d37-ab22-40d7-abd3-ed979bffd24a.mp4",
+    "scene-03.mp4": "425445de-0f39-4997-b9c2-bf575522ddea.mp4",
+    "scene-03-mobile.mp4": "ba87bc07-9713-4045-b605-39cd79f52e9e.mp4",
+    "scene-04.mp4": "7cc1ad5a-6d9a-45c5-98c9-f04f2c05d55b.mp4",
+    "scene-04-mobile.mp4": "d3a2612b-2b52-496e-aea1-e09b3e4ad1be.mp4",
+    "scene-05.mp4": "65c7545f-2690-4e51-8a9e-18048ab1eebe.mp4",
+    "scene-05-mobile.mp4": "0d697fdc-2ac2-4624-bd18-2dd6f91ad41f.mp4",
+    "scene-06.mp4": "d16c4d06-bef9-457e-9486-6eb296968552.mp4",
+    "scene-06-mobile.mp4": "63f1f453-3cd6-455f-917b-7ce4e8cc7e2b.mp4",
+    "scene-07.mp4": "4b3c67e3-9e54-49f0-8b7b-fd2abac7d75c.mp4",
+    "scene-07-mobile.mp4": "2d050c9b-7e4c-4150-a7fc-a30c018d3f9f.mp4",
+    "scene-01-poster.jpg": "fa47ab49-cf32-4757-904c-aaab45baba85.jpg",
+    "scene-01-mobile-poster.jpg": "0b5660ad-a255-4174-9703-1279317e688c.jpg",
+    "scene-02-poster.jpg": "e46478d2-6e03-4b97-8c06-e652ab8291b1.jpg",
+    "scene-02-mobile-poster.jpg": "f0248c87-66bd-4f8f-8673-8a79653d2899.jpg",
+    "scene-03-poster.jpg": "613f158f-30f7-406d-8b9d-bba40a2e0ad2.jpg",
+    "scene-03-mobile-poster.jpg": "03d08ce9-88df-4307-8a1a-973675135d2b.jpg",
+    "scene-04-poster.jpg": "819162b0-61a5-4c00-8734-60bdd6df0682.jpg",
+    "scene-04-mobile-poster.jpg": "656bac54-2877-4c54-b79e-b5ac892af1a0.jpg",
+    "scene-05-poster.jpg": "75f81cf3-b4fd-485d-86d7-422744eb64c4.jpg",
+    "scene-05-mobile-poster.jpg": "d90cd4e4-456a-4b4f-8603-25923c13e77a.jpg",
+    "scene-06-poster.jpg": "041283c6-e348-4d58-9ed5-bdbb101de456.jpg",
+    "scene-06-mobile-poster.jpg": "9b6e2d90-a5f3-41e5-8e32-be89d178f3a1.jpg",
+    "scene-07-poster.jpg": "76619e83-4d7c-44a6-b8fb-66d6f7d2f0f3.jpg",
+    "scene-07-mobile-poster.jpg": "0aaea00f-288e-4724-83c6-bf95f405caa3.jpg",
+    "film.mp4": "8748ad9c-c366-4d27-bac1-54db8268bce3.mp4"
+  };
+  // Same scene data as introScenes.ts in the site repo.
+  var SCENES = [
+    { clip: "scene-01", duration: 6.04, weight: 1.2, align: "left", pos: "55% 50%", mpos: "58% 50%", title: "The window is open.", body: "Three positions to fill. One quiet evening to fill them." },
+    { clip: "scene-02", duration: 6.04, weight: 1.1, align: "right", pos: "50% 50%", mpos: "50% 50%", title: "The question.", body: "Which players fit the way your team actually plays?" },
+    { clip: "scene-03", duration: 6.04, weight: 1.1, align: "left", pos: "50% 50%", mpos: "50% 50%", title: "The search.", body: "One profile. Every league. Seconds, not weeks." },
+    { clip: "scene-04", duration: 6.04, weight: 1.3, align: "right", pos: "50% 50%", mpos: "50% 50%", title: "Three names.", body: "Scored against your model, with today’s market value." },
+    { clip: "scene-05", duration: 6.04, weight: 1.2, align: "left", pos: "50% 50%", mpos: "50% 50%", title: "Signed.", body: "Decisions made with evidence tend to be made once." },
+    { clip: "scene-06", duration: 6.04, weight: 1.1, align: "left", pos: "50% 50%", mpos: "50% 50%" },
+    { clip: "scene-07", duration: 8.04, weight: 1.7, hold: 0.35, align: "left", pos: "50% 45%", mpos: "50% 45%", title: "Find them before anyone else does.", body: "SmartScout AI. Recruitment intelligence for professional clubs.", cta: true }
+  ];
+
+  var url = function (name) { return CDN + (FILES[name] || name); };
+  var mobile = window.matchMedia("(max-width: 767px)").matches;
+  var reduced = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+  var clamp = function (v, a, b) { return v < a ? a : v > b ? b : v; };
+  var lerpMap = function (p, xs, ys) {
+    if (p <= xs[0]) return ys[0];
+    for (var i = 1; i < xs.length; i++) {
+      if (p <= xs[i]) { var s = xs[i] - xs[i - 1]; return s <= 0 ? ys[i] : ys[i - 1] + (ys[i] - ys[i - 1]) * ((p - xs[i - 1]) / s); }
+    }
+    return ys[ys.length - 1];
+  };
+
+  document.getElementById("filmLink").href = url("film.mp4");
+
+  // Bands: each leg's share of the scroll, by weight.
+  var total = 0; SCENES.forEach(function (s) { total += s.weight; });
+  var acc = 0;
+  SCENES.forEach(function (s) { s.start = acc / total; acc += s.weight; s.end = acc / total; });
+  var track = document.getElementById("track");
+  track.style.setProperty("--w", String(total));
+
+  function ctaMarkup() {
+    return '<div class="cta"><button type="button" class="btn btn-primary" id="cta">Request Access' +
+      '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg></button>' +
+      '<span class="note" id="ctaNote">On the live site this opens the access request form.</span></div>';
+  }
+  function copyMarkup(s) {
+    var h = "<h2>" + s.title + "</h2>";
+    if (s.body) h += "<p>" + s.body + "</p>";
+    if (s.cta) h += ctaMarkup();
+    return h;
+  }
+  function wireCta() {
+    var b = document.getElementById("cta"), n = document.getElementById("ctaNote");
+    if (b && n) b.addEventListener("click", function () { n.classList.add("show"); setTimeout(function () { n.classList.remove("show"); }, 2600); });
+  }
+
+  if (reduced) {
+    document.body.classList.add("reduced");
+    var st = document.getElementById("static");
+    SCENES.filter(function (s) { return s.title; }).forEach(function (s) {
+      var a = document.createElement("article");
+      a.innerHTML = '<img src="' + url(s.clip + (mobile ? "-mobile-poster.jpg" : "-poster.jpg")) + '" alt="" width="1920" height="1080" loading="lazy" decoding="async" style="object-position:' + (mobile ? s.mpos : s.pos) + '">' +
+        '<div class="fade" aria-hidden="true"></div><div class="copy' + (s.align === "right" ? " right" : "") + '">' + copyMarkup(s) + "</div>";
+      st.appendChild(a);
+    });
+    wireCta();
+    document.getElementById("counter").textContent = "";
+    return;
+  }
+
+  // Build the stage: one video per leg plus its chapter copy.
+  var stage = document.getElementById("stage");
+  var scrim = stage.querySelector(".scrim");
+  SCENES.forEach(function (s, i) {
+    var v = document.createElement("video");
+    v.muted = true; v.playsInline = true; v.setAttribute("playsinline", ""); v.setAttribute("muted", "");
+    v.preload = "auto"; v.disablePictureInPicture = true; v.setAttribute("aria-hidden", "true"); v.tabIndex = -1;
+    v.poster = url(s.clip + (mobile ? "-mobile-poster.jpg" : "-poster.jpg"));
+    v.src = url(s.clip + (mobile ? "-mobile.mp4" : ".mp4"));
+    v.style.objectPosition = mobile ? s.mpos : s.pos;
+    if (i === 0) v.classList.add("active");
+    stage.insertBefore(v, scrim);
+    s.video = v;
+    if (s.title) {
+      var art = document.createElement("article");
+      art.className = "chapter" + (s.align === "right" ? " right" : "");
+      art.innerHTML = copyMarkup(s);
+      if (i === 0) { art.style.opacity = "1"; art.style.visibility = "visible"; }
+      stage.appendChild(art);
+      s.chapter = art;
+    }
+  });
+  wireCta();
+
+  // Touch devices will not render seeks until each video has started once.
+  var primed = false;
+  function prime() {
+    if (primed) return; primed = true;
+    SCENES.forEach(function (s) { var p = s.video.play(); if (p && p.then) p.then(function () { s.video.pause(); }).catch(function () {}); });
+  }
+  window.addEventListener("touchstart", prime, { once: true, passive: true });
+  window.addEventListener("pointerdown", prime, { once: true, passive: true });
+
+  function seek(v, t) {
+    if (!v.duration && v.readyState < 1) { v.dataset.pending = String(t); return; }
+    var target = clamp(t, 0, (v.duration || t) - 0.001);
+    if (Math.abs(v.currentTime - target) > 1 / 48) v.currentTime = target;
+  }
+  SCENES.forEach(function (s) {
+    s.video.addEventListener("loadedmetadata", function () {
+      if (s.video.dataset.pending) { seek(s.video, parseFloat(s.video.dataset.pending)); delete s.video.dataset.pending; }
+    });
+  });
+
+  var counter = document.getElementById("counter");
+  var hint = document.getElementById("hint");
+  var activeIdx = 0, ticking = false;
+
+  function progress() {
+    var r = track.getBoundingClientRect();
+    var span = track.offsetHeight - window.innerHeight;
+    return span > 0 ? clamp(-r.top / span, 0, 1) : 0;
+  }
+
+  function apply() {
+    ticking = false;
+    var p = progress();
+    var idx = SCENES.length - 1;
+    for (var i = 0; i < SCENES.length; i++) { if (p < SCENES[i].end) { idx = i; break; } }
+    SCENES.forEach(function (s, i) {
+      var v = s.video;
+      if (i === idx) {
+        var local = (p - s.start) / (s.end - s.start);
+        if (s.hold) local = Math.min(local / (1 - s.hold), 1);
+        seek(v, local * s.duration);
+      } else if (i < idx) {
+        seek(v, s.duration);
+      } else {
+        seek(v, 0);
+      }
+      if (s.chapter) {
+        var first = s.start === 0, spanB = s.end - s.start;
+        var fadeIn = s.start + spanB * (first ? 0.02 : 0.18);
+        var fadeOut = s.cta ? s.end : s.end - spanB * 0.14;
+        var o = lerpMap(p, [s.start, fadeIn, fadeOut, s.end], [first ? 1 : 0, 1, 1, s.cta ? 1 : 0]);
+        var y = lerpMap(p, [s.start, fadeIn, fadeOut, s.end], [first ? 0 : 28, 0, 0, s.cta ? 0 : -14]);
+        s.chapter.style.opacity = o.toFixed(3);
+        s.chapter.style.transform = "translateY(" + y.toFixed(1) + "px)";
+        s.chapter.style.visibility = o > 0.04 ? "visible" : "hidden";
+      }
+    });
+    if (idx !== activeIdx) {
+      SCENES[activeIdx].video.classList.remove("active");
+      SCENES[idx].video.classList.add("active");
+      activeIdx = idx;
+    }
+    counter.textContent = (idx + 1) + " / " + SCENES.length;
+    hint.style.opacity = p < 0.02 ? "1" : "0";
+    swapPending();
+  }
+  function schedule() { if (!ticking) { ticking = true; window.requestAnimationFrame(apply); } }
+  window.addEventListener("scroll", schedule, { passive: true });
+  window.addEventListener("resize", schedule);
+  apply();
+
+  // Preload each clip fully (as a blob) so scrubbing never waits on the network.
+  // A clip that is on screen keeps its network source until it leaves the screen.
+  function swapPending() {
+    SCENES.forEach(function (s, i) {
+      if (!s.blob || i === activeIdx) return;
+      var v = s.video, t = v.currentTime, b = s.blob; s.blob = null;
+      v.src = b; v.load();
+      v.addEventListener("loadedmetadata", function () { v.currentTime = t; }, { once: true });
+    });
+  }
+  if (window.fetch && typeof URL !== "undefined" && URL.createObjectURL && location.protocol !== "file:") {
+    (function next(i) {
+      if (i >= SCENES.length) return;
+      var s = SCENES[i];
+      fetch(url(s.clip + (mobile ? "-mobile.mp4" : ".mp4")))
+        .then(function (r) { if (!r.ok) throw new Error(String(r.status)); return r.blob(); })
+        .then(function (b) { s.blob = URL.createObjectURL(b); swapPending(); })
+        .catch(function () {})
+        .then(function () { next(i + 1); });
+    })(0);
+  }
+})();
+</script>
+</body>
+</html>
